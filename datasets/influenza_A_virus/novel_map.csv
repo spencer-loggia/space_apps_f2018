@@ -1,0 +1,1666 @@
+
+YEAR_or_SEASON,StateName,VirusType,NumberOfCases
+2011,District of Columbia,Influenza A H1N1v,0
+2011,District of Columbia,Influenza A H1N2v,0
+2011,District of Columbia,Influenza A H3N2v,0
+2011,District of Columbia,Influenza A H7N2,0
+2011,Delaware,Influenza A H1N1v,0
+2011,Delaware,Influenza A H1N2v,0
+2011,Delaware,Influenza A H3N2v,0
+2011,Delaware,Influenza A H7N2,0
+2011,Georgia,Influenza A H1N1v,0
+2011,Georgia,Influenza A H1N2v,0
+2011,Georgia,Influenza A H3N2v,0
+2011,Georgia,Influenza A H7N2,0
+2011,Hawaii,Influenza A H1N1v,0
+2011,Hawaii,Influenza A H1N2v,0
+2011,Hawaii,Influenza A H3N2v,0
+2011,Hawaii,Influenza A H7N2,0
+2011,Iowa,Influenza A H1N1v,0
+2011,Iowa,Influenza A H1N2v,0
+2011,Iowa,Influenza A H3N2v,3
+2011,Iowa,Influenza A H7N2,0
+2011,Idaho,Influenza A H1N1v,0
+2011,Idaho,Influenza A H1N2v,0
+2011,Idaho,Influenza A H3N2v,0
+2011,Idaho,Influenza A H7N2,0
+2011,Illinois,Influenza A H1N1v,0
+2011,Illinois,Influenza A H1N2v,0
+2011,Illinois,Influenza A H3N2v,0
+2011,Illinois,Influenza A H7N2,0
+2011,Florida,Influenza A H1N1v,0
+2011,Florida,Influenza A H1N2v,0
+2011,Florida,Influenza A H3N2v,0
+2011,Florida,Influenza A H7N2,0
+2011,Indiana,Influenza A H1N1v,0
+2011,Indiana,Influenza A H1N2v,0
+2011,Indiana,Influenza A H3N2v,2
+2011,Indiana,Influenza A H7N2,0
+2011,Maryland,Influenza A H1N1v,0
+2011,Maryland,Influenza A H1N2v,0
+2011,Maryland,Influenza A H3N2v,0
+2011,Maryland,Influenza A H7N2,0
+2011,Maine,Influenza A H1N1v,0
+2011,Maine,Influenza A H1N2v,0
+2011,Maine,Influenza A H3N2v,2
+2011,Maine,Influenza A H7N2,0
+2011,Michigan,Influenza A H1N1v,0
+2011,Michigan,Influenza A H1N2v,0
+2011,Michigan,Influenza A H3N2v,0
+2011,Michigan,Influenza A H7N2,0
+2011,Minnesota,Influenza A H1N1v,0
+2011,Minnesota,Influenza A H1N2v,1
+2011,Minnesota,Influenza A H3N2v,0
+2011,Minnesota,Influenza A H7N2,0
+2011,Missouri,Influenza A H1N1v,0
+2011,Missouri,Influenza A H1N2v,0
+2011,Missouri,Influenza A H3N2v,0
+2011,Missouri,Influenza A H7N2,0
+2011,Mississippi,Influenza A H1N1v,0
+2011,Mississippi,Influenza A H1N2v,0
+2011,Mississippi,Influenza A H3N2v,0
+2011,Mississippi,Influenza A H7N2,0
+2011,Montana,Influenza A H1N1v,0
+2011,Montana,Influenza A H1N2v,0
+2011,Montana,Influenza A H3N2v,0
+2011,Montana,Influenza A H7N2,0
+2011,North Carolina,Influenza A H1N1v,0
+2011,North Carolina,Influenza A H1N2v,0
+2011,North Carolina,Influenza A H3N2v,0
+2011,North Carolina,Influenza A H7N2,0
+2011,North Dakota,Influenza A H1N1v,0
+2011,North Dakota,Influenza A H1N2v,0
+2011,North Dakota,Influenza A H3N2v,0
+2011,North Dakota,Influenza A H7N2,0
+2011,Nebraska,Influenza A H1N1v,0
+2011,Nebraska,Influenza A H1N2v,0
+2011,Nebraska,Influenza A H3N2v,0
+2011,Nebraska,Influenza A H7N2,0
+2011,New Hampshire,Influenza A H1N1v,0
+2011,New Hampshire,Influenza A H1N2v,0
+2011,New Hampshire,Influenza A H3N2v,0
+2011,New Hampshire,Influenza A H7N2,0
+2011,Massachusetts,Influenza A H1N2v,0
+2011,Massachusetts,Influenza A H3N2v,0
+2011,Massachusetts,Influenza A H7N2,0
+2011,New Jersey,Influenza A H1N1v,0
+2011,New Jersey,Influenza A H1N2v,0
+2011,New Jersey,Influenza A H3N2v,0
+2011,New Jersey,Influenza A H7N2,0
+2011,Kansas,Influenza A H1N1v,0
+2011,Kansas,Influenza A H1N2v,0
+2011,Kansas,Influenza A H3N2v,0
+2011,Kansas,Influenza A H7N2,0
+2011,Kentucky,Influenza A H1N1v,0
+2011,Kentucky,Influenza A H1N2v,0
+2011,Kentucky,Influenza A H3N2v,0
+2011,Kentucky,Influenza A H7N2,0
+2011,Louisiana,Influenza A H1N1v,0
+2011,Louisiana,Influenza A H1N2v,0
+2011,Louisiana,Influenza A H3N2v,0
+2011,Louisiana,Influenza A H7N2,0
+2011,Alabama,Influenza A H1N1v,0
+2011,Alabama,Influenza A H1N2v,0
+2011,Alabama,Influenza A H3N2v,0
+2011,Alabama,Influenza A H7N2,0
+2011,Arkansas,Influenza A H1N1v,0
+2011,Arkansas,Influenza A H1N2v,0
+2011,Arkansas,Influenza A H3N2v,0
+2011,Arkansas,Influenza A H7N2,0
+2011,Arizona,Influenza A H1N1v,0
+2011,Arizona,Influenza A H1N2v,0
+2011,Arizona,Influenza A H3N2v,0
+2011,Arizona,Influenza A H7N2,0
+2011,California,Influenza A H1N1v,0
+2011,California,Influenza A H1N2v,0
+2011,California,Influenza A H3N2v,0
+2011,California,Influenza A H7N2,0
+2011,Colorado,Influenza A H1N1v,0
+2011,Colorado,Influenza A H1N2v,0
+2011,Colorado,Influenza A H3N2v,0
+2011,Colorado,Influenza A H7N2,0
+2011,Massachusetts,Influenza A H1N1v,0
+2011,Connecticut,Influenza A H1N1v,0
+2011,Connecticut,Influenza A H1N2v,0
+2011,Connecticut,Influenza A H3N2v,0
+2011,Connecticut,Influenza A H7N2,0
+2011,New Mexico,Influenza A H1N1v,0
+2011,New Mexico,Influenza A H1N2v,0
+2011,New Mexico,Influenza A H3N2v,0
+2011,New Mexico,Influenza A H7N2,0
+2011,Nevada,Influenza A H1N1v,0
+2011,Nevada,Influenza A H1N2v,0
+2011,Nevada,Influenza A H3N2v,0
+2011,Nevada,Influenza A H7N2,0
+2011,New York,Influenza A H1N1v,0
+2011,New York,Influenza A H1N2v,0
+2011,New York,Influenza A H3N2v,0
+2011,New York,Influenza A H7N2,0
+2011,Ohio,Influenza A H1N1v,0
+2011,Ohio,Influenza A H1N2v,0
+2011,Ohio,Influenza A H3N2v,0
+2011,Ohio,Influenza A H7N2,0
+2011,Oklahoma,Influenza A H1N1v,0
+2011,Oklahoma,Influenza A H1N2v,0
+2011,Oklahoma,Influenza A H3N2v,0
+2011,Oklahoma,Influenza A H7N2,0
+2011,Oregon,Influenza A H1N1v,0
+2011,Oregon,Influenza A H1N2v,0
+2011,Oregon,Influenza A H3N2v,0
+2011,Oregon,Influenza A H7N2,0
+2011,Pennsylvania,Influenza A H1N1v,0
+2011,Pennsylvania,Influenza A H1N2v,0
+2011,Pennsylvania,Influenza A H3N2v,3
+2011,Pennsylvania,Influenza A H7N2,0
+2011,Puerto Rico,Influenza A H1N1v,0
+2011,Puerto Rico,Influenza A H1N2v,0
+2011,Puerto Rico,Influenza A H3N2v,0
+2011,Puerto Rico,Influenza A H7N2,0
+2011,Rhode Island,Influenza A H1N1v,0
+2011,Rhode Island,Influenza A H1N2v,0
+2011,Rhode Island,Influenza A H3N2v,0
+2011,Rhode Island,Influenza A H7N2,0
+2011,South Carolina,Influenza A H1N1v,0
+2011,South Carolina,Influenza A H1N2v,0
+2011,South Carolina,Influenza A H3N2v,0
+2011,South Carolina,Influenza A H7N2,0
+2011,South Dakota,Influenza A H1N1v,0
+2011,South Dakota,Influenza A H1N2v,0
+2011,South Dakota,Influenza A H3N2v,0
+2011,South Dakota,Influenza A H7N2,0
+2011,Tennessee,Influenza A H1N1v,0
+2011,Tennessee,Influenza A H1N2v,0
+2011,Tennessee,Influenza A H3N2v,0
+2011,Tennessee,Influenza A H7N2,0
+2011,Texas,Influenza A H1N1v,0
+2011,Texas,Influenza A H1N2v,0
+2011,Texas,Influenza A H3N2v,0
+2011,Texas,Influenza A H7N2,0
+2011,Utah,Influenza A H1N1v,0
+2011,Utah,Influenza A H1N2v,0
+2011,Utah,Influenza A H3N2v,0
+2011,Utah,Influenza A H7N2,0
+2011,Virginia,Influenza A H1N1v,0
+2011,Virginia,Influenza A H1N2v,0
+2011,Virginia,Influenza A H3N2v,0
+2011,Virginia,Influenza A H7N2,0
+2011,Vermont,Influenza A H1N1v,0
+2011,Vermont,Influenza A H1N2v,0
+2011,Vermont,Influenza A H3N2v,0
+2011,Vermont,Influenza A H7N2,0
+2011,Washington,Influenza A H1N1v,0
+2011,Washington,Influenza A H1N2v,0
+2011,Washington,Influenza A H3N2v,0
+2011,Washington,Influenza A H7N2,0
+2011,Wisconsin,Influenza A H1N1v,1
+2011,Wisconsin,Influenza A H1N2v,0
+2011,Wisconsin,Influenza A H3N2v,0
+2011,Wisconsin,Influenza A H7N2,0
+2011,West Virginia,Influenza A H1N1v,0
+2011,West Virginia,Influenza A H1N2v,0
+2011,West Virginia,Influenza A H3N2v,2
+2011,West Virginia,Influenza A H7N2,0
+2011,Wyoming,Influenza A H1N1v,0
+2011,Wyoming,Influenza A H1N2v,0
+2011,Wyoming,Influenza A H3N2v,0
+2011,Wyoming,Influenza A H7N2,0
+2011,Alaska,Influenza A H1N1v,0
+2011,Alaska,Influenza A H1N2v,0
+2011,Alaska,Influenza A H3N2v,0
+2011,Alaska,Influenza A H7N2,0
+2012,Alaska,Influenza A H1N1v,0
+2012,Alaska,Influenza A H1N2v,0
+2012,Alaska,Influenza A H3N2v,0
+2012,Alaska,Influenza A H7N2,0
+2012,Wyoming,Influenza A H1N1v,0
+2012,Wyoming,Influenza A H1N2v,0
+2012,Wyoming,Influenza A H3N2v,0
+2012,Wyoming,Influenza A H7N2,0
+2012,West Virginia,Influenza A H1N1v,0
+2012,West Virginia,Influenza A H1N2v,0
+2012,West Virginia,Influenza A H3N2v,3
+2012,West Virginia,Influenza A H7N2,0
+2012,Wisconsin,Influenza A H1N1v,0
+2012,Wisconsin,Influenza A H1N2v,0
+2012,Wisconsin,Influenza A H3N2v,20
+2012,Wisconsin,Influenza A H7N2,0
+2012,Washington,Influenza A H1N1v,0
+2012,Washington,Influenza A H1N2v,0
+2012,Washington,Influenza A H3N2v,0
+2012,Washington,Influenza A H7N2,0
+2012,Vermont,Influenza A H1N1v,0
+2012,Vermont,Influenza A H1N2v,0
+2012,Vermont,Influenza A H3N2v,0
+2012,Vermont,Influenza A H7N2,0
+2012,Virginia,Influenza A H1N1v,0
+2012,Virginia,Influenza A H1N2v,0
+2012,Virginia,Influenza A H3N2v,0
+2012,Virginia,Influenza A H7N2,0
+2012,Utah,Influenza A H1N1v,0
+2012,Utah,Influenza A H1N2v,0
+2012,Utah,Influenza A H3N2v,1
+2012,Utah,Influenza A H7N2,0
+2012,Texas,Influenza A H1N1v,0
+2012,Texas,Influenza A H1N2v,0
+2012,Texas,Influenza A H3N2v,0
+2012,Texas,Influenza A H7N2,0
+2012,Tennessee,Influenza A H1N1v,0
+2012,Tennessee,Influenza A H1N2v,0
+2012,Tennessee,Influenza A H3N2v,0
+2012,Tennessee,Influenza A H7N2,0
+2012,South Dakota,Influenza A H1N1v,0
+2012,South Dakota,Influenza A H1N2v,0
+2012,South Dakota,Influenza A H3N2v,0
+2012,South Dakota,Influenza A H7N2,0
+2012,South Carolina,Influenza A H1N1v,0
+2012,South Carolina,Influenza A H1N2v,0
+2012,South Carolina,Influenza A H3N2v,0
+2012,South Carolina,Influenza A H7N2,0
+2012,Rhode Island,Influenza A H1N1v,0
+2012,Rhode Island,Influenza A H1N2v,0
+2012,Rhode Island,Influenza A H3N2v,0
+2012,Rhode Island,Influenza A H7N2,0
+2012,Puerto Rico,Influenza A H1N1v,0
+2012,Puerto Rico,Influenza A H1N2v,0
+2012,Puerto Rico,Influenza A H3N2v,0
+2012,Puerto Rico,Influenza A H7N2,0
+2012,Pennsylvania,Influenza A H1N1v,0
+2012,Pennsylvania,Influenza A H1N2v,0
+2012,Pennsylvania,Influenza A H3N2v,11
+2012,Pennsylvania,Influenza A H7N2,0
+2012,Oregon,Influenza A H1N1v,0
+2012,Oregon,Influenza A H1N2v,0
+2012,Oregon,Influenza A H3N2v,0
+2012,Oregon,Influenza A H7N2,0
+2012,Oklahoma,Influenza A H1N1v,0
+2012,Oklahoma,Influenza A H1N2v,0
+2012,Oklahoma,Influenza A H3N2v,0
+2012,Oklahoma,Influenza A H7N2,0
+2012,Ohio,Influenza A H1N1v,0
+2012,Ohio,Influenza A H1N2v,0
+2012,Ohio,Influenza A H3N2v,107
+2012,Ohio,Influenza A H7N2,0
+2012,New York,Influenza A H1N1v,0
+2012,New York,Influenza A H1N2v,0
+2012,New York,Influenza A H3N2v,0
+2012,New York,Influenza A H7N2,0
+2012,Nevada,Influenza A H1N1v,0
+2012,Nevada,Influenza A H1N2v,0
+2012,Nevada,Influenza A H3N2v,0
+2012,Nevada,Influenza A H7N2,0
+2012,New Mexico,Influenza A H1N1v,0
+2012,New Mexico,Influenza A H1N2v,0
+2012,New Mexico,Influenza A H3N2v,0
+2012,New Mexico,Influenza A H7N2,0
+2012,Connecticut,Influenza A H1N1v,0
+2012,Connecticut,Influenza A H1N2v,0
+2012,Connecticut,Influenza A H3N2v,0
+2012,Connecticut,Influenza A H7N2,0
+2012,Colorado,Influenza A H1N1v,0
+2012,Colorado,Influenza A H1N2v,0
+2012,Colorado,Influenza A H3N2v,0
+2012,Colorado,Influenza A H7N2,0
+2012,California,Influenza A H1N1v,0
+2012,California,Influenza A H1N2v,0
+2012,California,Influenza A H3N2v,0
+2012,California,Influenza A H7N2,0
+2012,Arizona,Influenza A H1N1v,0
+2012,Arizona,Influenza A H1N2v,0
+2012,Arizona,Influenza A H3N2v,0
+2012,Arizona,Influenza A H7N2,0
+2012,Arkansas,Influenza A H1N1v,0
+2012,Arkansas,Influenza A H1N2v,0
+2012,Arkansas,Influenza A H3N2v,0
+2012,Arkansas,Influenza A H7N2,0
+2012,Alabama,Influenza A H1N1v,0
+2012,Alabama,Influenza A H1N2v,0
+2012,Alabama,Influenza A H3N2v,0
+2012,Alabama,Influenza A H7N2,0
+2012,Louisiana,Influenza A H1N1v,0
+2012,Louisiana,Influenza A H1N2v,0
+2012,Louisiana,Influenza A H3N2v,0
+2012,Louisiana,Influenza A H7N2,0
+2012,Kentucky,Influenza A H1N1v,0
+2012,Kentucky,Influenza A H1N2v,0
+2012,Kentucky,Influenza A H3N2v,0
+2012,Kentucky,Influenza A H7N2,0
+2012,Kansas,Influenza A H1N1v,0
+2012,Kansas,Influenza A H1N2v,0
+2012,Kansas,Influenza A H3N2v,0
+2012,Kansas,Influenza A H7N2,0
+2012,New Jersey,Influenza A H1N1v,0
+2012,New Jersey,Influenza A H1N2v,0
+2012,New Jersey,Influenza A H3N2v,0
+2012,New Jersey,Influenza A H7N2,0
+2012,Massachusetts,Influenza A H1N1v,0
+2012,Massachusetts,Influenza A H1N2v,0
+2012,Massachusetts,Influenza A H3N2v,0
+2012,Massachusetts,Influenza A H7N2,0
+2012,New Hampshire,Influenza A H1N1v,0
+2012,New Hampshire,Influenza A H1N2v,0
+2012,New Hampshire,Influenza A H3N2v,0
+2012,New Hampshire,Influenza A H7N2,0
+2012,Nebraska,Influenza A H1N1v,0
+2012,Nebraska,Influenza A H1N2v,0
+2012,Nebraska,Influenza A H3N2v,0
+2012,Nebraska,Influenza A H7N2,0
+2012,North Dakota,Influenza A H1N1v,0
+2012,North Dakota,Influenza A H1N2v,0
+2012,North Dakota,Influenza A H3N2v,0
+2012,North Dakota,Influenza A H7N2,0
+2012,North Carolina,Influenza A H1N1v,0
+2012,North Carolina,Influenza A H1N2v,0
+2012,North Carolina,Influenza A H3N2v,0
+2012,North Carolina,Influenza A H7N2,0
+2012,Montana,Influenza A H1N1v,0
+2012,Montana,Influenza A H1N2v,0
+2012,Montana,Influenza A H3N2v,0
+2012,Montana,Influenza A H7N2,0
+2012,Mississippi,Influenza A H1N1v,0
+2012,Mississippi,Influenza A H1N2v,0
+2012,Mississippi,Influenza A H3N2v,0
+2012,Mississippi,Influenza A H7N2,0
+2012,Missouri,Influenza A H1N1v,1
+2012,Missouri,Influenza A H1N2v,0
+2012,Missouri,Influenza A H3N2v,0
+2012,Missouri,Influenza A H7N2,0
+2012,Minnesota,Influenza A H1N1v,0
+2012,Minnesota,Influenza A H1N2v,3
+2012,Minnesota,Influenza A H3N2v,5
+2012,Minnesota,Influenza A H7N2,0
+2012,Michigan,Influenza A H1N1v,0
+2012,Michigan,Influenza A H1N2v,0
+2012,Michigan,Influenza A H3N2v,6
+2012,Michigan,Influenza A H7N2,0
+2012,Maine,Influenza A H1N1v,0
+2012,Maine,Influenza A H1N2v,0
+2012,Maine,Influenza A H3N2v,0
+2012,Maine,Influenza A H7N2,0
+2012,Maryland,Influenza A H1N1v,0
+2012,Maryland,Influenza A H1N2v,0
+2012,Maryland,Influenza A H3N2v,12
+2012,Maryland,Influenza A H7N2,0
+2012,Indiana,Influenza A H1N1v,0
+2012,Indiana,Influenza A H1N2v,0
+2012,Indiana,Influenza A H3N2v,138
+2012,Indiana,Influenza A H7N2,0
+2012,Florida,Influenza A H1N1v,0
+2012,Florida,Influenza A H1N2v,0
+2012,Florida,Influenza A H3N2v,0
+2012,Florida,Influenza A H7N2,0
+2012,Illinois,Influenza A H1N1v,0
+2012,Illinois,Influenza A H1N2v,0
+2012,Illinois,Influenza A H3N2v,4
+2012,Illinois,Influenza A H7N2,0
+2012,Idaho,Influenza A H1N1v,0
+2012,Idaho,Influenza A H1N2v,0
+2012,Idaho,Influenza A H3N2v,0
+2012,Idaho,Influenza A H7N2,0
+2012,Iowa,Influenza A H1N1v,0
+2012,Iowa,Influenza A H1N2v,0
+2012,Iowa,Influenza A H3N2v,1
+2012,Iowa,Influenza A H7N2,0
+2012,Hawaii,Influenza A H1N1v,0
+2012,Hawaii,Influenza A H1N2v,0
+2012,Hawaii,Influenza A H3N2v,1
+2012,Hawaii,Influenza A H7N2,0
+2012,Georgia,Influenza A H1N1v,0
+2012,Georgia,Influenza A H1N2v,0
+2012,Georgia,Influenza A H3N2v,0
+2012,Georgia,Influenza A H7N2,0
+2012,Delaware,Influenza A H1N1v,0
+2012,Delaware,Influenza A H1N2v,0
+2012,Delaware,Influenza A H3N2v,0
+2012,Delaware,Influenza A H7N2,0
+2012,District of Columbia,Influenza A H1N1v,0
+2012,District of Columbia,Influenza A H1N2v,0
+2012,District of Columbia,Influenza A H3N2v,0
+2012,District of Columbia,Influenza A H7N2,0
+2013,District of Columbia,Influenza A H1N1v,0
+2013,District of Columbia,Influenza A H1N2v,0
+2013,District of Columbia,Influenza A H3N2v,0
+2013,District of Columbia,Influenza A H7N2,0
+2013,Delaware,Influenza A H1N1v,0
+2013,Delaware,Influenza A H1N2v,0
+2013,Delaware,Influenza A H3N2v,0
+2013,Delaware,Influenza A H7N2,0
+2013,Georgia,Influenza A H1N1v,0
+2013,Georgia,Influenza A H1N2v,0
+2013,Georgia,Influenza A H3N2v,0
+2013,Georgia,Influenza A H7N2,0
+2013,Hawaii,Influenza A H1N1v,0
+2013,Hawaii,Influenza A H1N2v,0
+2013,Hawaii,Influenza A H3N2v,0
+2013,Hawaii,Influenza A H7N2,0
+2013,Iowa,Influenza A H1N1v,0
+2013,Iowa,Influenza A H1N2v,0
+2013,Iowa,Influenza A H3N2v,1
+2013,Iowa,Influenza A H7N2,0
+2013,Idaho,Influenza A H1N1v,0
+2013,Idaho,Influenza A H1N2v,0
+2013,Idaho,Influenza A H3N2v,0
+2013,Idaho,Influenza A H7N2,0
+2013,Illinois,Influenza A H1N1v,0
+2013,Illinois,Influenza A H1N2v,0
+2013,Illinois,Influenza A H3N2v,1
+2013,Illinois,Influenza A H7N2,0
+2013,Florida,Influenza A H1N1v,0
+2013,Florida,Influenza A H1N2v,0
+2013,Florida,Influenza A H3N2v,0
+2013,Florida,Influenza A H7N2,0
+2013,Indiana,Influenza A H1N1v,0
+2013,Indiana,Influenza A H1N2v,0
+2013,Indiana,Influenza A H3N2v,14
+2013,Indiana,Influenza A H7N2,0
+2013,Maryland,Influenza A H1N1v,0
+2013,Maryland,Influenza A H1N2v,0
+2013,Maryland,Influenza A H3N2v,0
+2013,Maryland,Influenza A H7N2,0
+2013,Maine,Influenza A H1N1v,0
+2013,Maine,Influenza A H1N2v,0
+2013,Maine,Influenza A H3N2v,0
+2013,Maine,Influenza A H7N2,0
+2013,Michigan,Influenza A H1N1v,0
+2013,Michigan,Influenza A H1N2v,0
+2013,Michigan,Influenza A H3N2v,2
+2013,Michigan,Influenza A H7N2,0
+2013,Minnesota,Influenza A H1N1v,0
+2013,Minnesota,Influenza A H1N2v,0
+2013,Minnesota,Influenza A H3N2v,0
+2013,Minnesota,Influenza A H7N2,0
+2013,Missouri,Influenza A H1N1v,0
+2013,Missouri,Influenza A H1N2v,0
+2013,Missouri,Influenza A H3N2v,0
+2013,Missouri,Influenza A H7N2,0
+2013,Mississippi,Influenza A H1N1v,0
+2013,Mississippi,Influenza A H1N2v,0
+2013,Mississippi,Influenza A H3N2v,0
+2013,Mississippi,Influenza A H7N2,0
+2013,Montana,Influenza A H1N1v,0
+2013,Montana,Influenza A H1N2v,0
+2013,Montana,Influenza A H3N2v,0
+2013,Montana,Influenza A H7N2,0
+2013,North Carolina,Influenza A H1N1v,0
+2013,North Carolina,Influenza A H1N2v,0
+2013,North Carolina,Influenza A H3N2v,0
+2013,North Carolina,Influenza A H7N2,0
+2013,North Dakota,Influenza A H1N1v,0
+2013,North Dakota,Influenza A H1N2v,0
+2013,North Dakota,Influenza A H3N2v,0
+2013,North Dakota,Influenza A H7N2,0
+2013,Nebraska,Influenza A H1N1v,0
+2013,Nebraska,Influenza A H1N2v,0
+2013,Nebraska,Influenza A H3N2v,0
+2013,Nebraska,Influenza A H7N2,0
+2013,New Hampshire,Influenza A H1N1v,0
+2013,New Hampshire,Influenza A H1N2v,0
+2013,New Hampshire,Influenza A H3N2v,0
+2013,New Hampshire,Influenza A H7N2,0
+2013,Massachusetts,Influenza A H1N1v,0
+2013,Massachusetts,Influenza A H1N2v,0
+2013,Massachusetts,Influenza A H3N2v,0
+2013,Massachusetts,Influenza A H7N2,0
+2013,New Jersey,Influenza A H1N1v,0
+2013,New Jersey,Influenza A H1N2v,0
+2013,New Jersey,Influenza A H3N2v,0
+2013,New Jersey,Influenza A H7N2,0
+2013,Kansas,Influenza A H1N1v,0
+2013,Kansas,Influenza A H1N2v,0
+2013,Kansas,Influenza A H3N2v,0
+2013,Kansas,Influenza A H7N2,0
+2013,Kentucky,Influenza A H1N1v,0
+2013,Kentucky,Influenza A H1N2v,0
+2013,Kentucky,Influenza A H3N2v,0
+2013,Kentucky,Influenza A H7N2,0
+2013,Louisiana,Influenza A H1N1v,0
+2013,Louisiana,Influenza A H1N2v,0
+2013,Louisiana,Influenza A H3N2v,0
+2013,Louisiana,Influenza A H7N2,0
+2013,Alabama,Influenza A H1N1v,0
+2013,Alabama,Influenza A H1N2v,0
+2013,Alabama,Influenza A H3N2v,0
+2013,Alabama,Influenza A H7N2,0
+2013,Arkansas,Influenza A H1N1v,2
+2013,Arkansas,Influenza A H1N2v,0
+2013,Arkansas,Influenza A H3N2v,0
+2013,Arkansas,Influenza A H7N2,0
+2013,Arizona,Influenza A H1N1v,0
+2013,Arizona,Influenza A H1N2v,0
+2013,Arizona,Influenza A H3N2v,0
+2013,Arizona,Influenza A H7N2,0
+2013,California,Influenza A H1N1v,0
+2013,California,Influenza A H1N2v,0
+2013,California,Influenza A H3N2v,0
+2013,California,Influenza A H7N2,0
+2013,Colorado,Influenza A H1N1v,0
+2013,Colorado,Influenza A H1N2v,0
+2013,Colorado,Influenza A H3N2v,0
+2013,Colorado,Influenza A H7N2,0
+2013,Connecticut,Influenza A H1N1v,0
+2013,Connecticut,Influenza A H1N2v,0
+2013,Connecticut,Influenza A H3N2v,0
+2013,Connecticut,Influenza A H7N2,0
+2013,New Mexico,Influenza A H1N1v,0
+2013,New Mexico,Influenza A H1N2v,0
+2013,New Mexico,Influenza A H3N2v,0
+2013,New Mexico,Influenza A H7N2,0
+2013,Nevada,Influenza A H1N1v,0
+2013,Nevada,Influenza A H1N2v,0
+2013,Nevada,Influenza A H3N2v,0
+2013,Nevada,Influenza A H7N2,0
+2013,New York,Influenza A H1N1v,0
+2013,New York,Influenza A H1N2v,0
+2013,New York,Influenza A H3N2v,0
+2013,New York,Influenza A H7N2,0
+2013,Ohio,Influenza A H1N1v,0
+2013,Ohio,Influenza A H1N2v,0
+2013,Ohio,Influenza A H3N2v,1
+2013,Ohio,Influenza A H7N2,0
+2013,Oklahoma,Influenza A H1N1v,0
+2013,Oklahoma,Influenza A H1N2v,0
+2013,Oklahoma,Influenza A H3N2v,0
+2013,Oklahoma,Influenza A H7N2,0
+2013,Oregon,Influenza A H1N1v,0
+2013,Oregon,Influenza A H1N2v,0
+2013,Oregon,Influenza A H3N2v,0
+2013,Oregon,Influenza A H7N2,0
+2013,Pennsylvania,Influenza A H1N1v,0
+2013,Pennsylvania,Influenza A H1N2v,0
+2013,Pennsylvania,Influenza A H3N2v,0
+2013,Pennsylvania,Influenza A H7N2,0
+2013,Puerto Rico,Influenza A H1N1v,0
+2013,Puerto Rico,Influenza A H1N2v,0
+2013,Puerto Rico,Influenza A H3N2v,0
+2013,Puerto Rico,Influenza A H7N2,0
+2013,Rhode Island,Influenza A H1N1v,0
+2013,Rhode Island,Influenza A H1N2v,0
+2013,Rhode Island,Influenza A H3N2v,0
+2013,Rhode Island,Influenza A H7N2,0
+2013,South Carolina,Influenza A H1N1v,0
+2013,South Carolina,Influenza A H1N2v,0
+2013,South Carolina,Influenza A H3N2v,0
+2013,South Carolina,Influenza A H7N2,0
+2013,South Dakota,Influenza A H1N1v,0
+2013,South Dakota,Influenza A H1N2v,0
+2013,South Dakota,Influenza A H3N2v,0
+2013,South Dakota,Influenza A H7N2,0
+2013,Tennessee,Influenza A H1N1v,0
+2013,Tennessee,Influenza A H1N2v,0
+2013,Tennessee,Influenza A H3N2v,0
+2013,Tennessee,Influenza A H7N2,0
+2013,Texas,Influenza A H1N1v,0
+2013,Texas,Influenza A H1N2v,0
+2013,Texas,Influenza A H3N2v,0
+2013,Texas,Influenza A H7N2,0
+2013,Utah,Influenza A H1N1v,0
+2013,Utah,Influenza A H1N2v,0
+2013,Utah,Influenza A H3N2v,0
+2013,Utah,Influenza A H7N2,0
+2013,Virginia,Influenza A H1N1v,0
+2013,Virginia,Influenza A H1N2v,0
+2013,Virginia,Influenza A H3N2v,0
+2013,Virginia,Influenza A H7N2,0
+2013,Vermont,Influenza A H1N1v,0
+2013,Vermont,Influenza A H1N2v,0
+2013,Vermont,Influenza A H3N2v,0
+2013,Vermont,Influenza A H7N2,0
+2013,Washington,Influenza A H1N1v,0
+2013,Washington,Influenza A H1N2v,0
+2013,Washington,Influenza A H3N2v,0
+2013,Washington,Influenza A H7N2,0
+2013,Wisconsin,Influenza A H1N1v,0
+2013,Wisconsin,Influenza A H1N2v,0
+2013,Wisconsin,Influenza A H3N2v,0
+2013,Wisconsin,Influenza A H7N2,0
+2013,West Virginia,Influenza A H1N1v,0
+2013,West Virginia,Influenza A H1N2v,0
+2013,West Virginia,Influenza A H3N2v,0
+2013,West Virginia,Influenza A H7N2,0
+2013,Wyoming,Influenza A H1N1v,0
+2013,Wyoming,Influenza A H1N2v,0
+2013,Wyoming,Influenza A H3N2v,0
+2013,Wyoming,Influenza A H7N2,0
+2013,Alaska,Influenza A H1N1v,0
+2013,Alaska,Influenza A H1N2v,0
+2013,Alaska,Influenza A H3N2v,0
+2013,Alaska,Influenza A H7N2,0
+2014,Alaska,Influenza A H1N1v,0
+2014,Alaska,Influenza A H1N2v,0
+2014,Alaska,Influenza A H3N2v,0
+2014,Alaska,Influenza A H7N2,0
+2014,Wyoming,Influenza A H1N1v,0
+2014,Wyoming,Influenza A H1N2v,0
+2014,Wyoming,Influenza A H3N2v,0
+2014,Wyoming,Influenza A H7N2,0
+2014,West Virginia,Influenza A H1N1v,0
+2014,West Virginia,Influenza A H1N2v,0
+2014,West Virginia,Influenza A H3N2v,0
+2014,West Virginia,Influenza A H7N2,0
+2014,Wisconsin,Influenza A H1N1v,0
+2014,Wisconsin,Influenza A H1N2v,0
+2014,Wisconsin,Influenza A H3N2v,1
+2014,Wisconsin,Influenza A H7N2,0
+2014,Washington,Influenza A H1N1v,0
+2014,Washington,Influenza A H1N2v,0
+2014,Washington,Influenza A H3N2v,0
+2014,Washington,Influenza A H7N2,0
+2014,Vermont,Influenza A H1N1v,0
+2014,Vermont,Influenza A H1N2v,0
+2014,Vermont,Influenza A H3N2v,0
+2014,Vermont,Influenza A H7N2,0
+2014,Virginia,Influenza A H1N1v,0
+2014,Virginia,Influenza A H1N2v,0
+2014,Virginia,Influenza A H3N2v,0
+2014,Virginia,Influenza A H7N2,0
+2014,Utah,Influenza A H1N1v,0
+2014,Utah,Influenza A H1N2v,0
+2014,Utah,Influenza A H3N2v,0
+2014,Utah,Influenza A H7N2,0
+2014,Texas,Influenza A H1N1v,0
+2014,Texas,Influenza A H1N2v,0
+2014,Texas,Influenza A H3N2v,0
+2014,Texas,Influenza A H7N2,0
+2014,Tennessee,Influenza A H1N1v,0
+2014,Tennessee,Influenza A H1N2v,0
+2014,Tennessee,Influenza A H3N2v,0
+2014,Tennessee,Influenza A H7N2,0
+2014,South Dakota,Influenza A H1N1v,0
+2014,South Dakota,Influenza A H1N2v,0
+2014,South Dakota,Influenza A H3N2v,0
+2014,South Dakota,Influenza A H7N2,0
+2014,South Carolina,Influenza A H1N1v,0
+2014,South Carolina,Influenza A H1N2v,0
+2014,South Carolina,Influenza A H3N2v,0
+2014,South Carolina,Influenza A H7N2,0
+2014,Rhode Island,Influenza A H1N1v,0
+2014,Rhode Island,Influenza A H1N2v,0
+2014,Rhode Island,Influenza A H3N2v,0
+2014,Rhode Island,Influenza A H7N2,0
+2014,Puerto Rico,Influenza A H1N1v,0
+2014,Puerto Rico,Influenza A H1N2v,0
+2014,Puerto Rico,Influenza A H3N2v,0
+2014,Puerto Rico,Influenza A H7N2,0
+2014,Pennsylvania,Influenza A H1N1v,0
+2014,Pennsylvania,Influenza A H1N2v,0
+2014,Pennsylvania,Influenza A H3N2v,0
+2014,Pennsylvania,Influenza A H7N2,0
+2014,Oregon,Influenza A H1N1v,0
+2014,Oregon,Influenza A H1N2v,0
+2014,Oregon,Influenza A H3N2v,0
+2014,Oregon,Influenza A H7N2,0
+2014,Oklahoma,Influenza A H1N1v,0
+2014,Oklahoma,Influenza A H1N2v,0
+2014,Oklahoma,Influenza A H3N2v,0
+2014,Oklahoma,Influenza A H7N2,0
+2014,Ohio,Influenza A H1N1v,0
+2014,Ohio,Influenza A H1N2v,0
+2014,Ohio,Influenza A H3N2v,2
+2014,Ohio,Influenza A H7N2,0
+2014,New York,Influenza A H1N1v,0
+2014,New York,Influenza A H1N2v,0
+2014,New York,Influenza A H3N2v,0
+2014,New York,Influenza A H7N2,0
+2014,Nevada,Influenza A H1N1v,0
+2014,Nevada,Influenza A H1N2v,0
+2014,Nevada,Influenza A H3N2v,0
+2014,Nevada,Influenza A H7N2,0
+2014,New Mexico,Influenza A H1N1v,0
+2014,New Mexico,Influenza A H1N2v,0
+2014,New Mexico,Influenza A H3N2v,0
+2014,New Mexico,Influenza A H7N2,0
+2014,Connecticut,Influenza A H1N1v,0
+2014,Connecticut,Influenza A H1N2v,0
+2014,Connecticut,Influenza A H3N2v,0
+2014,Connecticut,Influenza A H7N2,0
+2014,Colorado,Influenza A H1N1v,0
+2014,Colorado,Influenza A H1N2v,0
+2014,Colorado,Influenza A H3N2v,0
+2014,Colorado,Influenza A H7N2,0
+2014,California,Influenza A H1N1v,0
+2014,California,Influenza A H1N2v,0
+2014,California,Influenza A H3N2v,0
+2014,California,Influenza A H7N2,0
+2014,Arizona,Influenza A H1N1v,0
+2014,Arizona,Influenza A H1N2v,0
+2014,Arizona,Influenza A H3N2v,0
+2014,Arizona,Influenza A H7N2,0
+2014,Arkansas,Influenza A H1N1v,0
+2014,Arkansas,Influenza A H1N2v,0
+2014,Arkansas,Influenza A H3N2v,0
+2014,Arkansas,Influenza A H7N2,0
+2014,Alabama,Influenza A H1N1v,0
+2014,Alabama,Influenza A H1N2v,0
+2014,Alabama,Influenza A H3N2v,0
+2014,Alabama,Influenza A H7N2,0
+2014,Louisiana,Influenza A H1N1v,0
+2014,Louisiana,Influenza A H1N2v,0
+2014,Louisiana,Influenza A H3N2v,0
+2014,Louisiana,Influenza A H7N2,0
+2014,Kentucky,Influenza A H1N1v,0
+2014,Kentucky,Influenza A H1N2v,0
+2014,Kentucky,Influenza A H3N2v,0
+2014,Kentucky,Influenza A H7N2,0
+2014,Kansas,Influenza A H1N1v,0
+2014,Kansas,Influenza A H1N2v,0
+2014,Kansas,Influenza A H3N2v,0
+2014,Kansas,Influenza A H7N2,0
+2014,New Jersey,Influenza A H1N1v,0
+2014,New Jersey,Influenza A H1N2v,0
+2014,New Jersey,Influenza A H3N2v,0
+2014,New Jersey,Influenza A H7N2,0
+2014,Massachusetts,Influenza A H1N1v,0
+2014,Massachusetts,Influenza A H1N2v,0
+2014,Massachusetts,Influenza A H3N2v,0
+2014,Massachusetts,Influenza A H7N2,0
+2014,New Hampshire,Influenza A H1N1v,0
+2014,New Hampshire,Influenza A H1N2v,0
+2014,New Hampshire,Influenza A H3N2v,0
+2014,New Hampshire,Influenza A H7N2,0
+2014,Nebraska,Influenza A H1N1v,0
+2014,Nebraska,Influenza A H1N2v,0
+2014,Nebraska,Influenza A H3N2v,0
+2014,Nebraska,Influenza A H7N2,0
+2014,North Dakota,Influenza A H1N1v,0
+2014,North Dakota,Influenza A H1N2v,0
+2014,North Dakota,Influenza A H3N2v,0
+2014,North Dakota,Influenza A H7N2,0
+2014,North Carolina,Influenza A H1N1v,0
+2014,North Carolina,Influenza A H1N2v,0
+2014,North Carolina,Influenza A H3N2v,0
+2014,North Carolina,Influenza A H7N2,0
+2014,Montana,Influenza A H1N1v,0
+2014,Montana,Influenza A H1N2v,0
+2014,Montana,Influenza A H3N2v,0
+2014,Montana,Influenza A H7N2,0
+2014,Mississippi,Influenza A H1N1v,0
+2014,Mississippi,Influenza A H1N2v,0
+2014,Mississippi,Influenza A H3N2v,0
+2014,Mississippi,Influenza A H7N2,0
+2014,Missouri,Influenza A H1N1v,0
+2014,Missouri,Influenza A H1N2v,0
+2014,Missouri,Influenza A H3N2v,0
+2014,Missouri,Influenza A H7N2,0
+2014,Minnesota,Influenza A H1N1v,1
+2014,Minnesota,Influenza A H1N2v,0
+2014,Minnesota,Influenza A H3N2v,0
+2014,Minnesota,Influenza A H7N2,0
+2014,Michigan,Influenza A H1N1v,0
+2014,Michigan,Influenza A H1N2v,0
+2014,Michigan,Influenza A H3N2v,0
+2014,Michigan,Influenza A H7N2,0
+2014,Maine,Influenza A H1N1v,0
+2014,Maine,Influenza A H1N2v,0
+2014,Maine,Influenza A H3N2v,0
+2014,Maine,Influenza A H7N2,0
+2014,Maryland,Influenza A H1N1v,0
+2014,Maryland,Influenza A H1N2v,0
+2014,Maryland,Influenza A H3N2v,0
+2014,Maryland,Influenza A H7N2,0
+2014,Indiana,Influenza A H1N1v,0
+2014,Indiana,Influenza A H1N2v,0
+2014,Indiana,Influenza A H3N2v,0
+2014,Indiana,Influenza A H7N2,0
+2014,Florida,Influenza A H1N1v,0
+2014,Florida,Influenza A H1N2v,0
+2014,Florida,Influenza A H3N2v,0
+2014,Florida,Influenza A H7N2,0
+2014,Illinois,Influenza A H1N1v,0
+2014,Illinois,Influenza A H1N2v,0
+2014,Illinois,Influenza A H3N2v,0
+2014,Illinois,Influenza A H7N2,0
+2014,Idaho,Influenza A H1N1v,0
+2014,Idaho,Influenza A H1N2v,0
+2014,Idaho,Influenza A H3N2v,0
+2014,Idaho,Influenza A H7N2,0
+2014,Iowa,Influenza A H1N1v,0
+2014,Iowa,Influenza A H1N2v,0
+2014,Iowa,Influenza A H3N2v,0
+2014,Iowa,Influenza A H7N2,0
+2014,Hawaii,Influenza A H1N1v,0
+2014,Hawaii,Influenza A H1N2v,0
+2014,Hawaii,Influenza A H3N2v,0
+2014,Hawaii,Influenza A H7N2,0
+2014,Georgia,Influenza A H1N1v,0
+2014,Georgia,Influenza A H1N2v,0
+2014,Georgia,Influenza A H3N2v,0
+2014,Georgia,Influenza A H7N2,0
+2014,Delaware,Influenza A H1N1v,0
+2014,Delaware,Influenza A H1N2v,0
+2014,Delaware,Influenza A H3N2v,0
+2014,Delaware,Influenza A H7N2,0
+2014,District of Columbia,Influenza A H1N1v,0
+2014,District of Columbia,Influenza A H1N2v,0
+2014,District of Columbia,Influenza A H3N2v,0
+2014,District of Columbia,Influenza A H7N2,0
+2015,District of Columbia,Influenza A H1N1v,0
+2015,District of Columbia,Influenza A H1N2v,0
+2015,District of Columbia,Influenza A H3N2v,0
+2015,District of Columbia,Influenza A H7N2,0
+2015,Delaware,Influenza A H1N1v,0
+2015,Delaware,Influenza A H1N2v,0
+2015,Delaware,Influenza A H3N2v,0
+2015,Delaware,Influenza A H7N2,0
+2015,Georgia,Influenza A H1N1v,0
+2015,Georgia,Influenza A H1N2v,0
+2015,Georgia,Influenza A H3N2v,0
+2015,Georgia,Influenza A H7N2,0
+2015,Hawaii,Influenza A H1N1v,0
+2015,Hawaii,Influenza A H1N2v,0
+2015,Hawaii,Influenza A H3N2v,0
+2015,Hawaii,Influenza A H7N2,0
+2015,Iowa,Influenza A H1N1v,1
+2015,Iowa,Influenza A H1N2v,0
+2015,Iowa,Influenza A H3N2v,0
+2015,Iowa,Influenza A H7N2,0
+2015,Idaho,Influenza A H1N1v,0
+2015,Idaho,Influenza A H1N2v,0
+2015,Idaho,Influenza A H3N2v,0
+2015,Idaho,Influenza A H7N2,0
+2015,Illinois,Influenza A H1N1v,0
+2015,Illinois,Influenza A H1N2v,0
+2015,Illinois,Influenza A H3N2v,0
+2015,Illinois,Influenza A H7N2,0
+2015,Florida,Influenza A H1N1v,0
+2015,Florida,Influenza A H1N2v,0
+2015,Florida,Influenza A H3N2v,0
+2015,Florida,Influenza A H7N2,0
+2015,Indiana,Influenza A H1N1v,0
+2015,Indiana,Influenza A H1N2v,0
+2015,Indiana,Influenza A H3N2v,0
+2015,Indiana,Influenza A H7N2,0
+2015,Maryland,Influenza A H1N1v,0
+2015,Maryland,Influenza A H1N2v,0
+2015,Maryland,Influenza A H3N2v,0
+2015,Maryland,Influenza A H7N2,0
+2015,Maine,Influenza A H1N1v,0
+2015,Maine,Influenza A H1N2v,0
+2015,Maine,Influenza A H3N2v,0
+2015,Maine,Influenza A H7N2,0
+2015,Michigan,Influenza A H1N1v,0
+2015,Michigan,Influenza A H1N2v,0
+2015,Michigan,Influenza A H3N2v,1
+2015,Michigan,Influenza A H7N2,0
+2015,Minnesota,Influenza A H1N1v,1
+2015,Minnesota,Influenza A H1N2v,0
+2015,Minnesota,Influenza A H3N2v,1
+2015,Minnesota,Influenza A H7N2,0
+2015,Missouri,Influenza A H1N1v,0
+2015,Missouri,Influenza A H1N2v,0
+2015,Missouri,Influenza A H3N2v,0
+2015,Missouri,Influenza A H7N2,0
+2015,Mississippi,Influenza A H1N1v,0
+2015,Mississippi,Influenza A H1N2v,0
+2015,Mississippi,Influenza A H3N2v,0
+2015,Mississippi,Influenza A H7N2,0
+2015,Montana,Influenza A H1N1v,0
+2015,Montana,Influenza A H1N2v,0
+2015,Montana,Influenza A H3N2v,0
+2015,Montana,Influenza A H7N2,0
+2015,North Carolina,Influenza A H1N1v,0
+2015,North Carolina,Influenza A H1N2v,0
+2015,North Carolina,Influenza A H3N2v,0
+2015,North Carolina,Influenza A H7N2,0
+2015,North Dakota,Influenza A H1N1v,0
+2015,North Dakota,Influenza A H1N2v,0
+2015,North Dakota,Influenza A H3N2v,0
+2015,North Dakota,Influenza A H7N2,0
+2015,Nebraska,Influenza A H1N1v,0
+2015,Nebraska,Influenza A H1N2v,0
+2015,Nebraska,Influenza A H3N2v,0
+2015,Nebraska,Influenza A H7N2,0
+2015,New Hampshire,Influenza A H1N1v,0
+2015,New Hampshire,Influenza A H1N2v,0
+2015,New Hampshire,Influenza A H3N2v,0
+2015,New Hampshire,Influenza A H7N2,0
+2015,Massachusetts,Influenza A H1N1v,0
+2015,Massachusetts,Influenza A H1N2v,0
+2015,Massachusetts,Influenza A H3N2v,0
+2015,Massachusetts,Influenza A H7N2,0
+2015,New Jersey,Influenza A H1N1v,0
+2015,Kansas,Influenza A H1N1v,0
+2015,Kansas,Influenza A H1N2v,0
+2015,Kansas,Influenza A H3N2v,0
+2015,Kansas,Influenza A H7N2,0
+2015,Kentucky,Influenza A H1N1v,0
+2015,Kentucky,Influenza A H1N2v,0
+2015,Kentucky,Influenza A H3N2v,0
+2015,Kentucky,Influenza A H7N2,0
+2015,Louisiana,Influenza A H1N1v,0
+2015,Louisiana,Influenza A H1N2v,0
+2015,Louisiana,Influenza A H3N2v,0
+2015,Louisiana,Influenza A H7N2,0
+2015,Alabama,Influenza A H1N1v,0
+2015,Alabama,Influenza A H1N2v,0
+2015,Alabama,Influenza A H3N2v,0
+2015,Alabama,Influenza A H7N2,0
+2015,Arkansas,Influenza A H1N1v,0
+2015,Arkansas,Influenza A H1N2v,0
+2015,Arkansas,Influenza A H3N2v,0
+2015,Arkansas,Influenza A H7N2,0
+2015,Arizona,Influenza A H1N1v,0
+2015,Arizona,Influenza A H1N2v,0
+2015,Arizona,Influenza A H3N2v,0
+2015,Arizona,Influenza A H7N2,0
+2015,California,Influenza A H1N1v,0
+2015,California,Influenza A H1N2v,0
+2015,California,Influenza A H3N2v,0
+2015,California,Influenza A H7N2,0
+2015,Colorado,Influenza A H1N1v,0
+2015,Colorado,Influenza A H1N2v,0
+2015,Colorado,Influenza A H3N2v,0
+2015,Colorado,Influenza A H7N2,0
+2015,Connecticut,Influenza A H1N1v,0
+2015,Connecticut,Influenza A H1N2v,0
+2015,Connecticut,Influenza A H3N2v,0
+2015,Connecticut,Influenza A H7N2,0
+2015,New Mexico,Influenza A H1N1v,0
+2015,New Mexico,Influenza A H1N2v,0
+2015,New Mexico,Influenza A H3N2v,0
+2015,New Mexico,Influenza A H7N2,0
+2015,Nevada,Influenza A H1N1v,0
+2015,Nevada,Influenza A H1N2v,0
+2015,Nevada,Influenza A H3N2v,0
+2015,Nevada,Influenza A H7N2,0
+2015,New York,Influenza A H1N1v,0
+2015,New York,Influenza A H1N2v,0
+2015,New York,Influenza A H3N2v,0
+2015,New York,Influenza A H7N2,0
+2015,Ohio,Influenza A H1N1v,1
+2015,Ohio,Influenza A H1N2v,0
+2015,Ohio,Influenza A H3N2v,0
+2015,Ohio,Influenza A H7N2,0
+2015,Oklahoma,Influenza A H1N1v,0
+2015,Oklahoma,Influenza A H1N2v,0
+2015,Oklahoma,Influenza A H3N2v,0
+2015,Oklahoma,Influenza A H7N2,0
+2015,Oregon,Influenza A H1N1v,0
+2015,Oregon,Influenza A H1N2v,0
+2015,Oregon,Influenza A H3N2v,0
+2015,Oregon,Influenza A H7N2,0
+2015,Pennsylvania,Influenza A H1N1v,0
+2015,Pennsylvania,Influenza A H1N2v,0
+2015,Pennsylvania,Influenza A H3N2v,0
+2015,Pennsylvania,Influenza A H7N2,0
+2015,Puerto Rico,Influenza A H1N1v,0
+2015,Puerto Rico,Influenza A H1N2v,0
+2015,Puerto Rico,Influenza A H3N2v,0
+2015,Puerto Rico,Influenza A H7N2,0
+2015,Rhode Island,Influenza A H1N1v,0
+2015,Rhode Island,Influenza A H1N2v,0
+2015,Rhode Island,Influenza A H3N2v,0
+2015,Rhode Island,Influenza A H7N2,0
+2015,South Carolina,Influenza A H1N1v,0
+2015,South Carolina,Influenza A H1N2v,0
+2015,South Carolina,Influenza A H3N2v,0
+2015,South Carolina,Influenza A H7N2,0
+2015,South Dakota,Influenza A H1N1v,0
+2015,South Dakota,Influenza A H1N2v,0
+2015,South Dakota,Influenza A H3N2v,0
+2015,South Dakota,Influenza A H7N2,0
+2015,Tennessee,Influenza A H1N1v,0
+2015,Tennessee,Influenza A H1N2v,0
+2015,Tennessee,Influenza A H3N2v,0
+2015,Tennessee,Influenza A H7N2,0
+2015,Texas,Influenza A H1N1v,0
+2015,Texas,Influenza A H1N2v,0
+2015,Texas,Influenza A H3N2v,0
+2015,Texas,Influenza A H7N2,0
+2015,Utah,Influenza A H1N1v,0
+2015,Utah,Influenza A H1N2v,0
+2015,Utah,Influenza A H3N2v,0
+2015,Utah,Influenza A H7N2,0
+2015,Virginia,Influenza A H1N1v,0
+2015,Virginia,Influenza A H1N2v,0
+2015,Virginia,Influenza A H3N2v,0
+2015,Virginia,Influenza A H7N2,0
+2015,Vermont,Influenza A H1N1v,0
+2015,Vermont,Influenza A H1N2v,0
+2015,Vermont,Influenza A H3N2v,0
+2015,Vermont,Influenza A H7N2,0
+2015,Washington,Influenza A H1N1v,0
+2015,Washington,Influenza A H1N2v,0
+2015,Washington,Influenza A H3N2v,0
+2015,Washington,Influenza A H7N2,0
+2015,Wisconsin,Influenza A H1N1v,0
+2015,Wisconsin,Influenza A H1N2v,0
+2015,Wisconsin,Influenza A H3N2v,0
+2015,Wisconsin,Influenza A H7N2,0
+2015,West Virginia,Influenza A H1N1v,0
+2015,West Virginia,Influenza A H1N2v,0
+2015,West Virginia,Influenza A H3N2v,0
+2015,West Virginia,Influenza A H7N2,0
+2015,Wyoming,Influenza A H1N1v,0
+2015,Wyoming,Influenza A H1N2v,0
+2015,Wyoming,Influenza A H3N2v,0
+2015,Wyoming,Influenza A H7N2,0
+2015,Alaska,Influenza A H1N1v,0
+2015,Alaska,Influenza A H1N2v,0
+2015,Alaska,Influenza A H3N2v,0
+2015,Alaska,Influenza A H7N2,0
+2015,New Jersey,Influenza A H1N2v,0
+2015,New Jersey,Influenza A H3N2v,1
+2015,New Jersey,Influenza A H7N2,0
+2016,New Jersey,Influenza A H1N1v,0
+2016,New Jersey,Influenza A H1N2v,0
+2016,New Jersey,Influenza A H3N2v,0
+2016,New Jersey,Influenza A H7N2,0
+2016,Alaska,Influenza A H1N1v,0
+2016,Alaska,Influenza A H1N2v,0
+2016,Alaska,Influenza A H3N2v,0
+2016,Alaska,Influenza A H7N2,0
+2016,Wyoming,Influenza A H1N1v,0
+2016,Wyoming,Influenza A H1N2v,0
+2016,Wyoming,Influenza A H3N2v,0
+2016,Wyoming,Influenza A H7N2,0
+2016,West Virginia,Influenza A H1N1v,0
+2016,West Virginia,Influenza A H1N2v,0
+2016,West Virginia,Influenza A H3N2v,0
+2016,West Virginia,Influenza A H7N2,0
+2016,Wisconsin,Influenza A H1N1v,0
+2016,Wisconsin,Influenza A H1N2v,1
+2016,Wisconsin,Influenza A H3N2v,0
+2016,Wisconsin,Influenza A H7N2,0
+2016,Washington,Influenza A H1N1v,0
+2016,Washington,Influenza A H1N2v,0
+2016,Washington,Influenza A H3N2v,0
+2016,Washington,Influenza A H7N2,0
+2016,Vermont,Influenza A H1N1v,0
+2016,Vermont,Influenza A H1N2v,0
+2016,Vermont,Influenza A H3N2v,0
+2016,Vermont,Influenza A H7N2,0
+2016,Virginia,Influenza A H1N1v,0
+2016,Virginia,Influenza A H1N2v,0
+2016,Virginia,Influenza A H3N2v,0
+2016,Virginia,Influenza A H7N2,0
+2016,Utah,Influenza A H1N1v,0
+2016,Utah,Influenza A H1N2v,0
+2016,Utah,Influenza A H3N2v,0
+2016,Utah,Influenza A H7N2,0
+2016,Texas,Influenza A H1N1v,0
+2016,Texas,Influenza A H1N2v,0
+2016,Texas,Influenza A H3N2v,0
+2016,Texas,Influenza A H7N2,0
+2016,Tennessee,Influenza A H1N1v,0
+2016,Tennessee,Influenza A H1N2v,0
+2016,Tennessee,Influenza A H3N2v,0
+2016,Tennessee,Influenza A H7N2,0
+2016,South Dakota,Influenza A H1N1v,0
+2016,South Dakota,Influenza A H1N2v,0
+2016,South Dakota,Influenza A H3N2v,0
+2016,South Dakota,Influenza A H7N2,0
+2016,South Carolina,Influenza A H1N1v,0
+2016,South Carolina,Influenza A H1N2v,0
+2016,South Carolina,Influenza A H3N2v,0
+2016,South Carolina,Influenza A H7N2,0
+2016,Rhode Island,Influenza A H1N1v,0
+2016,Rhode Island,Influenza A H1N2v,0
+2016,Rhode Island,Influenza A H3N2v,0
+2016,Rhode Island,Influenza A H7N2,0
+2016,Puerto Rico,Influenza A H1N1v,0
+2016,Puerto Rico,Influenza A H1N2v,0
+2016,Puerto Rico,Influenza A H3N2v,0
+2016,Puerto Rico,Influenza A H7N2,0
+2016,Pennsylvania,Influenza A H1N1v,0
+2016,Pennsylvania,Influenza A H1N2v,0
+2016,Pennsylvania,Influenza A H3N2v,0
+2016,Pennsylvania,Influenza A H7N2,0
+2016,Oregon,Influenza A H1N1v,0
+2016,Oregon,Influenza A H1N2v,0
+2016,Oregon,Influenza A H3N2v,0
+2016,Oregon,Influenza A H7N2,0
+2016,Oklahoma,Influenza A H1N1v,0
+2016,Oklahoma,Influenza A H1N2v,0
+2016,Oklahoma,Influenza A H3N2v,0
+2016,Oklahoma,Influenza A H7N2,0
+2016,Ohio,Influenza A H1N1v,0
+2016,Ohio,Influenza A H1N2v,0
+2016,Ohio,Influenza A H3N2v,6
+2016,Ohio,Influenza A H7N2,0
+2016,New York,Influenza A H1N1v,0
+2016,New York,Influenza A H1N2v,0
+2016,New York,Influenza A H3N2v,0
+2016,New York,Influenza A H7N2,0
+2016,Nevada,Influenza A H1N1v,0
+2016,Nevada,Influenza A H1N2v,0
+2016,Nevada,Influenza A H3N2v,0
+2016,Nevada,Influenza A H7N2,0
+2016,New Mexico,Influenza A H1N1v,0
+2016,New Mexico,Influenza A H1N2v,0
+2016,New Mexico,Influenza A H3N2v,0
+2016,New Mexico,Influenza A H7N2,0
+2016,Connecticut,Influenza A H1N1v,0
+2016,Connecticut,Influenza A H1N2v,0
+2016,Connecticut,Influenza A H3N2v,0
+2016,Connecticut,Influenza A H7N2,0
+2016,Florida,Influenza A H7N2,0
+2016,Colorado,Influenza A H1N1v,0
+2016,Colorado,Influenza A H1N2v,0
+2016,Colorado,Influenza A H3N2v,0
+2016,Colorado,Influenza A H7N2,0
+2016,California,Influenza A H1N1v,0
+2016,California,Influenza A H1N2v,0
+2016,California,Influenza A H3N2v,0
+2016,California,Influenza A H7N2,0
+2016,Arizona,Influenza A H1N1v,0
+2016,Arizona,Influenza A H1N2v,0
+2016,Arizona,Influenza A H3N2v,0
+2016,Arizona,Influenza A H7N2,0
+2016,Arkansas,Influenza A H1N1v,0
+2016,Arkansas,Influenza A H1N2v,0
+2016,Arkansas,Influenza A H3N2v,0
+2016,Arkansas,Influenza A H7N2,0
+2016,Alabama,Influenza A H1N1v,0
+2016,Alabama,Influenza A H1N2v,0
+2016,Alabama,Influenza A H3N2v,0
+2016,Alabama,Influenza A H7N2,0
+2016,Louisiana,Influenza A H1N1v,0
+2016,Louisiana,Influenza A H1N2v,0
+2016,Louisiana,Influenza A H3N2v,0
+2016,Louisiana,Influenza A H7N2,0
+2016,Kentucky,Influenza A H1N1v,0
+2016,Kentucky,Influenza A H1N2v,0
+2016,Kentucky,Influenza A H3N2v,0
+2016,Kentucky,Influenza A H7N2,0
+2016,Kansas,Influenza A H1N1v,0
+2016,Kansas,Influenza A H1N2v,0
+2016,Kansas,Influenza A H3N2v,0
+2016,Kansas,Influenza A H7N2,0
+2016,Massachusetts,Influenza A H1N1v,0
+2016,Massachusetts,Influenza A H1N2v,0
+2016,Massachusetts,Influenza A H3N2v,0
+2016,Massachusetts,Influenza A H7N2,0
+2016,New Hampshire,Influenza A H1N1v,0
+2016,New Hampshire,Influenza A H1N2v,0
+2016,New Hampshire,Influenza A H3N2v,0
+2016,New Hampshire,Influenza A H7N2,0
+2016,Nebraska,Influenza A H1N1v,0
+2016,Nebraska,Influenza A H1N2v,0
+2016,Nebraska,Influenza A H3N2v,0
+2016,Nebraska,Influenza A H7N2,0
+2016,North Dakota,Influenza A H1N1v,0
+2016,North Dakota,Influenza A H1N2v,0
+2016,North Dakota,Influenza A H3N2v,0
+2016,North Dakota,Influenza A H7N2,0
+2016,North Carolina,Influenza A H1N1v,0
+2016,North Carolina,Influenza A H1N2v,0
+2016,North Carolina,Influenza A H3N2v,0
+2016,North Carolina,Influenza A H7N2,0
+2016,Montana,Influenza A H1N1v,0
+2016,Montana,Influenza A H1N2v,0
+2016,Montana,Influenza A H3N2v,0
+2016,Montana,Influenza A H7N2,0
+2016,Mississippi,Influenza A H1N1v,0
+2016,Mississippi,Influenza A H1N2v,0
+2016,Mississippi,Influenza A H3N2v,0
+2016,Mississippi,Influenza A H7N2,0
+2016,Missouri,Influenza A H1N1v,0
+2016,Missouri,Influenza A H1N2v,0
+2016,Missouri,Influenza A H3N2v,0
+2016,Missouri,Influenza A H7N2,0
+2016,Minnesota,Influenza A H1N1v,0
+2016,Minnesota,Influenza A H1N2v,2
+2016,Minnesota,Influenza A H3N2v,0
+2016,Minnesota,Influenza A H7N2,0
+2016,Michigan,Influenza A H1N1v,0
+2016,Michigan,Influenza A H1N2v,0
+2016,Michigan,Influenza A H3N2v,12
+2016,Michigan,Influenza A H7N2,0
+2016,Maine,Influenza A H1N1v,0
+2016,Maine,Influenza A H1N2v,0
+2016,Maine,Influenza A H3N2v,0
+2016,Maine,Influenza A H7N2,0
+2016,Maryland,Influenza A H1N1v,0
+2016,Maryland,Influenza A H1N2v,0
+2016,Maryland,Influenza A H3N2v,0
+2016,Maryland,Influenza A H7N2,0
+2016,Indiana,Influenza A H1N1v,0
+2016,Indiana,Influenza A H1N2v,0
+2016,Indiana,Influenza A H3N2v,0
+2016,Indiana,Influenza A H7N2,1
+2016,Florida,Influenza A H1N1v,0
+2016,Florida,Influenza A H1N2v,0
+2016,Florida,Influenza A H3N2v,0
+2016,Illinois,Influenza A H1N1v,0
+2016,Illinois,Influenza A H1N2v,0
+2016,Illinois,Influenza A H3N2v,0
+2016,Illinois,Influenza A H7N2,0
+2016,Idaho,Influenza A H1N1v,0
+2016,Idaho,Influenza A H1N2v,0
+2016,Idaho,Influenza A H3N2v,0
+2016,Idaho,Influenza A H7N2,0
+2016,Iowa,Influenza A H1N1v,0
+2016,Iowa,Influenza A H1N2v,1
+2016,Iowa,Influenza A H3N2v,0
+2016,Iowa,Influenza A H7N2,0
+2016,Hawaii,Influenza A H1N1v,0
+2016,Hawaii,Influenza A H1N2v,0
+2016,Hawaii,Influenza A H3N2v,0
+2016,Hawaii,Influenza A H7N2,0
+2016,Georgia,Influenza A H1N1v,0
+2016,Georgia,Influenza A H1N2v,0
+2016,Georgia,Influenza A H3N2v,0
+2016,Georgia,Influenza A H7N2,0
+2016,Delaware,Influenza A H1N1v,0
+2016,Delaware,Influenza A H1N2v,0
+2016,Delaware,Influenza A H3N2v,0
+2016,Delaware,Influenza A H7N2,0
+2016,District of Columbia,Influenza A H1N1v,0
+2016,District of Columbia,Influenza A H1N2v,0
+2016,District of Columbia,Influenza A H3N2v,0
+2016,District of Columbia,Influenza A H7N2,0
+2017,District of Columbia,Influenza A H1N1v,0
+2017,District of Columbia,Influenza A H1N2v,0
+2017,District of Columbia,Influenza A H3N2v,0
+2017,District of Columbia,Influenza A H7N2,0
+2017,Delaware,Influenza A H1N1v,0
+2017,Delaware,Influenza A H1N2v,0
+2017,Delaware,Influenza A H3N2v,1
+2017,Delaware,Influenza A H7N2,0
+2017,Georgia,Influenza A H1N1v,0
+2017,Georgia,Influenza A H1N2v,0
+2017,Georgia,Influenza A H3N2v,0
+2017,Georgia,Influenza A H7N2,0
+2017,Hawaii,Influenza A H1N1v,0
+2017,Hawaii,Influenza A H1N2v,0
+2017,Hawaii,Influenza A H3N2v,0
+2017,Hawaii,Influenza A H7N2,0
+2017,Iowa,Influenza A H1N1v,1
+2017,Iowa,Influenza A H1N2v,0
+2017,Florida,Influenza A H1N1v,0
+2017,Iowa,Influenza A H3N2v,1
+2017,Iowa,Influenza A H7N2,0
+2017,Idaho,Influenza A H1N1v,0
+2017,Idaho,Influenza A H1N2v,0
+2017,Idaho,Influenza A H3N2v,0
+2017,Idaho,Influenza A H7N2,0
+2017,Illinois,Influenza A H1N1v,0
+2017,Illinois,Influenza A H1N2v,0
+2017,Illinois,Influenza A H3N2v,0
+2017,Illinois,Influenza A H7N2,0
+2017,Indiana,Influenza A H1N1v,0
+2017,Indiana,Influenza A H1N2v,0
+2017,Indiana,Influenza A H3N2v,0
+2017,Indiana,Influenza A H7N2,0
+2017,Maryland,Influenza A H1N1v,0
+2017,Maryland,Influenza A H1N2v,0
+2017,Maryland,Influenza A H3N2v,39
+2017,Maryland,Influenza A H7N2,0
+2017,Maine,Influenza A H1N1v,0
+2017,Maine,Influenza A H1N2v,0
+2017,Maine,Influenza A H3N2v,0
+2017,Maine,Influenza A H7N2,0
+2017,Michigan,Influenza A H1N1v,0
+2017,Michigan,Influenza A H1N2v,0
+2017,Michigan,Influenza A H3N2v,2
+2017,Michigan,Influenza A H7N2,0
+2017,Minnesota,Influenza A H1N1v,0
+2017,Minnesota,Influenza A H1N2v,0
+2017,Minnesota,Influenza A H3N2v,0
+2017,Minnesota,Influenza A H7N2,0
+2017,Missouri,Influenza A H1N1v,0
+2017,Missouri,Influenza A H1N2v,0
+2017,Missouri,Influenza A H3N2v,0
+2017,Missouri,Influenza A H7N2,0
+2017,Mississippi,Influenza A H1N1v,0
+2017,Mississippi,Influenza A H1N2v,0
+2017,Mississippi,Influenza A H3N2v,0
+2017,Mississippi,Influenza A H7N2,0
+2017,Montana,Influenza A H1N1v,0
+2017,Montana,Influenza A H1N2v,0
+2017,Montana,Influenza A H3N2v,0
+2017,Montana,Influenza A H7N2,0
+2017,North Carolina,Influenza A H1N1v,0
+2017,North Carolina,Influenza A H1N2v,0
+2017,North Carolina,Influenza A H3N2v,0
+2017,North Carolina,Influenza A H7N2,0
+2017,North Dakota,Influenza A H1N1v,0
+2017,North Dakota,Influenza A H1N2v,0
+2017,North Dakota,Influenza A H3N2v,1
+2017,North Dakota,Influenza A H7N2,0
+2017,Nebraska,Influenza A H1N1v,0
+2017,Nebraska,Influenza A H1N2v,0
+2017,Nebraska,Influenza A H3N2v,1
+2017,Nebraska,Influenza A H7N2,0
+2017,New Hampshire,Influenza A H1N1v,0
+2017,New Hampshire,Influenza A H1N2v,0
+2017,New Hampshire,Influenza A H3N2v,0
+2017,New Hampshire,Influenza A H7N2,0
+2017,Massachusetts,Influenza A H1N1v,0
+2017,Massachusetts,Influenza A H1N2v,0
+2017,Massachusetts,Influenza A H3N2v,0
+2017,Massachusetts,Influenza A H7N2,0
+2017,Kansas,Influenza A H1N1v,0
+2017,Kansas,Influenza A H1N2v,0
+2017,Kansas,Influenza A H3N2v,0
+2017,Kansas,Influenza A H7N2,0
+2017,Kentucky,Influenza A H1N1v,0
+2017,Kentucky,Influenza A H1N2v,0
+2017,Kentucky,Influenza A H3N2v,0
+2017,Kentucky,Influenza A H7N2,0
+2017,Louisiana,Influenza A H1N1v,0
+2017,Louisiana,Influenza A H1N2v,0
+2017,Louisiana,Influenza A H3N2v,0
+2017,Louisiana,Influenza A H7N2,0
+2017,Alabama,Influenza A H1N1v,0
+2017,Alabama,Influenza A H1N2v,0
+2017,Alabama,Influenza A H3N2v,0
+2017,Alabama,Influenza A H7N2,0
+2017,Arkansas,Influenza A H1N1v,0
+2017,Arkansas,Influenza A H1N2v,0
+2017,Arkansas,Influenza A H3N2v,0
+2017,Arkansas,Influenza A H7N2,0
+2017,Arizona,Influenza A H1N1v,0
+2017,Arizona,Influenza A H1N2v,0
+2017,Alaska,Influenza A H3N2v,0
+2017,Arizona,Influenza A H3N2v,0
+2017,California,Influenza A H1N1v,0
+2017,California,Influenza A H1N2v,0
+2017,California,Influenza A H3N2v,0
+2017,California,Influenza A H7N2,0
+2017,Colorado,Influenza A H1N1v,0
+2017,Colorado,Influenza A H1N2v,1
+2017,Colorado,Influenza A H3N2v,0
+2017,Colorado,Influenza A H7N2,0
+2017,Florida,Influenza A H1N2v,0
+2017,Florida,Influenza A H3N2v,0
+2017,Florida,Influenza A H7N2,0
+2017,Alaska,Influenza A H7N2,0
+2017,Arizona,Influenza A H7N2,0
+2017,Connecticut,Influenza A H1N1v,0
+2017,Connecticut,Influenza A H1N2v,0
+2017,Connecticut,Influenza A H3N2v,0
+2017,Connecticut,Influenza A H7N2,0
+2017,New Mexico,Influenza A H1N1v,0
+2017,New Mexico,Influenza A H1N2v,0
+2017,New Mexico,Influenza A H3N2v,0
+2017,New Mexico,Influenza A H7N2,0
+2017,Nevada,Influenza A H1N1v,0
+2017,Nevada,Influenza A H1N2v,0
+2017,Nevada,Influenza A H3N2v,0
+2017,Nevada,Influenza A H7N2,0
+2017,New York,Influenza A H1N1v,0
+2017,New York,Influenza A H1N2v,0
+2017,New York,Influenza A H3N2v,0
+2017,New York,Influenza A H7N2,0
+2017,Ohio,Influenza A H1N1v,0
+2017,Ohio,Influenza A H1N2v,3
+2017,Ohio,Influenza A H3N2v,15
+2017,Ohio,Influenza A H7N2,0
+2017,Oklahoma,Influenza A H1N1v,0
+2017,Oklahoma,Influenza A H1N2v,0
+2017,Oklahoma,Influenza A H3N2v,0
+2017,Oklahoma,Influenza A H7N2,0
+2017,Oregon,Influenza A H1N1v,0
+2017,Oregon,Influenza A H1N2v,0
+2017,Oregon,Influenza A H3N2v,0
+2017,Oregon,Influenza A H7N2,0
+2017,Pennsylvania,Influenza A H1N1v,0
+2017,Pennsylvania,Influenza A H1N2v,0
+2017,Pennsylvania,Influenza A H3N2v,1
+2017,Pennsylvania,Influenza A H7N2,0
+2017,Puerto Rico,Influenza A H1N1v,0
+2017,Puerto Rico,Influenza A H1N2v,0
+2017,Puerto Rico,Influenza A H3N2v,0
+2017,Puerto Rico,Influenza A H7N2,0
+2017,Rhode Island,Influenza A H1N1v,0
+2017,Rhode Island,Influenza A H1N2v,0
+2017,Rhode Island,Influenza A H3N2v,0
+2017,Rhode Island,Influenza A H7N2,0
+2017,South Carolina,Influenza A H1N1v,0
+2017,South Carolina,Influenza A H1N2v,0
+2017,South Carolina,Influenza A H3N2v,0
+2017,South Carolina,Influenza A H7N2,0
+2017,South Dakota,Influenza A H1N1v,0
+2017,South Dakota,Influenza A H1N2v,0
+2017,South Dakota,Influenza A H3N2v,0
+2017,South Dakota,Influenza A H7N2,0
+2017,Tennessee,Influenza A H1N1v,0
+2017,Tennessee,Influenza A H1N2v,0
+2017,Tennessee,Influenza A H3N2v,0
+2017,Tennessee,Influenza A H7N2,0
+2017,Texas,Influenza A H1N1v,0
+2017,Texas,Influenza A H1N2v,0
+2017,Texas,Influenza A H3N2v,1
+2017,Texas,Influenza A H7N2,0
+2017,Utah,Influenza A H1N1v,0
+2017,Utah,Influenza A H1N2v,0
+2017,Utah,Influenza A H3N2v,0
+2017,Utah,Influenza A H7N2,0
+2017,Virginia,Influenza A H1N1v,0
+2017,Virginia,Influenza A H1N2v,0
+2017,Virginia,Influenza A H3N2v,0
+2017,Virginia,Influenza A H7N2,0
+2017,Vermont,Influenza A H1N1v,0
+2017,Vermont,Influenza A H1N2v,0
+2017,Vermont,Influenza A H3N2v,0
+2017,Vermont,Influenza A H7N2,0
+2017,Washington,Influenza A H1N1v,0
+2017,Washington,Influenza A H1N2v,0
+2017,Washington,Influenza A H3N2v,0
+2017,Washington,Influenza A H7N2,0
+2017,Wisconsin,Influenza A H1N1v,0
+2017,Wisconsin,Influenza A H1N2v,0
+2017,Wisconsin,Influenza A H3N2v,0
+2017,Wisconsin,Influenza A H7N2,0
+2017,West Virginia,Influenza A H1N1v,0
+2017,West Virginia,Influenza A H1N2v,0
+2017,West Virginia,Influenza A H3N2v,0
+2017,West Virginia,Influenza A H7N2,0
+2017,Wyoming,Influenza A H1N1v,0
+2017,Wyoming,Influenza A H1N2v,0
+2017,Wyoming,Influenza A H3N2v,0
+2017,Wyoming,Influenza A H7N2,0
+2017,Alaska,Influenza A H1N1v,0
+2017,Alaska,Influenza A H1N2v,0
+2017,New Jersey,Influenza A H1N1v,0
+2017,New Jersey,Influenza A H1N2v,0
+2017,New Jersey,Influenza A H3N2v,0
+2017,New Jersey,Influenza A H7N2,0
+2018,New Jersey,Influenza A H1N1v,0
+2018,New Jersey,Influenza A H1N2v,0
+2018,New Jersey,Influenza A H3N2v,0
+2018,New Jersey,Influenza A H7N2,0
+2018,Wyoming,Influenza A H1N1v,0
+2018,Wyoming,Influenza A H1N2v,0
+2018,Wyoming,Influenza A H3N2v,0
+2018,Wyoming,Influenza A H7N2,0
+2018,West Virginia,Influenza A H1N1v,0
+2018,West Virginia,Influenza A H1N2v,0
+2018,West Virginia,Influenza A H3N2v,0
+2018,West Virginia,Influenza A H7N2,0
+2018,Wisconsin,Influenza A H1N1v,0
+2018,Wisconsin,Influenza A H1N2v,0
+2018,Wisconsin,Influenza A H3N2v,0
+2018,Wisconsin,Influenza A H7N2,0
+2018,Washington,Influenza A H1N1v,0
+2018,Washington,Influenza A H1N2v,0
+2018,Washington,Influenza A H3N2v,0
+2018,Washington,Influenza A H7N2,0
+2018,Vermont,Influenza A H1N1v,0
+2018,Vermont,Influenza A H1N2v,0
+2018,Vermont,Influenza A H3N2v,0
+2018,Vermont,Influenza A H7N2,0
+2018,Virginia,Influenza A H1N1v,0
+2018,Virginia,Influenza A H1N2v,0
+2018,Virginia,Influenza A H3N2v,0
+2018,Virginia,Influenza A H7N2,0
+2018,Utah,Influenza A H1N1v,0
+2018,Utah,Influenza A H1N2v,0
+2018,Utah,Influenza A H3N2v,0
+2018,Utah,Influenza A H7N2,0
+2018,Texas,Influenza A H1N1v,0
+2018,Texas,Influenza A H1N2v,0
+2018,Texas,Influenza A H3N2v,0
+2018,Texas,Influenza A H7N2,0
+2018,Tennessee,Influenza A H1N1v,0
+2018,Tennessee,Influenza A H1N2v,0
+2018,Tennessee,Influenza A H3N2v,0
+2018,Tennessee,Influenza A H7N2,0
+2018,South Dakota,Influenza A H1N1v,0
+2018,South Dakota,Influenza A H1N2v,0
+2018,South Dakota,Influenza A H3N2v,0
+2018,South Dakota,Influenza A H7N2,0
+2018,South Carolina,Influenza A H1N1v,0
+2018,South Carolina,Influenza A H1N2v,0
+2018,South Carolina,Influenza A H3N2v,0
+2018,South Carolina,Influenza A H7N2,0
+2018,Rhode Island,Influenza A H1N1v,0
+2018,Rhode Island,Influenza A H1N2v,0
+2018,Rhode Island,Influenza A H3N2v,0
+2018,Rhode Island,Influenza A H7N2,0
+2018,Puerto Rico,Influenza A H1N1v,0
+2018,Puerto Rico,Influenza A H1N2v,0
+2018,Puerto Rico,Influenza A H3N2v,0
+2018,Puerto Rico,Influenza A H7N2,0
+2018,Pennsylvania,Influenza A H1N1v,0
+2018,Pennsylvania,Influenza A H1N2v,0
+2018,Pennsylvania,Influenza A H3N2v,0
+2018,Pennsylvania,Influenza A H7N2,0
+2018,Oregon,Influenza A H1N1v,0
+2018,Oregon,Influenza A H1N2v,0
+2018,Oregon,Influenza A H3N2v,0
+2018,Oregon,Influenza A H7N2,0
+2018,Oklahoma,Influenza A H1N1v,0
+2018,Oklahoma,Influenza A H1N2v,0
+2018,Oklahoma,Influenza A H3N2v,0
+2018,Oklahoma,Influenza A H7N2,0
+2018,Ohio,Influenza A H1N1v,0
+2018,Ohio,Influenza A H1N2v,4
+2018,Ohio,Influenza A H3N2v,0
+2018,Ohio,Influenza A H7N2,0
+2018,New York,Influenza A H1N1v,0
+2018,New York,Influenza A H1N2v,0
+2018,New York,Influenza A H3N2v,0
+2018,New York,Influenza A H7N2,0
+2018,Nevada,Influenza A H1N1v,0
+2018,Nevada,Influenza A H1N2v,0
+2018,Nevada,Influenza A H3N2v,0
+2018,Nevada,Influenza A H7N2,0
+2018,New Mexico,Influenza A H1N1v,0
+2018,New Mexico,Influenza A H1N2v,0
+2018,New Mexico,Influenza A H3N2v,0
+2018,New Mexico,Influenza A H7N2,0
+2018,Connecticut,Influenza A H1N1v,0
+2018,Connecticut,Influenza A H3N2v,0
+2018,Connecticut,Influenza A H7N2,0
+2018,Alaska,Influenza A H1N1v,0
+2018,Alaska,Influenza A H1N2v,0
+2018,Alaska,Influenza A H3N2v,0
+2018,Alaska,Influenza A H7N2,0
+2018,Florida,Influenza A H1N1v,0
+2018,Florida,Influenza A H1N2v,0
+2018,Florida,Influenza A H3N2v,0
+2018,Florida,Influenza A H7N2,0
+2018,Colorado,Influenza A H1N1v,0
+2018,Colorado,Influenza A H1N2v,0
+2018,Colorado,Influenza A H3N2v,0
+2018,Colorado,Influenza A H7N2,0
+2018,California,Influenza A H1N1v,0
+2018,California,Influenza A H1N2v,6
+2018,California,Influenza A H3N2v,0
+2018,California,Influenza A H7N2,0
+2018,Arizona,Influenza A H1N1v,0
+2018,Arizona,Influenza A H1N2v,0
+2018,Arizona,Influenza A H3N2v,0
+2018,Arizona,Influenza A H7N2,0
+2018,Arkansas,Influenza A H1N1v,0
+2018,Arkansas,Influenza A H1N2v,0
+2018,Arkansas,Influenza A H3N2v,0
+2018,Arkansas,Influenza A H7N2,0
+2018,Alabama,Influenza A H1N1v,0
+2018,Alabama,Influenza A H1N2v,0
+2018,Alabama,Influenza A H3N2v,0
+2018,Alabama,Influenza A H7N2,0
+2018,Louisiana,Influenza A H1N1v,0
+2018,Louisiana,Influenza A H1N2v,0
+2018,Louisiana,Influenza A H3N2v,0
+2018,Louisiana,Influenza A H7N2,0
+2018,Kentucky,Influenza A H1N1v,0
+2018,Kentucky,Influenza A H1N2v,0
+2018,Kentucky,Influenza A H3N2v,0
+2018,Kentucky,Influenza A H7N2,0
+2018,Kansas,Influenza A H1N1v,0
+2018,Kansas,Influenza A H1N2v,0
+2018,Kansas,Influenza A H3N2v,0
+2018,Kansas,Influenza A H7N2,0
+2018,Massachusetts,Influenza A H1N1v,0
+2018,Massachusetts,Influenza A H1N2v,0
+2018,Massachusetts,Influenza A H3N2v,0
+2018,Massachusetts,Influenza A H7N2,0
+2018,Indiana,Influenza A H1N2v,0
+2018,Indiana,Influenza A H3N2v,1
+2018,Indiana,Influenza A H7N2,0
+2018,New Hampshire,Influenza A H1N1v,0
+2018,New Hampshire,Influenza A H1N2v,0
+2018,New Hampshire,Influenza A H3N2v,0
+2018,New Hampshire,Influenza A H7N2,0
+2018,Nebraska,Influenza A H1N1v,0
+2018,Nebraska,Influenza A H1N2v,0
+2018,Nebraska,Influenza A H3N2v,0
+2018,Nebraska,Influenza A H7N2,0
+2018,North Dakota,Influenza A H1N1v,0
+2018,North Dakota,Influenza A H1N2v,0
+2018,North Dakota,Influenza A H3N2v,0
+2018,North Dakota,Influenza A H7N2,0
+2018,North Carolina,Influenza A H1N1v,0
+2018,North Carolina,Influenza A H1N2v,0
+2018,North Carolina,Influenza A H3N2v,0
+2018,North Carolina,Influenza A H7N2,0
+2018,Montana,Influenza A H1N1v,0
+2018,Montana,Influenza A H1N2v,0
+2018,Montana,Influenza A H3N2v,0
+2018,Montana,Influenza A H7N2,0
+2018,Mississippi,Influenza A H1N1v,0
+2018,Mississippi,Influenza A H1N2v,0
+2018,Mississippi,Influenza A H3N2v,0
+2018,Mississippi,Influenza A H7N2,0
+2018,Missouri,Influenza A H1N1v,0
+2018,Missouri,Influenza A H1N2v,0
+2018,Missouri,Influenza A H3N2v,0
+2018,Missouri,Influenza A H7N2,0
+2018,Minnesota,Influenza A H1N1v,0
+2018,Minnesota,Influenza A H1N2v,0
+2018,Minnesota,Influenza A H3N2v,0
+2018,Minnesota,Influenza A H7N2,0
+2018,Michigan,Influenza A H1N1v,0
+2018,Michigan,Influenza A H1N2v,3
+2018,Michigan,Influenza A H3N2v,0
+2018,Michigan,Influenza A H7N2,0
+2018,Maine,Influenza A H1N1v,0
+2018,Maine,Influenza A H1N2v,0
+2018,Maine,Influenza A H3N2v,0
+2018,Maine,Influenza A H7N2,0
+2018,Maryland,Influenza A H1N1v,0
+2018,Maryland,Influenza A H1N2v,0
+2018,Maryland,Influenza A H3N2v,0
+2018,Maryland,Influenza A H7N2,0
+2018,Indiana,Influenza A H1N1v,0
+2018,Connecticut,Influenza A H1N2v,0
+2018,Illinois,Influenza A H1N1v,0
+2018,Illinois,Influenza A H1N2v,0
+2018,Illinois,Influenza A H3N2v,0
+2018,Illinois,Influenza A H7N2,0
+2018,Idaho,Influenza A H1N1v,0
+2018,Idaho,Influenza A H1N2v,0
+2018,Idaho,Influenza A H3N2v,0
+2018,Idaho,Influenza A H7N2,0
+2018,Iowa,Influenza A H1N1v,0
+2018,Iowa,Influenza A H1N2v,0
+2018,Iowa,Influenza A H3N2v,0
+2018,Iowa,Influenza A H7N2,0
+2018,Hawaii,Influenza A H1N1v,0
+2018,Hawaii,Influenza A H1N2v,0
+2018,Hawaii,Influenza A H3N2v,0
+2018,Hawaii,Influenza A H7N2,0
+2018,Georgia,Influenza A H1N1v,0
+2018,Georgia,Influenza A H1N2v,0
+2018,Georgia,Influenza A H3N2v,0
+2018,Georgia,Influenza A H7N2,0
+2018,Delaware,Influenza A H1N1v,0
+2018,Delaware,Influenza A H1N2v,0
+2018,Delaware,Influenza A H3N2v,0
+2018,Delaware,Influenza A H7N2,0
+2018,District of Columbia,Influenza A H1N1v,0
+2018,District of Columbia,Influenza A H1N2v,0
+2018,District of Columbia,Influenza A H3N2v,0
+2018,District of Columbia,Influenza A H7N2,0

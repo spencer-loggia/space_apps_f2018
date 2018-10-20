@@ -1,0 +1,79 @@
+
+YEAR_or_SEASON,Category,Group,Count,Percent
+2011,Confirmed Swine Contact,No,7,50
+2011,Confirmed Swine Contact,Yes,7,50
+2011,Age,<18 Years,12,85.7143
+2011,Age,>=18 Years,2,14.2857
+2011,Gender,Male,8,57.1429
+2011,Gender,Female,6,42.8571
+2011,Hospitalization,No,11,78.5714
+2011,Hospitalization,Yes,3,21.4286
+2011,Agricultural Event Attendance,No,9,64.2857
+2011,Agricultural Event Attendance,Yes,5,35.7143
+2012,Confirmed Swine Contact,No,21,7.02341
+2012,Confirmed Swine Contact,Yes,278,92.9766
+2012,Age,<18 Years,287,91.6933
+2012,Age,>=18 Years,26,8.30671
+2012,Gender,Male,148,47.2843
+2012,Gender,Female,165,52.7157
+2012,Hospitalization,No,293,94.822
+2012,Hospitalization,Yes,16,5.17799
+2012,Agricultural Event Attendance,No,17,5.62914
+2012,Agricultural Event Attendance,Yes,285,94.3709
+2013,Confirmed Swine Contact,Yes,21,100
+2013,Age,<18 Years,20,95.2381
+2013,Age,>=18 Years,1,4.7619
+2013,Gender,Male,7,33.3333
+2013,Gender,Female,14,66.6667
+2013,Hospitalization,No,20,95.2381
+2013,Hospitalization,Yes,1,4.7619
+2013,Agricultural Event Attendance,No,2,9.52381
+2013,Agricultural Event Attendance,Yes,19,90.4762
+2014,Confirmed Swine Contact,Yes,X,X
+2014,Age,<18 Years,X,X
+2014,Age,>=18 Years,X,X
+2014,Gender,Male,X,X
+2014,Gender,Female,X,X
+2014,Hospitalization,No,X,X
+2014,Hospitalization,Yes,X,X
+2014,Agricultural Event Attendance,No,X,X
+2014,Agricultural Event Attendance,Yes,X,X
+2015,Confirmed Swine Contact,No,2,33.3333
+2015,Confirmed Swine Contact,Yes,4,66.6667
+2015,Age,<18 Years,3,50
+2015,Age,>=18 Years,3,50
+2015,Gender,Male,5,83.3333
+2015,Gender,Female,1,16.6667
+2015,Hospitalization,No,2,33.3333
+2015,Hospitalization,Yes,4,66.6667
+2015,Agricultural Event Attendance,No,5,83.3333
+2015,Agricultural Event Attendance,Yes,1,16.6667
+2016,Confirmed Swine Contact,Yes,21,100
+2016,Age,<18 Years,18,78.2609
+2016,Age,>=18 Years,5,21.7391
+2016,Gender,Male,14,60.8696
+2016,Gender,Female,9,39.1304
+2016,Hospitalization,No,20,86.9565
+2016,Hospitalization,Yes,3,13.0435
+2016,Agricultural Event Attendance,No,3,14.2857
+2016,Agricultural Event Attendance,Yes,18,85.7143
+2017,Confirmed Swine Contact,No,2,3.0303
+2017,Confirmed Swine Contact,Yes,64,96.9697
+2017,Age,<18 Years,66,98.5075
+2017,Age,>=18 Years,1,1.49254
+2017,Gender,Male,32,47.7612
+2017,Gender,Female,35,52.2388
+2017,Hospitalization,No,57,90.4762
+2017,Hospitalization,Yes,6,9.52381
+2017,Agricultural Event Attendance,No,4,5.97015
+2017,Agricultural Event Attendance,Yes,63,94.0299
+2018,Hospitalization,Yes,0,0
+2018,Confirmed Swine Contact,No,2,14.2857
+2018,Confirmed Swine Contact,Yes,12,85.7143
+2018,Age,<18 Years,13,92.8571
+2018,Age,>=18 Years,1,7.14286
+2018,Gender,Male,9,64.2857
+2018,Gender,Female,5,35.7143
+2018,Hospitalization,No,14,100
+2018,Agricultural Event Attendance,No,1,7.14286
+2018,Agricultural Event Attendance,Yes,13,92.8571
