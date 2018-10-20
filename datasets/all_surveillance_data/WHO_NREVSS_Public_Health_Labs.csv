@@ -1,0 +1,218 @@
+"*Beginning for the 2015-16 season, reports from public health and clinical laboratories are presented separately in the weekly influenza update, FluView.  Data presented from public health laboratories include the weekly total number of specimens tested, the number of positive influenza tests, and the number by influenza virus type, subtype, and influenza B lineage."
+REGION TYPE,REGION,SEASON_DESCRIPTION,TOTAL SPECIMENS,A (2009 H1N1),A (H3),A (Subtyping not Performed),B,BVic,BYam,H3N2v
+States,Alabama,Season 2015-16,256,59,16,1,2,2,2,0
+States,Alaska,Season 2015-16,4691,607,98,0,231,1,2,0
+States,Arizona,Season 2015-16,2110,762,580,0,13,58,399,0
+States,Arkansas,Season 2015-16,128,20,8,0,1,12,0,0
+States,California,Season 2015-16,12820,1462,854,35,775,309,803,0
+States,Colorado,Season 2015-16,1625,912,243,3,13,40,144,0
+States,Connecticut,Season 2015-16,1581,662,52,0,185,0,0,0
+States,Delaware,Season 2015-16,2754,414,20,12,8,78,69,0
+States,District of Columbia,Season 2015-16,172,68,3,0,7,0,3,0
+States,Florida,Season 2015-16,X,X,X,X,X,X,X,X
+States,Georgia,Season 2015-16,1548,297,32,40,19,38,41,0
+States,Hawaii,Season 2015-16,2634,477,223,35,28,80,187,0
+States,Idaho,Season 2015-16,669,200,57,3,0,28,283,0
+States,Illinois,Season 2015-16,2879,249,39,2,1,21,37,0
+States,Indiana,Season 2015-16,682,270,75,3,15,31,19,0
+States,Iowa,Season 2015-16,1085,276,46,7,0,26,78,0
+States,Kansas,Season 2015-16,266,108,16,4,2,6,20,0
+States,Kentucky,Season 2015-16,393,110,17,0,74,5,2,0
+States,Louisiana,Season 2015-16,1091,177,90,3,100,0,0,0
+States,Maine,Season 2015-16,796,226,24,3,69,0,0,0
+States,Maryland,Season 2015-16,4537,1149,51,8,0,175,222,0
+States,Massachusetts,Season 2015-16,356,146,8,0,6,25,9,0
+States,Michigan,Season 2015-16,714,271,68,0,6,21,31,12
+States,Minnesota,Season 2015-16,5927,751,61,60,2,13,110,0
+States,Mississippi,Season 2015-16,171,19,8,0,0,13,9,0
+States,Missouri,Season 2015-16,257,20,11,0,0,11,8,0
+States,Montana,Season 2015-16,659,88,23,0,31,0,0,0
+States,Nebraska,Season 2015-16,269,71,12,4,12,1,4,0
+States,Nevada,Season 2015-16,777,96,29,2,26,30,60,0
+States,New Hampshire,Season 2015-16,298,117,15,3,0,58,17,0
+States,New Jersey,Season 2015-16,926,188,92,2,105,9,8,0
+States,New Mexico,Season 2015-16,1954,193,159,8,103,44,62,0
+States,New York,Season 2015-16,3219,889,96,30,32,167,91,0
+States,North Carolina,Season 2015-16,651,173,28,1,5,26,22,0
+States,North Dakota,Season 2015-16,264,145,12,0,0,11,35,0
+States,Ohio,Season 2015-16,793,371,50,3,9,45,42,6
+States,Oklahoma,Season 2015-16,520,27,10,0,8,3,11,0
+States,Oregon,Season 2015-16,653,67,30,3,183,0,4,0
+States,Pennsylvania,Season 2015-16,1082,228,53,16,10,63,115,0
+States,Rhode Island,Season 2015-16,397,109,19,0,1,5,31,0
+States,South Carolina,Season 2015-16,745,101,107,1,1,17,7,0
+States,South Dakota,Season 2015-16,870,260,27,3,6,47,41,0
+States,Tennessee,Season 2015-16,1783,114,9,0,71,0,0,0
+States,Texas,Season 2015-16,1980,125,165,13,87,53,83,0
+States,Utah,Season 2015-16,1026,247,79,1,20,31,345,0
+States,Vermont,Season 2015-16,237,73,48,0,31,0,1,0
+States,Virginia,Season 2015-16,898,269,15,0,78,4,5,0
+States,Washington,Season 2015-16,1040,218,126,7,93,52,128,0
+States,West Virginia,Season 2015-16,549,169,11,8,96,0,5,0
+States,Wisconsin,Season 2015-16,3604,750,41,28,1,68,74,0
+States,Wyoming,Season 2015-16,494,104,27,1,2,1,42,0
+States,Puerto Rico,Season 2015-16,1001,183,185,4,31,53,142,0
+States,Virgin Islands,Season 2015-16,X,X,X,X,X,X,X,X
+States,New York City,Season 2015-16,X,X,X,X,X,X,X,X
+States,Alabama,Season 2016-17,570,3,227,1,2,15,14,0
+States,Alaska,Season 2016-17,5222,14,905,3,252,2,11,0
+States,Arizona,Season 2016-17,2975,63,1630,0,5,227,578,0
+States,Arkansas,Season 2016-17,121,0,51,0,0,4,0,0
+States,California,Season 2016-17,14074,184,4696,120,116,28,152,0
+States,Colorado,Season 2016-17,714,3,267,2,4,31,219,0
+States,Connecticut,Season 2016-17,1348,19,968,0,0,62,263,0
+States,Delaware,Season 2016-17,3090,5,659,4,11,27,127,1
+States,District of Columbia,Season 2016-17,73,1,34,0,3,0,4,0
+States,Florida,Season 2016-17,X,X,X,X,X,X,X,X
+States,Georgia,Season 2016-17,3956,27,1058,8,34,333,167,0
+States,Hawaii,Season 2016-17,2442,53,889,14,7,89,189,0
+States,Idaho,Season 2016-17,1311,9,983,3,1,16,26,0
+States,Illinois,Season 2016-17,3060,6,479,0,3,325,80,0
+States,Indiana,Season 2016-17,1255,39,694,0,2,112,122,0
+States,Iowa,Season 2016-17,1839,15,822,9,7,79,150,0
+States,Kansas,Season 2016-17,330,4,122,13,15,2,10,0
+States,Kentucky,Season 2016-17,541,20,250,0,57,3,9,0
+States,Louisiana,Season 2016-17,1947,40,602,2,33,37,155,0
+States,Maine,Season 2016-17,894,0,268,2,137,8,53,0
+States,Maryland,Season 2016-17,5997,57,2068,0,16,94,557,39
+States,Massachusetts,Season 2016-17,485,6,312,0,1,0,4,0
+States,Michigan,Season 2016-17,962,20,541,0,29,57,145,1
+States,Minnesota,Season 2016-17,6521,24,1513,25,2,75,808,0
+States,Mississippi,Season 2016-17,355,9,143,0,1,15,20,0
+States,Missouri,Season 2016-17,363,3,141,2,0,6,9,0
+States,Montana,Season 2016-17,739,36,314,2,4,0,37,0
+States,Nebraska,Season 2016-17,280,5,111,2,8,9,12,0
+States,Nevada,Season 2016-17,568,13,270,0,5,2,43,0
+States,New Hampshire,Season 2016-17,410,2,218,1,1,4,46,0
+States,New Jersey,Season 2016-17,668,4,285,1,74,2,3,0
+States,New Mexico,Season 2016-17,1818,14,481,1,2,6,58,0
+States,New York,Season 2016-17,2581,10,857,17,56,39,164,0
+States,North Carolina,Season 2016-17,901,39,285,3,8,28,60,0
+States,North Dakota,Season 2016-17,1029,26,351,1,10,37,278,1
+States,Ohio,Season 2016-17,1431,13,832,8,31,64,173,15
+States,Oklahoma,Season 2016-17,824,27,220,0,18,3,62,0
+States,Oregon,Season 2016-17,457,1,246,1,53,0,0,0
+States,Pennsylvania,Season 2016-17,1382,4,533,9,8,49,50,1
+States,Rhode Island,Season 2016-17,447,3,143,0,0,3,66,0
+States,South Carolina,Season 2016-17,1077,10,263,2,22,55,36,0
+States,South Dakota,Season 2016-17,1275,22,479,16,16,64,206,0
+States,Tennessee,Season 2016-17,2601,24,350,29,135,3,9,0
+States,Texas,Season 2016-17,1713,49,397,5,51,35,115,0
+States,Utah,Season 2016-17,1358,8,863,0,7,45,128,0
+States,Vermont,Season 2016-17,371,3,233,0,51,0,2,0
+States,Virginia,Season 2016-17,1662,17,677,1,31,26,138,0
+States,Washington,Season 2016-17,1076,18,534,7,19,9,53,0
+States,West Virginia,Season 2016-17,729,2,360,0,127,0,1,0
+States,Wisconsin,Season 2016-17,4887,31,1011,11,6,86,261,0
+States,Wyoming,Season 2016-17,839,2,273,3,12,1,29,0
+States,Puerto Rico,Season 2016-17,642,2,411,0,19,52,24,0
+States,Virgin Islands,Season 2016-17,X,X,X,X,X,X,X,X
+States,New York City,Season 2016-17,X,X,X,X,X,X,X,X
+States,Alabama,Season 2017-18,822,131,204,4,7,4,66,0
+States,Alaska,Season 2017-18,3447,173,651,1,347,1,5,0
+States,Arizona,Season 2017-18,3366,180,2055,0,8,197,720,0
+States,Arkansas,Season 2017-18,413,21,101,0,19,0,43,0
+States,California,Season 2017-18,15632,660,4665,195,702,281,1287,0
+States,Colorado,Season 2017-18,1083,54,501,4,19,2,162,0
+States,Connecticut,Season 2017-18,2259,161,887,0,1,47,423,0
+States,Delaware,Season 2017-18,2818,163,382,6,24,100,206,0
+States,District of Columbia,Season 2017-18,560,56,193,0,0,5,80,0
+States,Florida,Season 2017-18,X,X,X,X,X,X,X,X
+States,Georgia,Season 2017-18,2050,261,582,2,38,6,254,0
+States,Hawaii,Season 2017-18,3277,101,1070,19,8,43,501,0
+States,Idaho,Season 2017-18,1273,94,477,4,6,9,435,0
+States,Illinois,Season 2017-18,3473,143,722,2,22,1,398,0
+States,Indiana,Season 2017-18,1307,126,562,0,11,14,233,1
+States,Iowa,Season 2017-18,2523,60,979,8,2,2,480,1
+States,Kansas,Season 2017-18,213,23,52,1,21,2,15,0
+States,Kentucky,Season 2017-18,1082,104,377,2,14,13,297,0
+States,Louisiana,Season 2017-18,1993,135,305,3,60,2,113,0
+States,Maine,Season 2017-18,1172,55,316,3,0,33,115,0
+States,Maryland,Season 2017-18,6483,582,1887,2,10,131,752,0
+States,Massachusetts,Season 2017-18,491,31,156,0,2,0,2,0
+States,Michigan,Season 2017-18,1065,95,587,3,58,7,174,0
+States,Minnesota,Season 2017-18,7609,170,2828,73,2,52,575,0
+States,Mississippi,Season 2017-18,431,80,127,0,2,0,75,0
+States,Missouri,Season 2017-18,822,51,205,0,0,7,104,0
+States,Montana,Season 2017-18,736,50,294,7,6,30,122,0
+States,Nebraska,Season 2017-18,283,9,108,1,9,1,18,1
+States,Nevada,Season 2017-18,843,24,314,0,4,1,223,0
+States,New Hampshire,Season 2017-18,462,37,176,4,1,8,70,0
+States,New Jersey,Season 2017-18,1055,103,294,1,180,20,31,0
+States,New Mexico,Season 2017-18,1661,41,447,2,28,0,280,0
+States,New York,Season 2017-18,4083,232,1419,21,153,17,384,0
+States,North Carolina,Season 2017-18,747,41,157,1,10,25,68,0
+States,North Dakota,Season 2017-18,1148,72,619,5,8,32,214,0
+States,Ohio,Season 2017-18,2559,189,922,9,127,5,199,0
+States,Oklahoma,Season 2017-18,1114,100,213,1,53,4,60,0
+States,Oregon,Season 2017-18,868,136,185,1,390,0,4,0
+States,Pennsylvania,Season 2017-18,1699,85,493,5,5,40,227,0
+States,Rhode Island,Season 2017-18,440,13,136,0,0,1,38,0
+States,South Carolina,Season 2017-18,874,55,203,0,15,2,60,0
+States,South Dakota,Season 2017-18,1305,40,514,4,12,24,190,0
+States,Tennessee,Season 2017-18,2261,2,212,61,157,0,3,0
+States,Texas,Season 2017-18,1653,79,263,2,162,2,78,0
+States,Utah,Season 2017-18,1333,84,621,1,15,71,249,0
+States,Vermont,Season 2017-18,379,22,156,0,58,0,0,0
+States,Virginia,Season 2017-18,1843,183,533,0,72,34,226,0
+States,Washington,Season 2017-18,912,96,231,6,73,4,132,0
+States,West Virginia,Season 2017-18,696,64,276,0,12,37,134,0
+States,Wisconsin,Season 2017-18,4973,116,1051,17,0,12,373,0
+States,Wyoming,Season 2017-18,744,40,142,1,16,2,107,0
+States,Puerto Rico,Season 2017-18,724,33,432,0,4,9,142,0
+States,Virgin Islands,Season 2017-18,X,X,X,X,X,X,X,X
+States,New York City,Season 2017-18,X,X,X,X,X,X,X,X
+States,Alabama,Season 2018-19,12,1,0,0,0,0,0,0
+States,Alaska,Season 2018-19,0,0,0,0,0,0,0,0
+States,Arizona,Season 2018-19,X,X,X,X,X,X,X,X
+States,Arkansas,Season 2018-19,14,1,0,0,0,1,0,0
+States,California,Season 2018-19,53,0,0,0,0,0,0,0
+States,Colorado,Season 2018-19,X,X,X,X,X,X,X,X
+States,Connecticut,Season 2018-19,X,X,X,X,X,X,X,X
+States,Delaware,Season 2018-19,61,0,0,0,1,0,0,0
+States,District of Columbia,Season 2018-19,0,0,0,0,0,0,0,0
+States,Florida,Season 2018-19,X,X,X,X,X,X,X,X
+States,Georgia,Season 2018-19,X,X,X,X,X,X,X,X
+States,Hawaii,Season 2018-19,0,0,0,0,0,0,0,0
+States,Idaho,Season 2018-19,X,X,X,X,X,X,X,X
+States,Illinois,Season 2018-19,57,0,0,0,0,0,0,0
+States,Indiana,Season 2018-19,15,1,0,0,0,0,0,0
+States,Iowa,Season 2018-19,57,0,0,0,0,0,0,0
+States,Kansas,Season 2018-19,X,X,X,X,X,X,X,X
+States,Kentucky,Season 2018-19,X,X,X,X,X,X,X,X
+States,Louisiana,Season 2018-19,44,0,0,0,0,0,0,0
+States,Maine,Season 2018-19,12,0,0,0,0,0,0,0
+States,Maryland,Season 2018-19,92,2,0,0,0,1,0,0
+States,Massachusetts,Season 2018-19,X,X,X,X,X,X,X,X
+States,Michigan,Season 2018-19,11,5,1,0,0,0,0,0
+States,Minnesota,Season 2018-19,27,0,0,0,0,0,0,0
+States,Mississippi,Season 2018-19,X,X,X,X,X,X,X,X
+States,Missouri,Season 2018-19,X,X,X,X,X,X,X,X
+States,Montana,Season 2018-19,22,1,0,1,0,0,1,0
+States,Nebraska,Season 2018-19,0,0,0,0,0,0,0,0
+States,Nevada,Season 2018-19,X,X,X,X,X,X,X,X
+States,New Hampshire,Season 2018-19,10,1,2,0,0,0,0,0
+States,New Jersey,Season 2018-19,X,X,X,X,X,X,X,X
+States,New Mexico,Season 2018-19,X,X,X,X,X,X,X,X
+States,New York,Season 2018-19,17,0,0,0,0,0,0,0
+States,North Carolina,Season 2018-19,X,X,X,X,X,X,X,X
+States,North Dakota,Season 2018-19,11,7,2,0,0,0,0,0
+States,Ohio,Season 2018-19,X,X,X,X,X,X,X,X
+States,Oklahoma,Season 2018-19,X,X,X,X,X,X,X,X
+States,Oregon,Season 2018-19,X,X,X,X,X,X,X,X
+States,Pennsylvania,Season 2018-19,16,1,1,0,0,0,0,0
+States,Rhode Island,Season 2018-19,0,0,0,0,0,0,0,0
+States,South Carolina,Season 2018-19,0,0,0,0,0,0,0,0
+States,South Dakota,Season 2018-19,24,1,0,0,0,0,0,0
+States,Tennessee,Season 2018-19,20,0,0,0,0,0,0,0
+States,Texas,Season 2018-19,32,0,0,0,0,0,0,0
+States,Utah,Season 2018-19,X,X,X,X,X,X,X,X
+States,Vermont,Season 2018-19,X,X,X,X,X,X,X,X
+States,Virginia,Season 2018-19,X,X,X,X,X,X,X,X
+States,Washington,Season 2018-19,X,X,X,X,X,X,X,X
+States,West Virginia,Season 2018-19,X,X,X,X,X,X,X,X
+States,Wisconsin,Season 2018-19,145,0,0,1,0,0,0,0
+States,Wyoming,Season 2018-19,10,0,0,0,0,0,4,0
+States,Puerto Rico,Season 2018-19,0,0,0,0,0,0,0,0
+States,Virgin Islands,Season 2018-19,X,X,X,X,X,X,X,X
+States,New York City,Season 2018-19,X,X,X,X,X,X,X,X
