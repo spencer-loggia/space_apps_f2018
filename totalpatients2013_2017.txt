@@ -1,0 +1,3171 @@
+Alabama, 28727, 7
+Alaska, 5543, 7
+Arizona, 50356, 7
+Arkansas, 3910, 7
+California, 97473, 7
+Colorado, 78152, 7
+Connecticut, 251, 7
+Delaware, 806, 7
+District of Columbia, 4900, 7
+Georgia, 95487, 7
+Hawaii, 4333, 7
+Idaho, 6127, 7
+Illinois, 137119, 7
+Indiana, 18647, 7
+Iowa, 4070, 7
+Kansas, 13773, 7
+Kentucky, 18672, 7
+Louisiana, 115277, 7
+Maine, 18898, 7
+Maryland, 25965, 7
+Massachusetts, 89901, 7
+Michigan, 40037, 7
+Minnesota, 14159, 7
+Mississippi, 59111, 7
+Missouri, 10950, 7
+Montana, 4935, 7
+Nebraska, 3234, 7
+Nevada, 21221, 7
+New Hampshire, 9388, 7
+New Jersey, 11491, 7
+New Mexico, 24894, 7
+New York, 29875, 7
+New York City, 372083, 7
+North Carolina, 12143, 7
+North Dakota, 4315, 7
+Ohio, 27010, 7
+Oklahoma, 8816, 7
+Oregon, 4363, 7
+Pennsylvania, 35760, 7
+Rhode Island, 15521, 7
+South Carolina, 14666, 7
+South Dakota, 2164, 7
+Tennessee, 30457, 7
+Texas, 116590, 7
+Utah, 65015, 7
+Vermont, 6509, 7
+Virgin Islands, 1624, 7
+Virginia, 208135, 7
+Washington, 17049, 7
+West Virginia, 36930, 7
+Wisconsin, 9943, 7
+Wyoming, 11422, 7
+Alabama, 52308, 2
+Alaska, 9050, 2
+Arizona, 86629, 2
+Arkansas, 14168, 2
+California, 143927, 2
+Colorado, 92694, 2
+Connecticut, 16391, 2
+Delaware, 10850, 2
+District of Columbia, 7657, 2
+Georgia, 109484, 2
+Hawaii, 17918, 2
+Idaho, 21002, 2
+Illinois, 172600, 2
+Indiana, 42790, 2
+Iowa, 12643, 2
+Kansas, 31296, 2
+Kentucky, 85984, 2
+Louisiana, 128439, 2
+Maine, 25557, 2
+Maryland, 37797, 2
+Massachusetts, 104562, 2
+Michigan, 61052, 2
+Minnesota, 18664, 2
+Mississippi, 69399, 2
+Missouri, 29807, 2
+Montana, 11114, 2
+Nebraska, 13363, 2
+Nevada, 57045, 2
+New Hampshire, 18268, 2
+New Jersey, 23797, 2
+New Mexico, 37346, 2
+New York, 62643, 2
+New York City, 377909, 2
+North Carolina, 85989, 2
+North Dakota, 5874, 2
+Ohio, 56860, 2
+Oklahoma, 16110, 2
+Oregon, 14015, 2
+Pennsylvania, 68540, 2
+Rhode Island, 23764, 2
+South Carolina, 30210, 2
+South Dakota, 20146, 2
+Tennessee, 46812, 2
+Texas, 156403, 2
+Utah, 77483, 2
+Vermont, 12384, 2
+Virgin Islands, 1427, 2
+Virginia, 280994, 2
+Washington, 27665, 2
+West Virginia, 55780, 2
+Wisconsin, 17175, 2
+Wyoming, 17197, 2
+Alabama, 47344, 3
+Alaska, 7170, 3
+Arizona, 76858, 3
+Arkansas, 10258, 3
+California, 136628, 3
+Colorado, 90942, 3
+Connecticut, 14160, 3
+Delaware, 10331, 3
+District of Columbia, 7511, 3
+Georgia, 123358, 3
+Hawaii, 5272, 3
+Idaho, 18745, 3
+Illinois, 159133, 3
+Indiana, 39242, 3
+Iowa, 7796, 3
+Kansas, 27535, 3
+Kentucky, 86519, 3
+Louisiana, 118193, 3
+Maine, 24160, 3
+Maryland, 30391, 3
+Massachusetts, 106110, 3
+Michigan, 60745, 3
+Minnesota, 17389, 3
+Mississippi, 67811, 3
+Missouri, 27000, 3
+Montana, 10869, 3
+Nebraska, 12728, 3
+Nevada, 28812, 3
+New Hampshire, 16115, 3
+New Jersey, 19385, 3
+New Mexico, 36385, 3
+New York, 58365, 3
+New York City, 388040, 3
+North Carolina, 70275, 3
+North Dakota, 6225, 3
+Ohio, 51521, 3
+Oklahoma, 16052, 3
+Oregon, 13014, 3
+Pennsylvania, 59033, 3
+Rhode Island, 24281, 3
+South Carolina, 29252, 3
+South Dakota, 20033, 3
+Tennessee, 42086, 3
+Texas, 150844, 3
+Utah, 72986, 3
+Vermont, 11628, 3
+Virgin Islands, 1511, 3
+Virginia, 283339, 3
+Washington, 26246, 3
+West Virginia, 54857, 3
+Wisconsin, 17017, 3
+Wyoming, 17153, 3
+Alabama, 43533, 4
+Alaska, 6237, 4
+Arizona, 70786, 4
+Arkansas, 9644, 4
+California, 126025, 4
+Colorado, 82951, 4
+Connecticut, 13262, 4
+Delaware, 8411, 4
+District of Columbia, 7337, 4
+Georgia, 128124, 4
+Hawaii, 4502, 4
+Idaho, 13391, 4
+Illinois, 158128, 4
+Indiana, 36206, 4
+Iowa, 8625, 4
+Kansas, 25852, 4
+Kentucky, 82023, 4
+Louisiana, 130832, 4
+Maine, 24913, 4
+Maryland, 31282, 4
+Massachusetts, 106424, 4
+Michigan, 60030, 4
+Minnesota, 17911, 4
+Mississippi, 66188, 4
+Missouri, 25605, 4
+Montana, 10389, 4
+Nebraska, 9966, 4
+Nevada, 26626, 4
+New Hampshire, 17620, 4
+New Jersey, 16362, 4
+New Mexico, 34680, 4
+New York, 46517, 4
+New York City, 383635, 4
+North Carolina, 67071, 4
+North Dakota, 5050, 4
+Ohio, 47328, 4
+Oklahoma, 14988, 4
+Oregon, 11640, 4
+Pennsylvania, 55743, 4
+Rhode Island, 25316, 4
+South Carolina, 28837, 4
+South Dakota, 18473, 4
+Tennessee, 41840, 4
+Texas, 141162, 4
+Utah, 69719, 4
+Vermont, 8790, 4
+Virgin Islands, 1378, 4
+Virginia, 265178, 4
+Washington, 24749, 4
+West Virginia, 53275, 4
+Wisconsin, 16075, 4
+Wyoming, 15676, 4
+Alabama, 36669, 5
+Alaska, 3882, 5
+Arizona, 61805, 5
+Arkansas, 4964, 5
+California, 132547, 5
+Colorado, 86866, 5
+Connecticut, 10625, 5
+Delaware, 8781, 5
+District of Columbia, 5914, 5
+Georgia, 106087, 5
+Hawaii, 4553, 5
+Idaho, 12607, 5
+Illinois, 158041, 5
+Indiana, 34198, 5
+Iowa, 7063, 5
+Kansas, 24524, 5
+Kentucky, 40510, 5
+Louisiana, 127975, 5
+Maine, 23994, 5
+Maryland, 22280, 5
+Massachusetts, 106742, 5
+Michigan, 50803, 5
+Minnesota, 17476, 5
+Mississippi, 63349, 5
+Missouri, 27144, 5
+Montana, 10320, 5
+Nebraska, 8566, 5
+Nevada, 27461, 5
+New Hampshire, 12315, 5
+New Jersey, 17186, 5
+New Mexico, 34015, 5
+New York, 45747, 5
+New York City, 386841, 5
+North Carolina, 48120, 5
+North Dakota, 4592, 5
+Ohio, 40812, 5
+Oklahoma, 11664, 5
+Oregon, 11449, 5
+Pennsylvania, 53769, 5
+Rhode Island, 23940, 5
+South Carolina, 24317, 5
+South Dakota, 17512, 5
+Tennessee, 35249, 5
+Texas, 139957, 5
+Utah, 70960, 5
+Vermont, 7908, 5
+Virgin Islands, 1502, 5
+Virginia, 245594, 5
+Washington, 24156, 5
+West Virginia, 52768, 5
+Wisconsin, 16537, 5
+Wyoming, 14488, 5
+Alabama, 32242, 6
+Alaska, 6979, 6
+Arizona, 53427, 6
+Arkansas, 4522, 6
+California, 113354, 6
+Colorado, 80903, 6
+Connecticut, 2064, 6
+Delaware, 1244, 6
+District of Columbia, 4809, 6
+Georgia, 99858, 6
+Hawaii, 3675, 6
+Idaho, 6957, 6
+Illinois, 137870, 6
+Indiana, 22320, 6
+Iowa, 4092, 6
+Kansas, 16076, 6
+Kentucky, 19503, 6
+Louisiana, 117138, 6
+Maine, 20111, 6
+Maryland, 11463, 6
+Massachusetts, 95428, 6
+Michigan, 40379, 6
+Minnesota, 14687, 6
+Mississippi, 61273, 6
+Missouri, 16234, 6
+Montana, 6707, 6
+Nebraska, 5350, 6
+Nevada, 21302, 6
+New Hampshire, 9545, 6
+New Jersey, 13330, 6
+New Mexico, 23019, 6
+New York, 32691, 6
+New York City, 372620, 6
+North Carolina, 16418, 6
+North Dakota, 4681, 6
+Ohio, 27210, 6
+Oklahoma, 9140, 6
+Oregon, 8909, 6
+Pennsylvania, 37766, 6
+Rhode Island, 16652, 6
+South Carolina, 18948, 6
+South Dakota, 14619, 6
+Tennessee, 31328, 6
+Texas, 130268, 6
+Utah, 65526, 6
+Vermont, 7383, 6
+Virgin Islands, 1640, 6
+Virginia, 225966, 6
+Washington, 20254, 6
+West Virginia, 37416, 6
+Wisconsin, 10375, 6
+Wyoming, 12573, 6
+Alabama, 28727, 7
+Alaska, 5543, 7
+Arizona, 50356, 7
+Arkansas, 3910, 7
+California, 97473, 7
+Colorado, 78152, 7
+Connecticut, 251, 7
+Delaware, 806, 7
+District of Columbia, 4900, 7
+Georgia, 95487, 7
+Hawaii, 4333, 7
+Idaho, 6127, 7
+Illinois, 137119, 7
+Indiana, 18647, 7
+Iowa, 4070, 7
+Kansas, 13773, 7
+Kentucky, 18672, 7
+Louisiana, 115277, 7
+Maine, 18898, 7
+Maryland, 25965, 7
+Massachusetts, 89901, 7
+Michigan, 40037, 7
+Minnesota, 14159, 7
+Mississippi, 59111, 7
+Missouri, 10950, 7
+Montana, 4935, 7
+Nebraska, 3234, 7
+Nevada, 21221, 7
+New Hampshire, 9388, 7
+New Jersey, 11491, 7
+New Mexico, 24894, 7
+New York, 29875, 7
+New York City, 372083, 7
+North Carolina, 12143, 7
+North Dakota, 4315, 7
+Ohio, 27010, 7
+Oklahoma, 8816, 7
+Oregon, 4363, 7
+Pennsylvania, 35760, 7
+Rhode Island, 15521, 7
+South Carolina, 14666, 7
+South Dakota, 2164, 7
+Tennessee, 30457, 7
+Texas, 116590, 7
+Utah, 65015, 7
+Vermont, 6509, 7
+Virgin Islands, 1624, 7
+Virginia, 208135, 7
+Washington, 17049, 7
+West Virginia, 36930, 7
+Wisconsin, 9943, 7
+Wyoming, 11422, 7
+Alabama, 30136, 8
+Alaska, 7297, 8
+Arizona, 52090, 8
+Arkansas, 4070, 8
+California, 96400, 8
+Colorado, 80282, 8
+Connecticut, 305, 8
+Delaware, 933, 8
+District of Columbia, 4882, 8
+Georgia, 101417, 8
+Hawaii, 4853, 8
+Idaho, 4943, 8
+Illinois, 143137, 8
+Indiana, 21137, 8
+Iowa, 3395, 8
+Kansas, 11953, 8
+Kentucky, 16105, 8
+Louisiana, 84748, 8
+Maine, 19836, 8
+Maryland, 26658, 8
+Massachusetts, 88577, 8
+Michigan, 33081, 8
+Minnesota, 14808, 8
+Mississippi, 60240, 8
+Missouri, 10842, 8
+Montana, 4902, 8
+Nebraska, 3620, 8
+Nevada, 20179, 8
+New Hampshire, 9582, 8
+New Jersey, 12105, 8
+New Mexico, 23228, 8
+New York, 30104, 8
+New York City, 358066, 8
+North Carolina, 11332, 8
+North Dakota, 3553, 8
+Ohio, 28247, 8
+Oklahoma, 8156, 8
+Oregon, 4165, 8
+Pennsylvania, 36422, 8
+Rhode Island, 16738, 8
+South Carolina, 15850, 8
+South Dakota, 2033, 8
+Tennessee, 35546, 8
+Texas, 120067, 8
+Utah, 67097, 8
+Vermont, 6799, 8
+Virgin Islands, 1347, 8
+Virginia, 180885, 8
+Washington, 17857, 8
+West Virginia, 38882, 8
+Wisconsin, 10367, 8
+Wyoming, 9325, 8
+Alabama, 31935, 9
+Alaska, 6508, 9
+Arizona, 52219, 9
+Arkansas, 6002, 9
+California, 95114, 9
+Colorado, 59398, 9
+Connecticut, 2896, 9
+Delaware, 949, 9
+District of Columbia, 5428, 9
+Georgia, 119204, 9
+Hawaii, 4553, 9
+Idaho, 4888, 9
+Illinois, 148404, 9
+Indiana, 26581, 9
+Iowa, 4180, 9
+Kansas, 12497, 9
+Kentucky, 20985, 9
+Louisiana, 121836, 9
+Maine, 19258, 9
+Maryland, 23018, 9
+Massachusetts, 79758, 9
+Michigan, 30252, 9
+Minnesota, 15157, 9
+Mississippi, 61568, 9
+Missouri, 13907, 9
+Montana, 5311, 9
+Nebraska, 5612, 9
+Nevada, 20579, 9
+New Hampshire, 9324, 9
+New Jersey, 12855, 9
+New Mexico, 26269, 9
+New York, 30624, 9
+New York City, 342371, 9
+North Carolina, 14380, 9
+North Dakota, 1002, 9
+Ohio, 33802, 9
+Oklahoma, 9503, 9
+Oregon, 3598, 9
+Pennsylvania, 42210, 9
+Rhode Island, 16638, 9
+South Carolina, 20397, 9
+South Dakota, 2265, 9
+Tennessee, 39361, 9
+Texas, 128620, 9
+Utah, 53800, 9
+Vermont, 6104, 9
+Virgin Islands, 1352, 9
+Virginia, 180549, 9
+Washington, 18422, 9
+West Virginia, 48171, 9
+Wisconsin, 10645, 9
+Wyoming, 10257, 9
+Alabama, 38364, 10
+Alaska, 6980, 10
+Arizona, 58355, 10
+Arkansas, 8918, 10
+California, 121423, 10
+Colorado, 83340, 10
+Connecticut, 12292, 10
+Delaware, 3811, 10
+District of Columbia, 7912, 10
+Georgia, 141019, 10
+Hawaii, 5514, 10
+Idaho, 8330, 10
+Illinois, 180451, 10
+Indiana, 31960, 10
+Iowa, 70937, 10
+Kansas, 18172, 10
+Kentucky, 36223, 10
+Louisiana, 123053, 10
+Maine, 19434, 10
+Maryland, 20031, 10
+Massachusetts, 108085, 10
+Michigan, 43354, 10
+Minnesota, 14089, 10
+Mississippi, 66249, 10
+Missouri, 17908, 10
+Montana, 7383, 10
+Nebraska, 6834, 10
+Nevada, 29128, 10
+New Hampshire, 12088, 10
+New Jersey, 30222, 10
+New Mexico, 28633, 10
+New York, 40944, 10
+New York City, 373461, 10
+North Carolina, 27655, 10
+North Dakota, 2430, 10
+Ohio, 38104, 10
+Oklahoma, 12520, 10
+Oregon, 6300, 10
+Pennsylvania, 56295, 10
+Puerto Rico, 775, 10
+Rhode Island, 24742, 10
+South Carolina, 21501, 10
+South Dakota, 12574, 10
+Tennessee, 42194, 10
+Texas, 158913, 10
+Utah, 40687, 10
+Vermont, 8750, 10
+Virgin Islands, 1505, 10
+Virginia, 257715, 10
+Washington, 23473, 10
+West Virginia, 47737, 10
+Wisconsin, 16224, 10
+Wyoming, 12760, 10
+Alabama, 57813, 11
+Alaska, 8294, 11
+Arizona, 116282, 11
+Arkansas, 17581, 11
+California, 165132, 11
+Colorado, 86868, 11
+Connecticut, 24475, 11
+Delaware, 10904, 11
+District of Columbia, 8695, 11
+Georgia, 139616, 11
+Hawaii, 7123, 11
+Idaho, 11692, 11
+Illinois, 237307, 11
+Indiana, 38153, 11
+Iowa, 147220, 11
+Kansas, 29265, 11
+Kentucky, 83254, 11
+Louisiana, 129102, 11
+Maine, 23368, 11
+Maryland, 46339, 11
+Massachusetts, 122626, 11
+Michigan, 68838, 11
+Minnesota, 19645, 11
+Mississippi, 65608, 11
+Missouri, 31116, 11
+Montana, 10225, 11
+Nebraska, 9640, 11
+Nevada, 65312, 11
+New Hampshire, 21286, 11
+New Jersey, 45426, 11
+New Mexico, 44382, 11
+New York, 60691, 11
+New York City, 383081, 11
+North Carolina, 69043, 11
+North Dakota, 7400, 11
+Ohio, 62194, 11
+Oklahoma, 15527, 11
+Oregon, 17035, 11
+Pennsylvania, 69804, 11
+Puerto Rico, 3190, 11
+Rhode Island, 24665, 11
+South Carolina, 26050, 11
+South Dakota, 22392, 11
+Tennessee, 41420, 11
+Texas, 174692, 11
+Utah, 94152, 11
+Vermont, 14217, 11
+Virgin Islands, 1500, 11
+Virginia, 269329, 11
+Washington, 27966, 11
+West Virginia, 53649, 11
+Wisconsin, 19730, 11
+Wyoming, 21634, 11
+Alabama, 56494, 12
+Alaska, 8317, 12
+Arizona, 105041, 12
+Arkansas, 15961, 12
+California, 148990, 12
+Colorado, 84827, 12
+Connecticut, 13460, 12
+Delaware, 10928, 12
+District of Columbia, 6802, 12
+Georgia, 132720, 12
+Hawaii, 6557, 12
+Idaho, 10512, 12
+Illinois, 218345, 12
+Indiana, 35833, 12
+Iowa, 129967, 12
+Kansas, 28006, 12
+Kentucky, 83326, 12
+Louisiana, 128234, 12
+Maine, 18957, 12
+Maryland, 44577, 12
+Massachusetts, 115136, 12
+Michigan, 58365, 12
+Minnesota, 17510, 12
+Mississippi, 69830, 12
+Missouri, 27693, 12
+Montana, 7899, 12
+Nebraska, 9765, 12
+Nevada, 67756, 12
+New Hampshire, 17722, 12
+New Jersey, 40171, 12
+New Mexico, 40681, 12
+New York, 59711, 12
+New York City, 358376, 12
+North Carolina, 60634, 12
+North Dakota, 5942, 12
+Ohio, 57507, 12
+Oklahoma, 15174, 12
+Oregon, 13701, 12
+Pennsylvania, 58456, 12
+Puerto Rico, 2859, 12
+Rhode Island, 23767, 12
+South Carolina, 24334, 12
+South Dakota, 21726, 12
+Tennessee, 40068, 12
+Texas, 164045, 12
+Utah, 142728, 12
+Vermont, 12597, 12
+Virgin Islands, 1488, 12
+Virginia, 271072, 12
+Washington, 24481, 12
+West Virginia, 51245, 12
+Wisconsin, 16225, 12
+Wyoming, 20149, 12
+Alabama, 46037, 1
+Alaska, 8247, 1
+Arizona, 108306, 1
+Arkansas, 15678, 1
+California, 149078, 1
+Colorado, 89442, 1
+Connecticut, 7497, 1
+Delaware, 8632, 1
+District of Columbia, 4745, 1
+Georgia, 116403, 1
+Hawaii, 5359, 1
+Idaho, 12625, 1
+Illinois, 206473, 1
+Indiana, 28382, 1
+Iowa, 121808, 1
+Kansas, 25503, 1
+Kentucky, 76927, 1
+Louisiana, 134288, 1
+Maine, 19403, 1
+Maryland, 38281, 1
+Massachusetts, 102077, 1
+Michigan, 56183, 1
+Minnesota, 17091, 1
+Mississippi, 69795, 1
+Missouri, 27953, 1
+Montana, 8776, 1
+Nebraska, 9632, 1
+Nevada, 74204, 1
+New Hampshire, 15119, 1
+New Jersey, 32940, 1
+New Mexico, 44693, 1
+New York, 54356, 1
+New York City, 357513, 1
+North Carolina, 59571, 1
+North Dakota, 7415, 1
+Ohio, 55559, 1
+Oklahoma, 17135, 1
+Oregon, 13101, 1
+Pennsylvania, 39623, 1
+Puerto Rico, 2701, 1
+Rhode Island, 18613, 1
+South Carolina, 21864, 1
+South Dakota, 22628, 1
+Tennessee, 35277, 1
+Texas, 168948, 1
+Utah, 74480, 1
+Vermont, 11661, 1
+Virgin Islands, 1412, 1
+Virginia, 301695, 1
+Washington, 18268, 1
+West Virginia, 52801, 1
+Wisconsin, 10680, 1
+Wyoming, 20197, 1
+Alabama, 42879, 2
+Alaska, 8031, 2
+Arizona, 116914, 2
+Arkansas, 15500, 2
+California, 158622, 2
+Colorado, 92472, 2
+Connecticut, 19013, 2
+Delaware, 9924, 2
+District of Columbia, 6415, 2
+Georgia, 88014, 2
+Hawaii, 6459, 2
+Idaho, 12123, 2
+Illinois, 220849, 2
+Indiana, 31884, 2
+Iowa, 121368, 2
+Kansas, 26579, 2
+Kentucky, 83760, 2
+Louisiana, 135932, 2
+Maine, 20628, 2
+Maryland, 44574, 2
+Massachusetts, 108927, 2
+Michigan, 58625, 2
+Minnesota, 19247, 2
+Mississippi, 65058, 2
+Missouri, 29671, 2
+Montana, 10641, 2
+Nebraska, 10228, 2
+Nevada, 74680, 2
+New Hampshire, 16607, 2
+New Jersey, 36272, 2
+New Mexico, 44490, 2
+New York, 65908, 2
+New York City, 354354, 2
+North Carolina, 59182, 2
+North Dakota, 8780, 2
+Ohio, 60921, 2
+Oklahoma, 15573, 2
+Oregon, 13440, 2
+Pennsylvania, 52164, 2
+Puerto Rico, 2831, 2
+Rhode Island, 23889, 2
+South Carolina, 22267, 2
+South Dakota, 23079, 2
+Tennessee, 38111, 2
+Texas, 169228, 2
+Utah, 68847, 2
+Vermont, 12799, 2
+Virgin Islands, 1566, 2
+Virginia, 277834, 2
+Washington, 18746, 2
+West Virginia, 52360, 2
+Wisconsin, 21562, 2
+Wyoming, 20048, 2
+Alabama, 38819, 3
+Alaska, 8332, 3
+Arizona, 101589, 3
+Arkansas, 13654, 3
+California, 151659, 3
+Colorado, 96677, 3
+Connecticut, 11848, 3
+Delaware, 9516, 3
+District of Columbia, 5035, 3
+Georgia, 94906, 3
+Hawaii, 6361, 3
+Idaho, 12639, 3
+Illinois, 225112, 3
+Indiana, 32875, 3
+Iowa, 126663, 3
+Kansas, 26062, 3
+Kentucky, 82966, 3
+Louisiana, 125569, 3
+Maine, 21355, 3
+Maryland, 44029, 3
+Massachusetts, 112571, 3
+Michigan, 59493, 3
+Minnesota, 19095, 3
+Mississippi, 65624, 3
+Missouri, 28400, 3
+Montana, 11111, 3
+Nebraska, 10609, 3
+Nevada, 72169, 3
+New Hampshire, 14760, 3
+New Jersey, 42456, 3
+New Mexico, 46080, 3
+New York, 64100, 3
+New York City, 380909, 3
+North Carolina, 58526, 3
+North Dakota, 6693, 3
+Ohio, 63099, 3
+Oklahoma, 16969, 3
+Oregon, 13136, 3
+Pennsylvania, 52307, 3
+Puerto Rico, 3001, 3
+Rhode Island, 24082, 3
+South Carolina, 23507, 3
+South Dakota, 23131, 3
+Tennessee, 38386, 3
+Texas, 160187, 3
+Utah, 69520, 3
+Vermont, 8812, 3
+Virgin Islands, 1759, 3
+Virginia, 290709, 3
+Washington, 17348, 3
+West Virginia, 56319, 3
+Wisconsin, 25636, 3
+Wyoming, 20271, 3
+Alabama, 32710, 4
+Alaska, 8351, 4
+Arizona, 85976, 4
+Arkansas, 10693, 4
+California, 135845, 4
+Colorado, 91160, 4
+Connecticut, 17294, 4
+Delaware, 9684, 4
+District of Columbia, 4634, 4
+Georgia, 114175, 4
+Hawaii, 5237, 4
+Idaho, 9726, 4
+Illinois, 231018, 4
+Indiana, 34646, 4
+Iowa, 126503, 4
+Kansas, 25860, 4
+Kentucky, 81908, 4
+Louisiana, 124513, 4
+Maine, 21749, 4
+Maryland, 39167, 4
+Massachusetts, 113991, 4
+Michigan, 56335, 4
+Minnesota, 18772, 4
+Mississippi, 66630, 4
+Missouri, 25942, 4
+Montana, 10815, 4
+Nebraska, 10504, 4
+Nevada, 68674, 4
+New Hampshire, 16442, 4
+New Jersey, 37357, 4
+New Mexico, 43490, 4
+New York, 61910, 4
+New York City, 410374, 4
+North Carolina, 60389, 4
+North Dakota, 5907, 4
+Ohio, 60345, 4
+Oklahoma, 17273, 4
+Oregon, 11587, 4
+Pennsylvania, 51172, 4
+Puerto Rico, 2696, 4
+Rhode Island, 25854, 4
+South Carolina, 24166, 4
+South Dakota, 21979, 4
+Tennessee, 39004, 4
+Texas, 158584, 4
+Utah, 70062, 4
+Vermont, 9031, 4
+Virgin Islands, 1647, 4
+Virginia, 279971, 4
+Washington, 16225, 4
+West Virginia, 51731, 4
+Wisconsin, 26074, 4
+Wyoming, 16831, 4
+Alabama, 32540, 5
+Alaska, 8126, 5
+Arizona, 72241, 5
+Arkansas, 7735, 5
+California, 129510, 5
+Colorado, 51190, 5
+Connecticut, 13046, 5
+Delaware, 6791, 5
+District of Columbia, 4658, 5
+Georgia, 117342, 5
+Hawaii, 6228, 5
+Idaho, 10550, 5
+Illinois, 216935, 5
+Indiana, 31016, 5
+Iowa, 122004, 5
+Kansas, 21834, 5
+Kentucky, 81857, 5
+Louisiana, 130599, 5
+Maine, 21310, 5
+Maryland, 36017, 5
+Massachusetts, 104791, 5
+Michigan, 51516, 5
+Minnesota, 18842, 5
+Mississippi, 56101, 5
+Missouri, 25456, 5
+Montana, 11305, 5
+Nebraska, 7891, 5
+Nevada, 67578, 5
+New Hampshire, 12987, 5
+New Jersey, 42814, 5
+New Mexico, 42024, 5
+New York, 62231, 5
+New York City, 393212, 5
+North Carolina, 49805, 5
+North Dakota, 6307, 5
+Ohio, 51479, 5
+Oklahoma, 15606, 5
+Oregon, 10769, 5
+Pennsylvania, 45145, 5
+Puerto Rico, 2695, 5
+Rhode Island, 23769, 5
+South Carolina, 21467, 5
+South Dakota, 21095, 5
+Tennessee, 35985, 5
+Texas, 155629, 5
+Utah, 64501, 5
+Vermont, 8856, 5
+Virgin Islands, 1498, 5
+Virginia, 272124, 5
+Washington, 16286, 5
+West Virginia, 46999, 5
+Wisconsin, 26265, 5
+Wyoming, 16376, 5
+Alabama, 27789, 6
+Alaska, 3325, 6
+Arizona, 69938, 6
+Arkansas, 5296, 6
+California, 107734, 6
+Colorado, 11518, 6
+Connecticut, 629, 6
+Delaware, 5490, 6
+District of Columbia, 5358, 6
+Georgia, 95149, 6
+Hawaii, 5293, 6
+Idaho, 3361, 6
+Illinois, 192967, 6
+Indiana, 17161, 6
+Iowa, 112087, 6
+Kansas, 14442, 6
+Kentucky, 79031, 6
+Louisiana, 129235, 6
+Maine, 17662, 6
+Maryland, 27156, 6
+Massachusetts, 102018, 6
+Michigan, 44521, 6
+Minnesota, 15641, 6
+Mississippi, 61832, 6
+Missouri, 16690, 6
+Montana, 5580, 6
+Nebraska, 4556, 6
+Nevada, 60429, 6
+New Hampshire, 9971, 6
+New Jersey, 28290, 6
+New Mexico, 27830, 6
+New York, 46353, 6
+New York City, 383666, 6
+North Carolina, 23896, 6
+North Dakota, 4678, 6
+Ohio, 37693, 6
+Oklahoma, 7522, 6
+Oregon, 9287, 6
+Pennsylvania, 41757, 6
+Puerto Rico, 2867, 6
+Rhode Island, 16370, 6
+South Carolina, 15653, 6
+South Dakota, 18784, 6
+Tennessee, 30482, 6
+Texas, 139349, 6
+Utah, 58646, 6
+Vermont, 5952, 6
+Virgin Islands, 1598, 6
+Virginia, 276378, 6
+Washington, 13072, 6
+West Virginia, 48824, 6
+Wisconsin, 12380, 6
+Wyoming, 14170, 6
+Alabama, 23649, 7
+Alaska, 2132, 7
+Arizona, 72313, 7
+Arkansas, 2570, 7
+California, 101986, 7
+Colorado, 12336, 7
+Connecticut, 581, 7
+Delaware, 5690, 7
+District of Columbia, 4875, 7
+Georgia, 33115, 7
+Hawaii, 4867, 7
+Idaho, 1234, 7
+Illinois, 172831, 7
+Indiana, 15328, 7
+Iowa, 106195, 7
+Kansas, 11180, 7
+Kentucky, 83046, 7
+Louisiana, 138815, 7
+Maine, 17087, 7
+Maryland, 15785, 7
+Massachusetts, 91793, 7
+Michigan, 34040, 7
+Minnesota, 13992, 7
+Mississippi, 58037, 7
+Missouri, 10611, 7
+Montana, 6270, 7
+Nebraska, 3641, 7
+Nevada, 56347, 7
+New Hampshire, 8225, 7
+New Jersey, 25438, 7
+New Mexico, 25774, 7
+New York, 42581, 7
+New York City, 379048, 7
+North Carolina, 15227, 7
+North Dakota, 3038, 7
+Ohio, 33356, 7
+Oklahoma, 8795, 7
+Oregon, 4224, 7
+Pennsylvania, 34230, 7
+Puerto Rico, 3238, 7
+Rhode Island, 15723, 7
+South Carolina, 14113, 7
+South Dakota, 19308, 7
+Tennessee, 30604, 7
+Texas, 115726, 7
+Utah, 48525, 7
+Vermont, 5438, 7
+Virgin Islands, 1419, 7
+Virginia, 261443, 7
+Washington, 9746, 7
+West Virginia, 44805, 7
+Wisconsin, 8921, 7
+Wyoming, 12836, 7
+Alabama, 25307, 8
+Alaska, 2021, 8
+Arizona, 75977, 8
+Arkansas, 2914, 8
+California, 103123, 8
+Colorado, 12071, 8
+Connecticut, 567, 8
+Delaware, 6140, 8
+District of Columbia, 4552, 8
+Georgia, 60435, 8
+Hawaii, 4773, 8
+Idaho, 546, 8
+Illinois, 170613, 8
+Indiana, 17096, 8
+Iowa, 109193, 8
+Kansas, 10546, 8
+Kentucky, 75753, 8
+Louisiana, 145060, 8
+Maine, 17825, 8
+Maryland, 19638, 8
+Massachusetts, 92166, 8
+Michigan, 33742, 8
+Minnesota, 13316, 8
+Mississippi, 62836, 8
+Missouri, 11156, 8
+Montana, 5042, 8
+Nebraska, 3412, 8
+Nevada, 55926, 8
+New Hampshire, 8050, 8
+New Jersey, 27417, 8
+New Mexico, 26553, 8
+New York, 42352, 8
+New York City, 374840, 8
+North Carolina, 13088, 8
+North Dakota, 2653, 8
+Ohio, 34458, 8
+Oklahoma, 7670, 8
+Oregon, 4287, 8
+Pennsylvania, 33791, 8
+Puerto Rico, 11567, 8
+Rhode Island, 15883, 8
+South Carolina, 13904, 8
+South Dakota, 20495, 8
+Tennessee, 32426, 8
+Texas, 127713, 8
+Utah, 64750, 8
+Vermont, 5160, 8
+Virgin Islands, 1469, 8
+Virginia, 249804, 8
+Washington, 9791, 8
+West Virginia, 40278, 8
+Wisconsin, 9385, 8
+Wyoming, 14025, 8
+Alabama, 27543, 9
+Alaska, 2748, 9
+Arizona, 79746, 9
+Arkansas, 4590, 9
+California, 96171, 9
+Colorado, 12784, 9
+Connecticut, 3057, 9
+Delaware, 5649, 9
+District of Columbia, 5237, 9
+Georgia, 75144, 9
+Hawaii, 5464, 9
+Idaho, 880, 9
+Illinois, 175656, 9
+Indiana, 21992, 9
+Iowa, 63058, 9
+Kansas, 11330, 9
+Kentucky, 76999, 9
+Louisiana, 165181, 9
+Maine, 16935, 9
+Maryland, 16129, 9
+Massachusetts, 87748, 9
+Michigan, 31594, 9
+Minnesota, 14345, 9
+Mississippi, 65669, 9
+Missouri, 13195, 9
+Montana, 7331, 9
+Nebraska, 4163, 9
+Nevada, 57090, 9
+New Hampshire, 7711, 9
+New Jersey, 23610, 9
+New Mexico, 29102, 9
+New York, 44740, 9
+New York City, 372566, 9
+North Carolina, 15215, 9
+North Dakota, 1429, 9
+Ohio, 35207, 9
+Oklahoma, 9149, 9
+Oregon, 4079, 9
+Pennsylvania, 41528, 9
+Puerto Rico, 21078, 9
+Rhode Island, 15587, 9
+South Carolina, 16767, 9
+South Dakota, 20968, 9
+Tennessee, 38247, 9
+Texas, 134369, 9
+Utah, 53742, 9
+Vermont, 5377, 9
+Virgin Islands, 1412, 9
+Virginia, 260977, 9
+Washington, 10342, 9
+West Virginia, 44140, 9
+Wisconsin, 11047, 9
+Wyoming, 13083, 9
+Alabama, 33221, 10
+Alaska, 3281, 10
+Arizona, 90730, 10
+Arkansas, 8735, 10
+California, 120637, 10
+Colorado, 14030, 10
+Connecticut, 8362, 10
+Delaware, 6068, 10
+District of Columbia, 6248, 10
+Georgia, 89165, 10
+Hawaii, 7264, 10
+Idaho, 3908, 10
+Illinois, 213793, 10
+Indiana, 27667, 10
+Iowa, 126317, 10
+Kansas, 15321, 10
+Kentucky, 65629, 10
+Louisiana, 177902, 10
+Maine, 19403, 10
+Maryland, 17213, 10
+Massachusetts, 99386, 10
+Michigan, 52683, 10
+Minnesota, 17228, 10
+Mississippi, 68941, 10
+Missouri, 20061, 10
+Montana, 9728, 10
+Nebraska, 5880, 10
+Nevada, 58336, 10
+New Hampshire, 11023, 10
+New Jersey, 30689, 10
+New Mexico, 32872, 10
+New York, 60612, 10
+New York City, 403558, 10
+North Carolina, 27395, 10
+North Dakota, 1805, 10
+Ohio, 47469, 10
+Oklahoma, 10011, 10
+Oregon, 6519, 10
+Pennsylvania, 54680, 10
+Puerto Rico, 22848, 10
+Rhode Island, 24479, 10
+South Carolina, 22039, 10
+South Dakota, 18760, 10
+Tennessee, 41911, 10
+Texas, 144545, 10
+Utah, 71752, 10
+Vermont, 7564, 10
+Virgin Islands, 1509, 10
+Virginia, 319127, 10
+Washington, 14512, 10
+West Virginia, 50992, 10
+Wisconsin, 17148, 10
+Wyoming, 14541, 10
+Alabama, 50724, 11
+Alaska, 5135, 11
+Arizona, 117803, 11
+Arkansas, 24163, 11
+California, 185599, 11
+Colorado, 15191, 11
+Connecticut, 16680, 11
+Delaware, 7034, 11
+District of Columbia, 7842, 11
+Georgia, 101434, 11
+Hawaii, 11010, 11
+Idaho, 12991, 11
+Illinois, 225072, 11
+Indiana, 36272, 11
+Iowa, 134300, 11
+Kansas, 26554, 11
+Kentucky, 93395, 11
+Louisiana, 191806, 11
+Maine, 24321, 11
+Maryland, 46371, 11
+Massachusetts, 102421, 11
+Michigan, 69006, 11
+Minnesota, 21306, 11
+Mississippi, 74914, 11
+Missouri, 30332, 11
+Montana, 13284, 11
+Nebraska, 10992, 11
+Nevada, 50210, 11
+New Hampshire, 20009, 11
+New Jersey, 40865, 11
+New Mexico, 44006, 11
+New York, 73057, 11
+New York City, 400575, 11
+North Carolina, 64411, 11
+North Dakota, 5721, 11
+Ohio, 64583, 11
+Oklahoma, 14418, 11
+Oregon, 16970, 11
+Pennsylvania, 62042, 11
+Puerto Rico, 22193, 11
+Rhode Island, 26538, 11
+South Carolina, 25321, 11
+South Dakota, 22930, 11
+Tennessee, 40062, 11
+Texas, 154852, 11
+Utah, 69047, 11
+Vermont, 13090, 11
+Virgin Islands, 1546, 11
+Virginia, 283601, 11
+Washington, 18451, 11
+West Virginia, 71633, 11
+Wisconsin, 24388, 11
+Wyoming, 24105, 11
+Alabama, 44214, 12
+Alaska, 5006, 12
+Arizona, 107763, 12
+Arkansas, 21784, 12
+California, 163720, 12
+Colorado, 12429, 12
+Connecticut, 13101, 12
+Delaware, 6795, 12
+District of Columbia, 7530, 12
+Georgia, 87140, 12
+Hawaii, 10998, 12
+Idaho, 12979, 12
+Illinois, 214249, 12
+Indiana, 33614, 12
+Iowa, 127716, 12
+Kansas, 25827, 12
+Kentucky, 87166, 12
+Louisiana, 181895, 12
+Maine, 21383, 12
+Maryland, 42477, 12
+Massachusetts, 103907, 12
+Michigan, 66399, 12
+Minnesota, 19352, 12
+Mississippi, 76508, 12
+Missouri, 25577, 12
+Montana, 11546, 12
+Nebraska, 9883, 12
+Nevada, 49775, 12
+New Hampshire, 18178, 12
+New Jersey, 39545, 12
+New Mexico, 41301, 12
+New York, 66735, 12
+New York City, 377588, 12
+North Carolina, 62347, 12
+North Dakota, 4561, 12
+Ohio, 60227, 12
+Oklahoma, 11421, 12
+Oregon, 16908, 12
+Pennsylvania, 61523, 12
+Puerto Rico, 19710, 12
+Rhode Island, 23647, 12
+South Carolina, 23590, 12
+South Dakota, 21737, 12
+Tennessee, 38363, 12
+Texas, 140027, 12
+Utah, 68498, 12
+Vermont, 14333, 12
+Virgin Islands, 1589, 12
+Virginia, 288639, 12
+Washington, 15549, 12
+West Virginia, 66394, 12
+Wisconsin, 27614, 12
+Wyoming, 21938, 12
+Alabama, 42030, 1
+Alaska, 4999, 1
+Arizona, 88828, 1
+Arkansas, 20771, 1
+California, 187125, 1
+Colorado, 15276, 1
+Connecticut, 14718, 1
+Delaware, 11629, 1
+District of Columbia, 6134, 1
+Georgia, 96644, 1
+Hawaii, 10818, 1
+Idaho, 14518, 1
+Illinois, 196572, 1
+Indiana, 32749, 1
+Iowa, 10041, 1
+Kansas, 28114, 1
+Kentucky, 74347, 1
+Louisiana, 178387, 1
+Maine, 22431, 1
+Maryland, 46657, 1
+Massachusetts, 102339, 1
+Michigan, 66131, 1
+Minnesota, 18844, 1
+Mississippi, 78501, 1
+Missouri, 28487, 1
+Montana, 13035, 1
+Nebraska, 11095, 1
+Nevada, 53211, 1
+New Hampshire, 18898, 1
+New Jersey, 33865, 1
+New Mexico, 49704, 1
+New York, 41674, 1
+New York City, 408607, 1
+North Carolina, 63382, 1
+North Dakota, 7856, 1
+Ohio, 59749, 1
+Oklahoma, 11180, 1
+Oregon, 16082, 1
+Pennsylvania, 60347, 1
+Puerto Rico, 19270, 1
+Rhode Island, 21744, 1
+South Carolina, 24101, 1
+South Dakota, 25317, 1
+Tennessee, 41683, 1
+Texas, 131326, 1
+Utah, 76678, 1
+Vermont, 14717, 1
+Virgin Islands, 1439, 1
+Virginia, 330956, 1
+Washington, 18128, 1
+West Virginia, 66927, 1
+Wisconsin, 25182, 1
+Wyoming, 25210, 1
+Alabama, 36402, 2
+Alaska, 5150, 2
+Arizona, 90026, 2
+Arkansas, 15462, 2
+California, 180304, 2
+Colorado, 14904, 2
+Connecticut, 19050, 2
+Delaware, 12410, 2
+District of Columbia, 5680, 2
+Georgia, 100489, 2
+Hawaii, 11226, 2
+Idaho, 14725, 2
+Illinois, 203161, 2
+Indiana, 35769, 2
+Iowa, 8784, 2
+Kansas, 29329, 2
+Kentucky, 79509, 2
+Louisiana, 178731, 2
+Maine, 21000, 2
+Maryland, 44315, 2
+Massachusetts, 88450, 2
+Michigan, 67836, 2
+Minnesota, 21376, 2
+Mississippi, 82017, 2
+Missouri, 33029, 2
+Montana, 13663, 2
+Nebraska, 11071, 2
+Nevada, 53572, 2
+New Hampshire, 19083, 2
+New Jersey, 28489, 2
+New Mexico, 51772, 2
+New York, 43324, 2
+New York City, 382666, 2
+North Carolina, 57776, 2
+North Dakota, 9257, 2
+Ohio, 61145, 2
+Oklahoma, 10314, 2
+Oregon, 14441, 2
+Pennsylvania, 63575, 2
+Puerto Rico, 19680, 2
+Rhode Island, 24289, 2
+South Carolina, 24101, 2
+South Dakota, 25830, 2
+Tennessee, 34185, 2
+Texas, 163915, 2
+Utah, 78122, 2
+Vermont, 14824, 2
+Virgin Islands, 1130, 2
+Virginia, 374851, 2
+Washington, 18657, 2
+West Virginia, 58507, 2
+Wisconsin, 28857, 2
+Wyoming, 26316, 2
+Alabama, 32895, 3
+Alaska, 4543, 3
+Arizona, 99283, 3
+Arkansas, 12962, 3
+California, 175470, 3
+Colorado, 13393, 3
+Connecticut, 19360, 3
+Delaware, 12183, 3
+District of Columbia, 5796, 3
+Georgia, 99305, 3
+Hawaii, 9789, 3
+Idaho, 14542, 3
+Illinois, 217422, 3
+Indiana, 32748, 3
+Iowa, 8158, 3
+Kansas, 27598, 3
+Kentucky, 83968, 3
+Louisiana, 194184, 3
+Maine, 20954, 3
+Maryland, 45193, 3
+Massachusetts, 104678, 3
+Michigan, 63756, 3
+Minnesota, 19975, 3
+Mississippi, 75767, 3
+Missouri, 21230, 3
+Montana, 12715, 3
+Nebraska, 11086, 3
+Nevada, 53323, 3
+New Hampshire, 18468, 3
+New Jersey, 31339, 3
+New Mexico, 50125, 3
+New York, 42522, 3
+New York City, 394498, 3
+North Carolina, 60647, 3
+North Dakota, 8529, 3
+Ohio, 54213, 3
+Oklahoma, 9866, 3
+Oregon, 12585, 3
+Pennsylvania, 52152, 3
+Puerto Rico, 19212, 3
+Rhode Island, 24458, 3
+South Carolina, 19865, 3
+South Dakota, 27411, 3
+Tennessee, 34757, 3
+Texas, 157335, 3
+Utah, 77765, 3
+Vermont, 13593, 3
+Virgin Islands, 1426, 3
+Virginia, 402834, 3
+Washington, 17392, 3
+West Virginia, 55575, 3
+Wisconsin, 28712, 3
+Wyoming, 23520, 3
+Alabama, 29755, 4
+Alaska, 4482, 4
+Arizona, 93648, 4
+Arkansas, 13590, 4
+California, 162114, 4
+Colorado, 12899, 4
+Connecticut, 18481, 4
+Delaware, 10156, 4
+District of Columbia, 7238, 4
+Georgia, 94495, 4
+Hawaii, 10358, 4
+Idaho, 12258, 4
+Illinois, 215301, 4
+Indiana, 31607, 4
+Iowa, 7392, 4
+Kansas, 25671, 4
+Kentucky, 89941, 4
+Louisiana, 176173, 4
+Maine, 22047, 4
+Maryland, 45055, 4
+Massachusetts, 107557, 4
+Michigan, 63832, 4
+Minnesota, 20337, 4
+Mississippi, 77654, 4
+Missouri, 28374, 4
+Montana, 11254, 4
+Nebraska, 10371, 4
+Nevada, 50524, 4
+New Hampshire, 17984, 4
+New Jersey, 29670, 4
+New Mexico, 47926, 4
+New York, 36899, 4
+New York City, 395259, 4
+North Carolina, 56296, 4
+North Dakota, 6854, 4
+Ohio, 46575, 4
+Oklahoma, 10519, 4
+Oregon, 11305, 4
+Pennsylvania, 54401, 4
+Puerto Rico, 16336, 4
+Rhode Island, 26435, 4
+South Carolina, 21911, 4
+South Dakota, 28897, 4
+Tennessee, 33837, 4
+Texas, 153376, 4
+Utah, 71546, 4
+Vermont, 10782, 4
+Virgin Islands, 1343, 4
+Virginia, 397316, 4
+Washington, 17774, 4
+West Virginia, 52679, 4
+Wisconsin, 28177, 4
+Wyoming, 16960, 4
+Alabama, 20324, 5
+Alaska, 2875, 5
+Arizona, 78751, 5
+Arkansas, 9395, 5
+California, 159651, 5
+Colorado, 12803, 5
+Connecticut, 14071, 5
+Delaware, 7749, 5
+District of Columbia, 5398, 5
+Georgia, 97321, 5
+Hawaii, 9384, 5
+Idaho, 11528, 5
+Illinois, 206724, 5
+Indiana, 25111, 5
+Iowa, 5436, 5
+Kansas, 18735, 5
+Kentucky, 86195, 5
+Louisiana, 178638, 5
+Maine, 21886, 5
+Maryland, 42171, 5
+Massachusetts, 98955, 5
+Michigan, 61272, 5
+Minnesota, 19149, 5
+Mississippi, 70465, 5
+Missouri, 25827, 5
+Montana, 11221, 5
+Nebraska, 7523, 5
+Nevada, 49433, 5
+New Hampshire, 16756, 5
+New Jersey, 31054, 5
+New Mexico, 45151, 5
+New York, 36925, 5
+New York City, 412831, 5
+North Carolina, 41188, 5
+North Dakota, 5635, 5
+Ohio, 41563, 5
+Oklahoma, 7754, 5
+Oregon, 9140, 5
+Pennsylvania, 50174, 5
+Puerto Rico, 15827, 5
+Rhode Island, 23476, 5
+South Carolina, 14053, 5
+South Dakota, 23521, 5
+Tennessee, 32277, 5
+Texas, 145840, 5
+Utah, 77733, 5
+Vermont, 7295, 5
+Virgin Islands, 1473, 5
+Virginia, 339502, 5
+Washington, 13968, 5
+West Virginia, 50187, 5
+Wisconsin, 23205, 5
+Wyoming, 14381, 5
+Alabama, 16286, 6
+Alaska, 2502, 6
+Arizona, 75517, 6
+Arkansas, 7868, 6
+California, 118703, 6
+Colorado, 11887, 6
+Connecticut, 8549, 6
+Delaware, 5912, 6
+District of Columbia, 2763, 6
+Georgia, 96725, 6
+Hawaii, 7664, 6
+Idaho, 6427, 6
+Illinois, 165483, 6
+Indiana, 17210, 6
+Iowa, 4350, 6
+Kansas, 13444, 6
+Kentucky, 83053, 6
+Louisiana, 163436, 6
+Maine, 19803, 6
+Maryland, 18254, 6
+Massachusetts, 84943, 6
+Michigan, 50366, 6
+Minnesota, 15218, 6
+Mississippi, 67627, 6
+Missouri, 10144, 6
+Montana, 6319, 6
+Nebraska, 6566, 6
+Nevada, 42696, 6
+New Hampshire, 13998, 6
+New Jersey, 25127, 6
+New Mexico, 33654, 6
+New York, 23305, 6
+New York City, 392251, 6
+North Carolina, 24916, 6
+North Dakota, 4100, 6
+Ohio, 33130, 6
+Oklahoma, 6998, 6
+Oregon, 7753, 6
+Pennsylvania, 38574, 6
+Puerto Rico, 18571, 6
+Rhode Island, 17653, 6
+South Carolina, 8016, 6
+South Dakota, 22189, 6
+Tennessee, 29994, 6
+Texas, 107901, 6
+Utah, 68340, 6
+Vermont, 3062, 6
+Virgin Islands, 1479, 6
+Virginia, 319944, 6
+Washington, 11993, 6
+West Virginia, 43705, 6
+Wisconsin, 7805, 6
+Wyoming, 13053, 6
+Alabama, 14923, 7
+Alaska, 3689, 7
+Arizona, 73114, 7
+Arkansas, 6113, 7
+California, 106513, 7
+Colorado, 12369, 7
+Connecticut, 9957, 7
+Delaware, 5803, 7
+District of Columbia, 3278, 7
+Georgia, 85509, 7
+Hawaii, 6387, 7
+Idaho, 5649, 7
+Illinois, 168343, 7
+Indiana, 13636, 7
+Iowa, 3689, 7
+Kansas, 12692, 7
+Kentucky, 78171, 7
+Louisiana, 162121, 7
+Maine, 18386, 7
+Maryland, 15594, 7
+Massachusetts, 70663, 7
+Michigan, 45174, 7
+Minnesota, 17718, 7
+Mississippi, 64371, 7
+Missouri, 10344, 7
+Montana, 6504, 7
+Nebraska, 6323, 7
+Nevada, 43377, 7
+New Hampshire, 11537, 7
+New Jersey, 23004, 7
+New Mexico, 26939, 7
+New York, 22067, 7
+New York City, 380240, 7
+North Carolina, 17502, 7
+North Dakota, 4382, 7
+Ohio, 30368, 7
+Oklahoma, 6797, 7
+Oregon, 5428, 7
+Pennsylvania, 36989, 7
+Puerto Rico, 17569, 7
+Rhode Island, 17411, 7
+South Carolina, 6488, 7
+South Dakota, 20738, 7
+Tennessee, 28136, 7
+Texas, 115469, 7
+Utah, 68022, 7
+Vermont, 2401, 7
+Virgin Islands, 1420, 7
+Virginia, 297253, 7
+Washington, 9078, 7
+West Virginia, 40908, 7
+Wisconsin, 9466, 7
+Wyoming, 10292, 7
+Alabama, 18258, 8
+Alaska, 3973, 8
+Arizona, 75099, 8
+Arkansas, 4046, 8
+California, 108838, 8
+Colorado, 12806, 8
+Connecticut, 8798, 8
+Delaware, 6013, 8
+District of Columbia, 1653, 8
+Georgia, 104068, 8
+Hawaii, 5860, 8
+Idaho, 4789, 8
+Illinois, 162870, 8
+Indiana, 15173, 8
+Iowa, 3283, 8
+Kansas, 14136, 8
+Kentucky, 79848, 8
+Louisiana, 144877, 8
+Maine, 18725, 8
+Maryland, 15883, 8
+Massachusetts, 71750, 8
+Michigan, 45352, 8
+Minnesota, 17339, 8
+Mississippi, 64727, 8
+Missouri, 9980, 8
+Montana, 7370, 8
+Nebraska, 5014, 8
+Nevada, 40155, 8
+New Hampshire, 11907, 8
+New Jersey, 25817, 8
+New Mexico, 25326, 8
+New York, 21499, 8
+New York City, 387929, 8
+North Carolina, 12302, 8
+North Dakota, 2968, 8
+Ohio, 28437, 8
+Oklahoma, 7215, 8
+Oregon, 5468, 8
+Pennsylvania, 37986, 8
+Puerto Rico, 16582, 8
+Rhode Island, 17099, 8
+South Carolina, 5727, 8
+South Dakota, 19017, 8
+Tennessee, 31279, 8
+Texas, 117073, 8
+Utah, 69567, 8
+Vermont, 4391, 8
+Virgin Islands, 1367, 8
+Virginia, 292261, 8
+Washington, 7517, 8
+West Virginia, 41038, 8
+Wisconsin, 9333, 8
+Wyoming, 10373, 8
+Alabama, 26766, 9
+Alaska, 3440, 9
+Arizona, 77053, 9
+Arkansas, 5957, 9
+California, 120498, 9
+Colorado, 12793, 9
+Connecticut, 10624, 9
+Delaware, 6147, 9
+District of Columbia, 0, 9
+Georgia, 121521, 9
+Hawaii, 5832, 9
+Idaho, 3931, 9
+Illinois, 167976, 9
+Indiana, 17721, 9
+Iowa, 5071, 9
+Kansas, 16471, 9
+Kentucky, 79408, 9
+Louisiana, 170015, 9
+Maine, 18392, 9
+Maryland, 17610, 9
+Massachusetts, 70531, 9
+Michigan, 57883, 9
+Minnesota, 18822, 9
+Mississippi, 67208, 9
+Missouri, 14591, 9
+Montana, 7659, 9
+Nebraska, 5832, 9
+Nevada, 16428, 9
+New Hampshire, 9955, 9
+New Jersey, 23081, 9
+New Mexico, 21579, 9
+New York, 26077, 9
+New York City, 387144, 9
+North Carolina, 15625, 9
+North Dakota, 3190, 9
+Ohio, 28321, 9
+Oklahoma, 7554, 9
+Oregon, 6738, 9
+Pennsylvania, 43222, 9
+Puerto Rico, 18289, 9
+Rhode Island, 19392, 9
+South Carolina, 9508, 9
+South Dakota, 15201, 9
+Tennessee, 38605, 9
+Texas, 133099, 9
+Utah, 73170, 9
+Vermont, 3489, 9
+Virgin Islands, 1342, 9
+Virginia, 306682, 9
+Washington, 11687, 9
+West Virginia, 42849, 9
+Wisconsin, 11447, 9
+Wyoming, 10756, 9
+Alabama, 27858, 10
+Alaska, 4192, 10
+Arizona, 90915, 10
+Arkansas, 8915, 10
+California, 136961, 10
+Colorado, 13213, 10
+Connecticut, 16778, 10
+Delaware, 9543, 10
+District of Columbia, 0, 10
+Georgia, 120013, 10
+Hawaii, 7276, 10
+Idaho, 7704, 10
+Illinois, 179758, 10
+Indiana, 19692, 10
+Iowa, 3735, 10
+Kansas, 20251, 10
+Kentucky, 89932, 10
+Louisiana, 175423, 10
+Maine, 18216, 10
+Maryland, 23097, 10
+Massachusetts, 82633, 10
+Michigan, 73121, 10
+Minnesota, 21887, 10
+Mississippi, 72183, 10
+Missouri, 17303, 10
+Montana, 9954, 10
+Nebraska, 7236, 10
+Nevada, 24089, 10
+New Hampshire, 13203, 10
+New Jersey, 29543, 10
+New Mexico, 33857, 10
+New York, 31083, 10
+New York City, 398806, 10
+North Carolina, 27618, 10
+North Dakota, 4307, 10
+Ohio, 46201, 10
+Oklahoma, 13376, 10
+Oregon, 12036, 10
+Pennsylvania, 51733, 10
+Puerto Rico, 18221, 10
+Rhode Island, 23650, 10
+South Carolina, 11952, 10
+South Dakota, 10949, 10
+Tennessee, 40173, 10
+Texas, 135891, 10
+Utah, 77307, 10
+Vermont, 4498, 10
+Virgin Islands, 1525, 10
+Virginia, 347206, 10
+Washington, 16815, 10
+West Virginia, 50081, 10
+Wisconsin, 19434, 10
+Wyoming, 12679, 10
+Alabama, 47412, 11
+Alaska, 6183, 11
+Arizona, 95927, 11
+Arkansas, 18845, 11
+California, 176990, 11
+Colorado, 14445, 11
+Connecticut, 21113, 11
+Delaware, 16973, 11
+District of Columbia, 7076, 11
+Georgia, 126318, 11
+Hawaii, 7630, 11
+Idaho, 11326, 11
+Illinois, 200497, 11
+Indiana, 27779, 11
+Iowa, 11475, 11
+Kansas, 30648, 11
+Kentucky, 105665, 11
+Louisiana, 183254, 11
+Maine, 22148, 11
+Maryland, 32862, 11
+Massachusetts, 93575, 11
+Michigan, 101087, 11
+Minnesota, 22405, 11
+Mississippi, 79145, 11
+Missouri, 33329, 11
+Montana, 11987, 11
+Nebraska, 14048, 11
+Nevada, 52541, 11
+New Hampshire, 16759, 11
+New Jersey, 16761, 11
+New Mexico, 48662, 11
+New York, 51189, 11
+New York City, 402842, 11
+North Carolina, 66576, 11
+North Dakota, 4946, 11
+Ohio, 75940, 11
+Oklahoma, 22882, 11
+Oregon, 19067, 11
+Pennsylvania, 63440, 11
+Puerto Rico, 18905, 11
+Rhode Island, 23241, 11
+South Carolina, 17761, 11
+South Dakota, 36458, 11
+Tennessee, 37837, 11
+Texas, 126397, 11
+Utah, 74921, 11
+Vermont, 13744, 11
+Virgin Islands, 1553, 11
+Virginia, 355188, 11
+Washington, 22774, 11
+West Virginia, 73721, 11
+Wisconsin, 28403, 11
+Wyoming, 20464, 11
+Alabama, 43960, 12
+Alaska, 3775, 12
+Arizona, 93199, 12
+Arkansas, 19594, 12
+California, 164685, 12
+Colorado, 13711, 12
+Connecticut, 22298, 12
+Delaware, 14909, 12
+District of Columbia, 10657, 12
+Georgia, 121900, 12
+Hawaii, 6598, 12
+Idaho, 11042, 12
+Illinois, 194436, 12
+Indiana, 24050, 12
+Iowa, 8510, 12
+Kansas, 28643, 12
+Kentucky, 101081, 12
+Louisiana, 178572, 12
+Maine, 20595, 12
+Maryland, 28295, 12
+Massachusetts, 91777, 12
+Michigan, 91218, 12
+Minnesota, 20695, 12
+Mississippi, 76920, 12
+Missouri, 29945, 12
+Montana, 13666, 12
+Nebraska, 12979, 12
+Nevada, 50503, 12
+New Hampshire, 15849, 12
+New Jersey, 18645, 12
+New Mexico, 45294, 12
+New York, 46723, 12
+New York City, 394299, 12
+North Carolina, 61583, 12
+North Dakota, 3163, 12
+Ohio, 71398, 12
+Oklahoma, 23648, 12
+Oregon, 17677, 12
+Pennsylvania, 58212, 12
+Puerto Rico, 19346, 12
+Rhode Island, 22277, 12
+South Carolina, 16759, 12
+South Dakota, 33542, 12
+Tennessee, 38006, 12
+Texas, 117399, 12
+Utah, 74391, 12
+Vermont, 13046, 12
+Virgin Islands, 2677, 12
+Virginia, 356001, 12
+Washington, 18616, 12
+West Virginia, 69564, 12
+Wisconsin, 25158, 12
+Wyoming, 18140, 12
+Alabama, 48466, 1
+Alaska, 3644, 1
+Arizona, 92424, 1
+Arkansas, 18529, 1
+California, 173596, 1
+Colorado, 14397, 1
+Connecticut, 16737, 1
+Delaware, 12044, 1
+District of Columbia, 8928, 1
+Georgia, 143010, 1
+Hawaii, 6929, 1
+Idaho, 11102, 1
+Illinois, 191049, 1
+Indiana, 22952, 1
+Iowa, 8602, 1
+Kansas, 27070, 1
+Kentucky, 100738, 1
+Louisiana, 176272, 1
+Maine, 21033, 1
+Maryland, 26879, 1
+Massachusetts, 92351, 1
+Michigan, 91701, 1
+Minnesota, 21650, 1
+Mississippi, 78903, 1
+Missouri, 28319, 1
+Montana, 13756, 1
+Nebraska, 13602, 1
+Nevada, 55342, 1
+New Hampshire, 18025, 1
+New Jersey, 16013, 1
+New Mexico, 45645, 1
+New York, 34511, 1
+New York City, 403658, 1
+North Carolina, 51353, 1
+North Dakota, 3504, 1
+Ohio, 69744, 1
+Oklahoma, 22406, 1
+Oregon, 18699, 1
+Pennsylvania, 53978, 1
+Puerto Rico, 25293, 1
+Rhode Island, 17588, 1
+South Carolina, 14898, 1
+South Dakota, 35646, 1
+Tennessee, 33990, 1
+Texas, 116770, 1
+Utah, 80211, 1
+Vermont, 12044, 1
+Virgin Islands, 3233, 1
+Virginia, 342822, 1
+Washington, 19285, 1
+West Virginia, 62619, 1
+Wisconsin, 23884, 1
+Wyoming, 15138, 1
+Alabama, 44869, 2
+Alaska, 6684, 2
+Arizona, 92210, 2
+Arkansas, 20742, 2
+California, 189679, 2
+Colorado, 14963, 2
+Connecticut, 20661, 2
+Delaware, 12587, 2
+District of Columbia, 10125, 2
+Georgia, 156261, 2
+Hawaii, 6755, 2
+Idaho, 11343, 2
+Illinois, 204808, 2
+Indiana, 24655, 2
+Iowa, 8692, 2
+Kansas, 30138, 2
+Kentucky, 100881, 2
+Louisiana, 183540, 2
+Maine, 19244, 2
+Maryland, 30326, 2
+Massachusetts, 90562, 2
+Michigan, 94206, 2
+Minnesota, 14278, 2
+Mississippi, 78562, 2
+Missouri, 33082, 2
+Montana, 14501, 2
+Nebraska, 13208, 2
+Nevada, 56552, 2
+New Hampshire, 18809, 2
+New Jersey, 19337, 2
+New Mexico, 53014, 2
+New York, 40974, 2
+New York City, 418835, 2
+North Carolina, 57897, 2
+North Dakota, 2941, 2
+Ohio, 75740, 2
+Oklahoma, 24383, 2
+Oregon, 19432, 2
+Pennsylvania, 60861, 2
+Puerto Rico, 24216, 2
+Rhode Island, 21669, 2
+South Carolina, 16724, 2
+South Dakota, 35139, 2
+Tennessee, 39210, 2
+Texas, 120749, 2
+Utah, 85721, 2
+Vermont, 11598, 2
+Virgin Islands, 3211, 2
+Virginia, 353640, 2
+Washington, 22267, 2
+West Virginia, 61434, 2
+Wisconsin, 25522, 2
+Wyoming, 18231, 2
+Alabama, 35904, 3
+Alaska, 7302, 3
+Arizona, 91062, 3
+Arkansas, 12659, 3
+California, 174510, 3
+Colorado, 15126, 3
+Connecticut, 19557, 3
+Delaware, 12543, 3
+District of Columbia, 8674, 3
+Georgia, 155776, 3
+Hawaii, 6618, 3
+Idaho, 10135, 3
+Illinois, 202581, 3
+Indiana, 23846, 3
+Iowa, 6613, 3
+Kansas, 27107, 3
+Kentucky, 101654, 3
+Louisiana, 193987, 3
+Maine, 20517, 3
+Maryland, 35802, 3
+Massachusetts, 94076, 3
+Michigan, 102382, 3
+Minnesota, 20104, 3
+Mississippi, 79208, 3
+Missouri, 33025, 3
+Montana, 14598, 3
+Nebraska, 13512, 3
+Nevada, 49312, 3
+New Hampshire, 18538, 3
+New Jersey, 18492, 3
+New Mexico, 55026, 3
+New York, 39871, 3
+New York City, 431830, 3
+North Carolina, 55094, 3
+North Dakota, 3142, 3
+Ohio, 75575, 3
+Oklahoma, 22611, 3
+Oregon, 18394, 3
+Pennsylvania, 54034, 3
+Puerto Rico, 20918, 3
+Rhode Island, 21752, 3
+South Carolina, 16558, 3
+South Dakota, 36003, 3
+Tennessee, 37631, 3
+Texas, 91438, 3
+Utah, 82401, 3
+Vermont, 13195, 3
+Virgin Islands, 3315, 3
+Virginia, 400810, 3
+Washington, 18243, 3
+West Virginia, 71552, 3
+Wisconsin, 24870, 3
+Wyoming, 17281, 3
+Alabama, 32519, 4
+Alaska, 6416, 4
+Arizona, 82994, 4
+Arkansas, 12374, 4
+California, 169837, 4
+Colorado, 13426, 4
+Connecticut, 19514, 4
+Delaware, 12435, 4
+District of Columbia, 9351, 4
+Georgia, 137452, 4
+Hawaii, 6458, 4
+Idaho, 6932, 4
+Illinois, 197287, 4
+Indiana, 24865, 4
+Iowa, 6261, 4
+Kansas, 26889, 4
+Kentucky, 99526, 4
+Louisiana, 182789, 4
+Maine, 21345, 4
+Maryland, 33699, 4
+Massachusetts, 90096, 4
+Michigan, 95866, 4
+Minnesota, 20763, 4
+Mississippi, 77164, 4
+Missouri, 32289, 4
+Montana, 14005, 4
+Nebraska, 13774, 4
+Nevada, 47236, 4
+New Hampshire, 19204, 4
+New Jersey, 18901, 4
+New Mexico, 48642, 4
+New York, 29111, 4
+New York City, 401691, 4
+North Carolina, 50411, 4
+North Dakota, 2871, 4
+Ohio, 68011, 4
+Oklahoma, 20493, 4
+Oregon, 16831, 4
+Pennsylvania, 53241, 4
+Puerto Rico, 23344, 4
+Rhode Island, 22115, 4
+South Carolina, 16017, 4
+South Dakota, 35970, 4
+Tennessee, 41598, 4
+Texas, 91388, 4
+Utah, 81768, 4
+Vermont, 12983, 4
+Virgin Islands, 3166, 4
+Virginia, 379511, 4
+Washington, 19479, 4
+West Virginia, 68178, 4
+Wisconsin, 24638, 4
+Wyoming, 13620, 4
+Alabama, 28639, 5
+Alaska, 5569, 5
+Arizona, 79732, 5
+Arkansas, 10075, 5
+California, 153952, 5
+Colorado, 13671, 5
+Connecticut, 8168, 5
+Delaware, 11672, 5
+District of Columbia, 6708, 5
+Georgia, 140929, 5
+Hawaii, 5254, 5
+Idaho, 6157, 5
+Illinois, 189147, 5
+Indiana, 18403, 5
+Iowa, 5586, 5
+Kansas, 24082, 5
+Kentucky, 93380, 5
+Louisiana, 185792, 5
+Maine, 20848, 5
+Maryland, 34413, 5
+Massachusetts, 89393, 5
+Michigan, 96012, 5
+Minnesota, 11349, 5
+Mississippi, 77659, 5
+Missouri, 26078, 5
+Montana, 11314, 5
+Nebraska, 11756, 5
+Nevada, 50573, 5
+New Hampshire, 16677, 5
+New Jersey, 16601, 5
+New Mexico, 44563, 5
+New York, 22975, 5
+New York City, 390026, 5
+North Carolina, 40100, 5
+North Dakota, 4217, 5
+Ohio, 57676, 5
+Oklahoma, 19079, 5
+Oregon, 14320, 5
+Pennsylvania, 44418, 5
+Puerto Rico, 21943, 5
+Rhode Island, 20010, 5
+South Carolina, 13074, 5
+South Dakota, 30974, 5
+Tennessee, 35260, 5
+Texas, 86986, 5
+Utah, 81904, 5
+Vermont, 12921, 5
+Virgin Islands, 3421, 5
+Virginia, 375585, 5
+Washington, 15167, 5
+West Virginia, 63542, 5
+Wisconsin, 21289, 5
+Wyoming, 11460, 5
+Alabama, 20778, 6
+Alaska, 4773, 6
+Arizona, 87439, 6
+Arkansas, 3538, 6
+California, 129346, 6
+Colorado, 12768, 6
+Connecticut, 3328, 6
+Delaware, 10979, 6
+District of Columbia, 6805, 6
+Georgia, 136284, 6
+Hawaii, 3647, 6
+Idaho, 1954, 6
+Illinois, 153550, 6
+Indiana, 12225, 6
+Iowa, 2935, 6
+Kansas, 13372, 6
+Kentucky, 79730, 6
+Louisiana, 182739, 6
+Maine, 18055, 6
+Maryland, 24815, 6
+Massachusetts, 76166, 6
+Michigan, 71089, 6
+Minnesota, 8902, 6
+Mississippi, 71307, 6
+Missouri, 9346, 6
+Montana, 6204, 6
+Nebraska, 6815, 6
+Nevada, 47327, 6
+New Hampshire, 13278, 6
+New Jersey, 9984, 6
+New Mexico, 25810, 6
+New York, 8823, 6
+New York City, 385407, 6
+North Carolina, 21845, 6
+North Dakota, 4262, 6
+Ohio, 40062, 6
+Oklahoma, 13022, 6
+Oregon, 8361, 6
+Pennsylvania, 38295, 6
+Puerto Rico, 21005, 6
+Rhode Island, 13934, 6
+South Carolina, 10735, 6
+South Dakota, 18328, 6
+Tennessee, 25965, 6
+Texas, 65631, 6
+Utah, 75745, 6
+Vermont, 6124, 6
+Virgin Islands, 2588, 6
+Virginia, 359617, 6
+Washington, 11181, 6
+West Virginia, 54322, 6
+Wisconsin, 11946, 6
+Wyoming, 10430, 6
+Alabama, 18536, 7
+Alaska, 5030, 7
+Arizona, 67961, 7
+Arkansas, 3864, 7
+California, 120756, 7
+Colorado, 12119, 7
+Connecticut, 4038, 7
+Delaware, 9877, 7
+District of Columbia, 6313, 7
+Georgia, 129547, 7
+Hawaii, 3524, 7
+Idaho, 2322, 7
+Illinois, 136786, 7
+Indiana, 11162, 7
+Iowa, 1491, 7
+Kansas, 12835, 7
+Kentucky, 75313, 7
+Louisiana, 181961, 7
+Maine, 17682, 7
+Maryland, 21330, 7
+Massachusetts, 61839, 7
+Michigan, 64910, 7
+Minnesota, 9040, 7
+Mississippi, 69306, 7
+Missouri, 9191, 7
+Montana, 5374, 7
+Nebraska, 6476, 7
+Nevada, 43428, 7
+New Hampshire, 10510, 7
+New Jersey, 12231, 7
+New Mexico, 28582, 7
+New York, 8574, 7
+New York City, 393352, 7
+North Carolina, 19103, 7
+North Dakota, 3222, 7
+Ohio, 36329, 7
+Oklahoma, 12217, 7
+Oregon, 4897, 7
+Pennsylvania, 35596, 7
+Puerto Rico, 19289, 7
+Rhode Island, 12727, 7
+South Carolina, 10647, 7
+South Dakota, 17604, 7
+Tennessee, 25947, 7
+Texas, 60010, 7
+Utah, 84432, 7
+Vermont, 5480, 7
+Virgin Islands, 1389, 7
+Virginia, 310864, 7
+Washington, 10769, 7
+West Virginia, 51507, 7
+Wisconsin, 8578, 7
+Wyoming, 10839, 7
+Alabama, 20935, 8
+Alaska, 4765, 8
+Arizona, 73192, 8
+Arkansas, 3148, 8
+California, 119041, 8
+Colorado, 13018, 8
+Connecticut, 3351, 8
+Delaware, 10994, 8
+District of Columbia, 6905, 8
+Georgia, 126738, 8
+Hawaii, 5234, 8
+Idaho, 2136, 8
+Illinois, 149943, 8
+Indiana, 11990, 8
+Iowa, 1600, 8
+Kansas, 13425, 8
+Kentucky, 80185, 8
+Louisiana, 162021, 8
+Maine, 17787, 8
+Maryland, 22229, 8
+Massachusetts, 65259, 8
+Michigan, 66469, 8
+Minnesota, 7769, 8
+Mississippi, 68919, 8
+Missouri, 9452, 8
+Montana, 5571, 8
+Nebraska, 7904, 8
+Nevada, 42492, 8
+New Hampshire, 8835, 8
+New Jersey, 16830, 8
+New Mexico, 24604, 8
+New York, 7555, 8
+New York City, 395507, 8
+North Carolina, 19647, 8
+North Dakota, 3227, 8
+Ohio, 37967, 8
+Oklahoma, 13640, 8
+Oregon, 5008, 8
+Pennsylvania, 36338, 8
+Puerto Rico, 16450, 8
+Rhode Island, 12610, 8
+South Carolina, 10089, 8
+South Dakota, 18578, 8
+Tennessee, 28609, 8
+Texas, 66445, 8
+Utah, 87190, 8
+Vermont, 3742, 8
+Virgin Islands, 1289, 8
+Virginia, 286092, 8
+Washington, 10773, 8
+West Virginia, 56965, 8
+Wisconsin, 7435, 8
+Wyoming, 11802, 8
+Alabama, 24408, 9
+Alaska, 4989, 9
+Arizona, 56365, 9
+Arkansas, 4970, 9
+California, 126687, 9
+Colorado, 13653, 9
+Connecticut, 6842, 9
+Delaware, 10272, 9
+District of Columbia, 8011, 9
+Georgia, 135421, 9
+Hawaii, 5551, 9
+Idaho, 2098, 9
+Illinois, 156072, 9
+Indiana, 16029, 9
+Iowa, 3503, 9
+Kansas, 14755, 9
+Kentucky, 42462, 9
+Louisiana, 188703, 9
+Maine, 18328, 9
+Maryland, 21197, 9
+Massachusetts, 84081, 9
+Michigan, 61642, 9
+Minnesota, 7386, 9
+Mississippi, 68962, 9
+Missouri, 13646, 9
+Montana, 4856, 9
+Nebraska, 7465, 9
+Nevada, 44866, 9
+New Hampshire, 7648, 9
+New Jersey, 13718, 9
+New Mexico, 24339, 9
+New York, 12981, 9
+New York City, 390647, 9
+North Carolina, 19464, 9
+North Dakota, 2749, 9
+Ohio, 45029, 9
+Oklahoma, 14577, 9
+Oregon, 5013, 9
+Pennsylvania, 50901, 9
+Puerto Rico, 18928, 9
+Rhode Island, 13934, 9
+South Carolina, 13098, 9
+South Dakota, 19287, 9
+Tennessee, 36081, 9
+Texas, 68463, 9
+Utah, 85548, 9
+Vermont, 3073, 9
+Virgin Islands, 1289, 9
+Virginia, 308367, 9
+Washington, 11417, 9
+West Virginia, 57008, 9
+Wisconsin, 10289, 9
+Wyoming, 10910, 9
+Alabama, 26538, 10
+Alaska, 5258, 10
+Arizona, 70560, 10
+Arkansas, 8187, 10
+California, 161853, 10
+Colorado, 14616, 10
+Connecticut, 13201, 10
+Delaware, 11204, 10
+District of Columbia, 10666, 10
+Georgia, 174459, 10
+Hawaii, 5775, 10
+Idaho, 7329, 10
+Illinois, 171653, 10
+Indiana, 20769, 10
+Iowa, 6685, 10
+Kansas, 19460, 10
+Kentucky, 41797, 10
+Louisiana, 197461, 10
+Maine, 19734, 10
+Maryland, 26891, 10
+Massachusetts, 105886, 10
+Michigan, 80228, 10
+Minnesota, 13273, 10
+Mississippi, 72145, 10
+Missouri, 19708, 10
+Montana, 8481, 10
+Nebraska, 9032, 10
+Nevada, 51560, 10
+New Hampshire, 10574, 10
+New Jersey, 28593, 10
+New Mexico, 31815, 10
+New York, 30456, 10
+New York City, 403985, 10
+North Carolina, 30442, 10
+North Dakota, 2636, 10
+Ohio, 53137, 10
+Oklahoma, 12533, 10
+Oregon, 11848, 10
+Pennsylvania, 57530, 10
+Puerto Rico, 20849, 10
+Rhode Island, 21422, 10
+South Carolina, 14008, 10
+South Dakota, 22893, 10
+Tennessee, 38430, 10
+Texas, 79684, 10
+Utah, 77385, 10
+Vermont, 4143, 10
+Virgin Islands, 1341, 10
+Virginia, 354542, 10
+Washington, 13732, 10
+West Virginia, 59237, 10
+Wisconsin, 14703, 10
+Wyoming, 13969, 10
+Alabama, 30624, 11
+Alaska, 5920, 11
+Arizona, 109405, 11
+Arkansas, 18120, 11
+California, 216642, 11
+Colorado, 15449, 11
+Connecticut, 17023, 11
+Delaware, 11393, 11
+District of Columbia, 11361, 11
+Georgia, 221402, 11
+Hawaii, 5503, 11
+Idaho, 8401, 11
+Illinois, 193532, 11
+Indiana, 26252, 11
+Iowa, 14593, 11
+Kansas, 29138, 11
+Kentucky, 100898, 11
+Louisiana, 188938, 11
+Maine, 21434, 11
+Maryland, 38598, 11
+Massachusetts, 117068, 11
+Michigan, 99702, 11
+Minnesota, 23350, 11
+Mississippi, 76418, 11
+Missouri, 33513, 11
+Montana, 13603, 11
+Nebraska, 12517, 11
+Nevada, 71493, 11
+New Hampshire, 15633, 11
+New Jersey, 61173, 11
+New Mexico, 43429, 11
+New York, 63157, 11
+New York City, 400608, 11
+North Carolina, 65465, 11
+North Dakota, 4838, 11
+Ohio, 84355, 11
+Oklahoma, 19044, 11
+Oregon, 24126, 11
+Pennsylvania, 63562, 11
+Puerto Rico, 18901, 11
+Rhode Island, 20749, 11
+South Carolina, 19907, 11
+South Dakota, 34133, 11
+Tennessee, 39176, 11
+Texas, 115957, 11
+Utah, 88117, 11
+Vermont, 9170, 11
+Virgin Islands, 1378, 11
+Virginia, 360937, 11
+Washington, 18732, 11
+West Virginia, 107032, 11
+Wisconsin, 15941, 11
+Wyoming, 18825, 11
+Alabama, 28669, 12
+Alaska, 6057, 12
+Arizona, 92923, 12
+Arkansas, 16461, 12
+California, 204484, 12
+Colorado, 14334, 12
+Connecticut, 15393, 12
+Delaware, 10551, 12
+District of Columbia, 9498, 12
+Georgia, 218086, 12
+Hawaii, 5086, 12
+Idaho, 7102, 12
+Illinois, 182360, 12
+Indiana, 23251, 12
+Iowa, 13676, 12
+Kansas, 26865, 12
+Kentucky, 93125, 12
+Louisiana, 180506, 12
+Maine, 20324, 12
+Maryland, 36264, 12
+Massachusetts, 116154, 12
+Michigan, 90222, 12
+Minnesota, 27006, 12
+Mississippi, 69665, 12
+Missouri, 29366, 12
+Montana, 12548, 12
+Nebraska, 12331, 12
+Nevada, 70995, 12
+New Hampshire, 15510, 12
+New Jersey, 60731, 12
+New Mexico, 43649, 12
+New York, 59187, 12
+New York City, 392140, 12
+North Carolina, 62616, 12
+North Dakota, 4532, 12
+Ohio, 72139, 12
+Oklahoma, 18421, 12
+Oregon, 21949, 12
+Pennsylvania, 56100, 12
+Puerto Rico, 18512, 12
+Rhode Island, 19483, 12
+South Carolina, 22785, 12
+South Dakota, 33485, 12
+Tennessee, 37537, 12
+Texas, 108141, 12
+Utah, 93780, 12
+Vermont, 10222, 12
+Virgin Islands, 1990, 12
+Virginia, 360652, 12
+Washington, 17440, 12
+West Virginia, 66231, 12
+Wisconsin, 14224, 12
+Wyoming, 16319, 12
+Alabama, 30510, 1
+Alaska, 6144, 1
+Arizona, 100122, 1
+Arkansas, 15370, 1
+California, 203833, 1
+Colorado, 14052, 1
+Connecticut, 10757, 1
+Delaware, 10020, 1
+District of Columbia, 8667, 1
+Georgia, 223900, 1
+Hawaii, 5520, 1
+Idaho, 7151, 1
+Illinois, 190246, 1
+Indiana, 19731, 1
+Iowa, 12505, 1
+Kansas, 26192, 1
+Kentucky, 42788, 1
+Louisiana, 212203, 1
+Maine, 19551, 1
+Maryland, 34067, 1
+Massachusetts, 117486, 1
+Michigan, 90746, 1
+Minnesota, 24364, 1
+Mississippi, 72877, 1
+Missouri, 26812, 1
+Montana, 12281, 1
+Nebraska, 11725, 1
+Nevada, 72513, 1
+New Hampshire, 14425, 1
+New Jersey, 66709, 1
+New Mexico, 45469, 1
+New York, 52701, 1
+New York City, 421271, 1
+North Carolina, 54779, 1
+North Dakota, 5798, 1
+Ohio, 79115, 1
+Oklahoma, 20076, 1
+Oregon, 19800, 1
+Pennsylvania, 52894, 1
+Puerto Rico, 17949, 1
+Rhode Island, 14501, 1
+South Carolina, 25337, 1
+South Dakota, 35767, 1
+Tennessee, 38623, 1
+Texas, 112953, 1
+Utah, 51266, 1
+Vermont, 8960, 1
+Virgin Islands, 3119, 1
+Virginia, 369524, 1
+Washington, 18045, 1
+West Virginia, 87901, 1
+Wisconsin, 20175, 1
+Wyoming, 16863, 1
+Alabama, 35285, 2
+Alaska, 6410, 2
+Arizona, 99653, 2
+Arkansas, 19764, 2
+California, 198556, 2
+Colorado, 11199, 2
+Connecticut, 16415, 2
+Delaware, 11385, 2
+District of Columbia, 9820, 2
+Georgia, 226569, 2
+Hawaii, 5701, 2
+Idaho, 7815, 2
+Illinois, 204257, 2
+Indiana, 24681, 2
+Iowa, 15360, 2
+Kansas, 29035, 2
+Kentucky, 43012, 2
+Louisiana, 215681, 2
+Maine, 18871, 2
+Maryland, 38165, 2
+Massachusetts, 115986, 2
+Michigan, 100660, 2
+Minnesota, 27414, 2
+Mississippi, 81080, 2
+Missouri, 31793, 2
+Montana, 13759, 2
+Nebraska, 12371, 2
+Nevada, 75524, 2
+New Hampshire, 14554, 2
+New Jersey, 67915, 2
+New Mexico, 50126, 2
+New York, 58158, 2
+New York City, 403600, 2
+North Carolina, 61373, 2
+North Dakota, 8445, 2
+Ohio, 86018, 2
+Oklahoma, 22815, 2
+Oregon, 23070, 2
+Pennsylvania, 57189, 2
+Puerto Rico, 19281, 2
+Rhode Island, 18372, 2
+South Carolina, 28464, 2
+South Dakota, 41027, 2
+Tennessee, 45334, 2
+Texas, 124120, 2
+Utah, 71572, 2
+Vermont, 11598, 2
+Virgin Islands, 2935, 2
+Virginia, 415067, 2
+Washington, 17680, 2
+West Virginia, 89010, 2
+Wisconsin, 27622, 2
+Wyoming, 17897, 2
+Alabama, 33015, 3
+Alaska, 6736, 3
+Arizona, 96741, 3
+Arkansas, 16202, 3
+California, 197320, 3
+Colorado, 13982, 3
+Connecticut, 14336, 3
+Delaware, 11499, 3
+District of Columbia, 10636, 3
+Georgia, 226879, 3
+Hawaii, 5484, 3
+Idaho, 7781, 3
+Illinois, 189949, 3
+Indiana, 21889, 3
+Iowa, 12692, 3
+Kansas, 26346, 3
+Kentucky, 41098, 3
+Louisiana, 215345, 3
+Maine, 20111, 3
+Maryland, 36890, 3
+Massachusetts, 113835, 3
+Michigan, 97249, 3
+Minnesota, 25553, 3
+Mississippi, 76265, 3
+Missouri, 28711, 3
+Montana, 12744, 3
+Nebraska, 12392, 3
+Nevada, 76475, 3
+New Hampshire, 13405, 3
+New Jersey, 59610, 3
+New Mexico, 45399, 3
+New York, 50681, 3
+New York City, 390190, 3
+North Carolina, 57964, 3
+North Dakota, 6837, 3
+Ohio, 81116, 3
+Oklahoma, 18793, 3
+Oregon, 21760, 3
+Pennsylvania, 47385, 3
+Puerto Rico, 18167, 3
+Rhode Island, 17409, 3
+South Carolina, 26186, 3
+South Dakota, 36742, 3
+Tennessee, 38258, 3
+Texas, 111052, 3
+Utah, 63368, 3
+Vermont, 10567, 3
+Virgin Islands, 2893, 3
+Virginia, 412821, 3
+Washington, 17507, 3
+West Virginia, 95871, 3
+Wisconsin, 25063, 3
+Wyoming, 18033, 3
+Alabama, 28268, 4
+Alaska, 5966, 4
+Arizona, 84993, 4
+Arkansas, 14399, 4
+California, 183851, 4
+Colorado, 14434, 4
+Connecticut, 16244, 4
+Delaware, 10972, 4
+District of Columbia, 9166, 4
+Georgia, 213334, 4
+Hawaii, 4921, 4
+Idaho, 6907, 4
+Illinois, 194743, 4
+Indiana, 22259, 4
+Iowa, 13431, 4
+Kansas, 26103, 4
+Kentucky, 34044, 4
+Louisiana, 207791, 4
+Maine, 17866, 4
+Maryland, 35946, 4
+Massachusetts, 119967, 4
+Michigan, 91594, 4
+Minnesota, 25708, 4
+Mississippi, 69111, 4
+Missouri, 28339, 4
+Montana, 14217, 4
+Nebraska, 11198, 4
+Nevada, 71375, 4
+New Hampshire, 14825, 4
+New Jersey, 65445, 4
+New Mexico, 41063, 4
+New York, 45698, 4
+New York City, 411221, 4
+North Carolina, 56299, 4
+North Dakota, 5956, 4
+Ohio, 77461, 4
+Oklahoma, 19250, 4
+Oregon, 19978, 4
+Pennsylvania, 49682, 4
+Puerto Rico, 12980, 4
+Rhode Island, 19020, 4
+South Carolina, 22221, 4
+South Dakota, 34646, 4
+Tennessee, 40019, 4
+Texas, 96512, 4
+Utah, 59996, 4
+Vermont, 10948, 4
+Virgin Islands, 2952, 4
+Virginia, 387264, 4
+Washington, 17344, 4
+West Virginia, 84681, 4
+Wisconsin, 19249, 4
+Wyoming, 15711, 4
+Alabama, 28129, 5
+Alaska, 5835, 5
+Arizona, 74869, 5
+Arkansas, 12541, 5
+California, 181865, 5
+Colorado, 13879, 5
+Connecticut, 12441, 5
+Delaware, 11069, 5
+District of Columbia, 5738, 5
+Georgia, 209044, 5
+Hawaii, 4404, 5
+Idaho, 6233, 5
+Illinois, 188534, 5
+Indiana, 19328, 5
+Iowa, 9038, 5
+Kansas, 20879, 5
+Kentucky, 30423, 5
+Louisiana, 205248, 5
+Maine, 16360, 5
+Maryland, 32442, 5
+Massachusetts, 110563, 5
+Michigan, 91828, 5
+Minnesota, 27418, 5
+Mississippi, 69811, 5
+Missouri, 21704, 5
+Montana, 11451, 5
+Nebraska, 8394, 5
+Nevada, 67142, 5
+New Hampshire, 13799, 5
+New Jersey, 65386, 5
+New Mexico, 38176, 5
+New York, 43964, 5
+New York City, 416495, 5
+North Carolina, 45312, 5
+North Dakota, 5489, 5
+Ohio, 67773, 5
+Oklahoma, 20475, 5
+Oregon, 18422, 5
+Pennsylvania, 48427, 5
+Puerto Rico, 10594, 5
+Rhode Island, 17033, 5
+South Carolina, 20346, 5
+South Dakota, 29887, 5
+Tennessee, 35305, 5
+Texas, 100933, 5
+Utah, 50517, 5
+Vermont, 7145, 5
+Virgin Islands, 3124, 5
+Virginia, 352324, 5
+Washington, 15903, 5
+West Virginia, 78161, 5
+Wisconsin, 13184, 5
+Wyoming, 15677, 5
+Alabama, 19393, 6
+Alaska, 5768, 6
+Arizona, 75855, 6
+Arkansas, 8624, 6
+California, 145916, 6
+Colorado, 7125, 6
+Connecticut, 2327, 6
+Delaware, 6922, 6
+District of Columbia, 7131, 6
+Georgia, 195549, 6
+Hawaii, 3903, 6
+Idaho, 2032, 6
+Illinois, 152729, 6
+Indiana, 11332, 6
+Iowa, 3531, 6
+Kansas, 11759, 6
+Kentucky, 25857, 6
+Louisiana, 192802, 6
+Maine, 13258, 6
+Maryland, 20512, 6
+Massachusetts, 97566, 6
+Michigan, 71951, 6
+Minnesota, 12989, 6
+Mississippi, 61591, 6
+Missouri, 9968, 6
+Montana, 7996, 6
+Nebraska, 5924, 6
+Nevada, 69023, 6
+New Hampshire, 9906, 6
+New Jersey, 59352, 6
+New Mexico, 25336, 6
+New York, 29737, 6
+New York City, 399103, 6
+North Carolina, 22611, 6
+North Dakota, 3403, 6
+Ohio, 37011, 6
+Oklahoma, 13373, 6
+Oregon, 15628, 6
+Pennsylvania, 36524, 6
+Puerto Rico, 10997, 6
+Rhode Island, 11833, 6
+South Carolina, 15169, 6
+South Dakota, 18758, 6
+Tennessee, 27460, 6
+Texas, 84320, 6
+Utah, 48133, 6
+Vermont, 5205, 6
+Virgin Islands, 3022, 6
+Virginia, 327965, 6
+Washington, 12515, 6
+West Virginia, 41592, 6
+Wisconsin, 9055, 6
+Wyoming, 12904, 6
+Alabama, 16621, 7
+Alaska, 4407, 7
+Arizona, 67506, 7
+Arkansas, 7044, 7
+California, 131296, 7
+Colorado, 11907, 7
+Connecticut, 1566, 7
+Delaware, 9747, 7
+District of Columbia, 8577, 7
+Georgia, 187777, 7
+Hawaii, 3867, 7
+Idaho, 991, 7
+Illinois, 141211, 7
+Indiana, 10922, 7
+Iowa, 2734, 7
+Kansas, 9228, 7
+Kentucky, 25247, 7
+Louisiana, 197389, 7
+Maine, 12863, 7
+Maryland, 13915, 7
+Massachusetts, 66345, 7
+Michigan, 56864, 7
+Minnesota, 16273, 7
+Mississippi, 58540, 7
+Missouri, 9678, 7
+Montana, 6636, 7
+Nebraska, 6112, 7
+Nevada, 65879, 7
+New Hampshire, 8603, 7
+New Jersey, 53439, 7
+New Mexico, 23380, 7
+New York, 26769, 7
+New York City, 383373, 7
+North Carolina, 14908, 7
+North Dakota, 2254, 7
+Ohio, 32772, 7
+Oklahoma, 13320, 7
+Oregon, 11998, 7
+Pennsylvania, 33193, 7
+Puerto Rico, 10690, 7
+Rhode Island, 10602, 7
+South Carolina, 13472, 7
+South Dakota, 17742, 7
+Tennessee, 23857, 7
+Texas, 74527, 7
+Utah, 58763, 7
+Vermont, 4310, 7
+Virgin Islands, 3037, 7
+Virginia, 291132, 7
+Washington, 8511, 7
+West Virginia, 33416, 7
+Wisconsin, 8893, 7
+Wyoming, 10958, 7
+Alabama, 18291, 8
+Alaska, 4948, 8
+Arizona, 73085, 8
+Arkansas, 7180, 8
+California, 143144, 8
+Colorado, 13469, 8
+Connecticut, 135, 8
+Delaware, 10878, 8
+District of Columbia, 9277, 8
+Georgia, 168807, 8
+Hawaii, 4581, 8
+Idaho, 371, 8
+Illinois, 139035, 8
+Indiana, 11381, 8
+Iowa, 2638, 8
+Kansas, 9403, 8
+Kentucky, 26197, 8
+Louisiana, 204321, 8
+Maine, 13575, 8
+Maryland, 16782, 8
+Massachusetts, 77123, 8
+Michigan, 60729, 8
+Minnesota, 16109, 8
+Mississippi, 57451, 8
+Missouri, 8618, 8
+Montana, 8452, 8
+Nebraska, 6677, 8
+Nevada, 56316, 8
+New Hampshire, 6422, 8
+New Jersey, 53634, 8
+New Mexico, 21870, 8
+New York, 28667, 8
+New York City, 371483, 8
+North Carolina, 16234, 8
+North Dakota, 2087, 8
+Ohio, 36317, 8
+Oklahoma, 15039, 8
+Oregon, 10905, 8
+Pennsylvania, 34376, 8
+Puerto Rico, 10647, 8
+Rhode Island, 11247, 8
+South Carolina, 13588, 8
+South Dakota, 19937, 8
+Tennessee, 24763, 8
+Texas, 74489, 8
+Utah, 57887, 8
+Vermont, 4218, 8
+Virgin Islands, 2485, 8
+Virginia, 271059, 8
+Washington, 10675, 8
+West Virginia, 34675, 8
+Wisconsin, 9087, 8
+Wyoming, 10010, 8
+Alabama, 18472, 9
+Alaska, 5770, 9
+Arizona, 71745, 9
+Arkansas, 7915, 9
+California, 152614, 9
+Colorado, 13301, 9
+Connecticut, 2667, 9
+Delaware, 9962, 9
+District of Columbia, 10927, 9
+Georgia, 199923, 9
+Hawaii, 5231, 9
+Idaho, 343, 9
+Illinois, 147343, 9
+Indiana, 15114, 9
+Iowa, 6653, 9
+Kansas, 11577, 9
+Kentucky, 27080, 9
+Louisiana, 207935, 9
+Maine, 13385, 9
+Maryland, 15437, 9
+Massachusetts, 72774, 9
+Michigan, 58776, 9
+Minnesota, 14900, 9
+Mississippi, 67966, 9
+Missouri, 11832, 9
+Montana, 8772, 9
+Nebraska, 4693, 9
+Nevada, 67642, 9
+New Hampshire, 6965, 9
+New Jersey, 56603, 9
+New Mexico, 25900, 9
+New York, 36746, 9
+New York City, 356957, 9
+North Carolina, 18936, 9
+North Dakota, 503, 9
+Ohio, 41128, 9
+Oklahoma, 14115, 9
+Oregon, 9319, 9
+Pennsylvania, 41909, 9
+Puerto Rico, 10185, 9
+Rhode Island, 11178, 9
+South Carolina, 16123, 9
+South Dakota, 19889, 9
+Tennessee, 31564, 9
+Texas, 72861, 9
+Utah, 60092, 9
+Vermont, 4354, 9
+Virgin Islands, 2486, 9
+Virginia, 272082, 9
+Washington, 20935, 9
+West Virginia, 32964, 9
+Wisconsin, 9047, 9
+Wyoming, 10263, 9
+Alabama, 55302, 10
+Alaska, 9412, 10
+Arizona, 57202, 10
+Arkansas, 12499, 10
+California, 173887, 10
+Colorado, 133729, 10
+Connecticut, 10102, 10
+Delaware, 11420, 10
+District of Columbia, 24394, 10
+Georgia, 192539, 10
+Hawaii, 6074, 10
+Idaho, 2095, 10
+Illinois, 167580, 10
+Indiana, 16003, 10
+Iowa, 10773, 10
+Kansas, 15579, 10
+Kentucky, 28557, 10
+Louisiana, 214888, 10
+Maine, 13203, 10
+Maryland, 25609, 10
+Massachusetts, 88044, 10
+Michigan, 89620, 10
+Minnesota, 22496, 10
+Mississippi, 73023, 10
+Missouri, 15093, 10
+Montana, 10273, 10
+Nebraska, 12538, 10
+Nevada, 68686, 10
+New Hampshire, 9921, 10
+New Jersey, 105594, 10
+New Mexico, 38031, 10
+New York, 42638, 10
+New York City, 399004, 10
+North Carolina, 29793, 10
+North Dakota, 1672, 10
+Ohio, 51936, 10
+Oklahoma, 18685, 10
+Oregon, 44912, 10
+Pennsylvania, 114465, 10
+Puerto Rico, 8711, 10
+Rhode Island, 19481, 10
+South Carolina, 21539, 10
+South Dakota, 24153, 10
+Tennessee, 36673, 10
+Texas, 104748, 10
+Utah, 85151, 10
+Vermont, 5502, 10
+Virgin Islands, 2753, 10
+Virginia, 322998, 10
+Washington, 22877, 10
+West Virginia, 36177, 10
+Wisconsin, 26193, 10
+Wyoming, 12861, 10
+Alabama, 157154, 11
+Alaska, 19801, 11
+Arizona, 75113, 11
+Arkansas, 19598, 11
+California, 200626, 11
+Colorado, 95710, 11
+Connecticut, 19457, 11
+Delaware, 11406, 11
+District of Columbia, 57953, 11
+Georgia, 193524, 11
+Hawaii, 5969, 11
+Idaho, 5878, 11
+Illinois, 187438, 11
+Indiana, 19404, 11
+Iowa, 16302, 11
+Kansas, 27545, 11
+Kentucky, 42828, 11
+Louisiana, 212291, 11
+Maine, 15748, 11
+Maryland, 34884, 11
+Massachusetts, 136732, 11
+Michigan, 108747, 11
+Minnesota, 29183, 11
+Mississippi, 58552, 11
+Missouri, 21069, 11
+Montana, 13777, 11
+Nebraska, 41926, 11
+Nevada, 73472, 11
+New Hampshire, 14019, 11
+New Jersey, 103546, 11
+New Mexico, 69883, 11
+New York, 54445, 11
+New York City, 409328, 11
+North Carolina, 67263, 11
+North Dakota, 5066, 11
+Ohio, 83590, 11
+Oklahoma, 34355, 11
+Oregon, 138270, 11
+Pennsylvania, 243105, 11
+Puerto Rico, 8861, 11
+Rhode Island, 21497, 11
+South Carolina, 28017, 11
+South Dakota, 41249, 11
+Tennessee, 35923, 11
+Texas, 113541, 11
+Utah, 81864, 11
+Vermont, 11642, 11
+Virgin Islands, 2698, 11
+Virginia, 352694, 11
+Washington, 33984, 11
+West Virginia, 48288, 11
+Wisconsin, 27468, 11
+Wyoming, 18558, 11
+Alabama, 156525, 12
+Alaska, 19165, 12
+Arizona, 63699, 12
+Arkansas, 18227, 12
+California, 188536, 12
+Colorado, 95067, 12
+Connecticut, 17130, 12
+Delaware, 10095, 12
+District of Columbia, 54175, 12
+Georgia, 189308, 12
+Hawaii, 4847, 12
+Idaho, 4780, 12
+Illinois, 177714, 12
+Indiana, 19357, 12
+Iowa, 15806, 12
+Kansas, 27879, 12
+Kentucky, 41940, 12
+Louisiana, 218610, 12
+Maine, 15097, 12
+Maryland, 29733, 12
+Massachusetts, 137139, 12
+Michigan, 104400, 12
+Minnesota, 26727, 12
+Mississippi, 76877, 12
+Missouri, 26305, 12
+Montana, 12572, 12
+Nebraska, 32787, 12
+Nevada, 73518, 12
+New Hampshire, 12243, 12
+New Jersey, 102067, 12
+New Mexico, 81882, 12
+New York, 52541, 12
+New York City, 403858, 12
+North Carolina, 65771, 12
+North Dakota, 5350, 12
+Ohio, 80100, 12
+Oklahoma, 34455, 12
+Oregon, 144726, 12
+Pennsylvania, 246865, 12
+Puerto Rico, 9442, 12
+Rhode Island, 21617, 12
+South Carolina, 24823, 12
+South Dakota, 41500, 12
+Tennessee, 36626, 12
+Texas, 112719, 12
+Utah, 85744, 12
+Vermont, 11009, 12
+Virgin Islands, 2977, 12
+Virginia, 358130, 12
+Washington, 32645, 12
+West Virginia, 48941, 12
+Wisconsin, 21793, 12
+Wyoming, 16688, 12
