@@ -9,17 +9,13 @@ health_per_month = pd.DataFrame()
 globe = pd.read_csv("datasets/state_env_data.csv")
 health = pd.read_csv("for_udit.csv")
 
-#drop non 2011 data
-health = health[health.Year == 2011]
-health = health[health.Week % 4 != 0]
-
-def devideFour(x):
-    x = int(x/4)
-    return x
-
-health['Week'].apply(devideFour)
+for index, row in health.iterrows():
+    month = int((row[2]/4))
+    if(month == 0):
+        month = 1
+    health.set_value(index, 'Week', month)
+health.rename(columns={'Week': 'month'}, inplace=True)
 
 #train_set, test_set = split_train_set(combined, .2)
 
-print(globe.info())
-print(health.head())
+health.to_csv("health_data.csv")
